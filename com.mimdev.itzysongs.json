@@ -1,0 +1,120 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ITZY",
+      "image": "file:///android_asset/image/ITZY.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ITZY",
+      "title": "SNEAKERS",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/SNEAKERS.mp3",
+      "duration": "185",
+      "lyrics": ""
+    },
+
+    {
+      "id": 2,
+      "name_category": "ITZY",
+      "title": "Voltage",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/Voltage.mp3",
+      "duration": "226",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 3,
+      "name_category": "ITZY",
+      "title": "LOCO",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/LOCO.mp3",
+      "duration": "238",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 4,
+      "name_category": "ITZY",
+      "title": "SWIPE",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/SWIPE.mp3",
+      "duration": "187",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 5,
+      "name_category": "ITZY",
+      "title": "In the morning",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/Inthemorning.mp3",
+      "duration": "184",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 6,
+      "name_category": "ITZY",
+      "title": "Not Shy",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/NotShy.mp3",
+      "duration": "184",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 7,
+      "name_category": "ITZY",
+      "title": "ICY",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/ICY.mp3",
+      "duration": "199",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 8,
+      "name_category": "ITZY",
+      "title": "DALLA DALLA",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/DALLADALLA.mp3",
+      "duration": "227",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 9,
+      "name_category": "ITZY",
+      "title": "WANNABE",
+      "image": "file:///android_asset/image/ITZY.jpg",
+      "link_mp3": "mp3/WANNABE.mp3",
+      "duration": "218",
+      "lyrics": ""
+    }
+  ]
+}
