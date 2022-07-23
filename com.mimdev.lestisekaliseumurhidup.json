@@ -1,0 +1,140 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LESTI",
+      "image": "file:///android_asset/image/LESTI.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LESTI",
+      "title": "Lesti - Bawa Aku Ke Penghulu",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/BawaAkuKePenghulu.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+
+    {
+      "id": 2,
+      "name_category": "LESTI",
+      "title": "Lesti ft Ungu - Bismillah Cinta",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/BismillahCinta.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 3,
+      "name_category": "LESTI",
+      "title": "Lesti - Egois",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/Egois.mp3",
+      "duration": "263",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 4,
+      "name_category": "LESTI",
+      "title": "Lesti - Kejora",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/Kejora.mp3",
+      "duration": "326",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 5,
+      "name_category": "LESTI",
+      "title": "Lesti - Kulepas Dengan Ikhlas",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/KulepasDenganIkhlas.mp3",
+      "duration": "369",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 6,
+      "name_category": "LESTI",
+      "title": "Lesti ft Fildan - Lebih Dari Selamanya",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/LebihDariSelamanya.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 7,
+      "name_category": "LESTI",
+      "title": "Lesti - Lentera",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/Lentera.mp3",
+      "duration": "242",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 8,
+      "name_category": "LESTI",
+      "title": "Lesti - Sekali Seumur Hidup",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/SekaliSeumurHidup.mp3",
+      "duration": "289",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 9,
+      "name_category": "LESTI",
+      "title": "Lesti ft Rizki Billar - Takdir Cinta",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/TakdirCinta.mp3",
+      "duration": "233",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 10,
+      "name_category": "LESTI",
+      "title": "Lesti - Tirani",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/Tirani.mp3",
+      "duration": "426",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 11,
+      "name_category": "LESTI",
+      "title": "Lesti - Zapin Melayu",
+      "image": "file:///android_asset/image/LESTI.jpg",
+      "link_mp3": "mp3/ZapinMelayu.mp3",
+      "duration": "268",
+      "lyrics": ""
+    }
+  ]
+}
