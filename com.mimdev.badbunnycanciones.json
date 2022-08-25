@@ -1,0 +1,131 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Bad Bunny",
+      "image": "file:///android_asset/image/BadBunny.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Bad Bunny ft Buscabulla",
+      "title": "Andrea",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Andrea.mp3",
+      "lyrics": ""
+    },
+
+    {
+      "id": 2,
+      "name_category": "Bad Bunny",
+      "title": "Efecto",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Efecto.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 3,
+      "name_category": "Bad Bunny ft Rosalia",
+      "title": "LA NOCHE DE ANOCHE",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/LA-NOCHE-DE-ANOCHE.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 4,
+      "name_category": "Bad Bunny ft Chencho Corleone",
+      "title": "Me Porto Bonito",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Me-Porto-Bonito.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 5,
+      "name_category": "Bad Bunny",
+      "title": "Me Pregunto",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Me-Pregunto.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 6,
+      "name_category": "Bad Bunny",
+      "title": "Moscow Mule",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Moscow-Mule.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 7,
+      "name_category": "Bad Bunny",
+      "title": "Neverita",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Neverita.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 8,
+      "name_category": "Bad Bunny ft Bomba Estereo",
+      "title": "Ojitos Lindos",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Ojitos-Lindos.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 9,
+      "name_category": "Bad Bunny ft Jhay Cortez",
+      "title": "Tarot",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Tarot.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 10,
+      "name_category": "Bad Bunny",
+      "title": "Un Coco",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Un-Coco.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 11,
+      "name_category": "Bad Bunny",
+      "title": "Yonaguni",
+      "image": "file:///android_asset/image/BadBunny.jpg",
+      "link_mp3": "mp3/Yonaguni.mp3",
+      "lyrics": ""
+    }
+  ]
+}
