@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "LIL NAS X",
+      "image": "file:///android_asset/image/LILNASX.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LIL NAS X",
+      "title": "HOLIDAY",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/HOLIDAY.mp3",
+      "lyrics": ""
+    },
+
+    {
+      "id": 2,
+      "name_category": "LIL NAS X ft Jack Harlow",
+      "title": "INDUSTRY BABY",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/INDUSTRY-BABY.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 3,
+      "name_category": "LIL NAS X ft Youngboy Never Broke Again",
+      "title": "Late To Da Party",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/Late-To-Da-Party.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 4,
+      "name_category": "LIL NAS X",
+      "title": "MONTERO",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/MONTERO.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 5,
+      "name_category": "LIL NAS X ft Billy Ray Cyrus",
+      "title": "Old Town Road",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/Old-Town-Road.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 6,
+      "name_category": "LIL NAS X",
+      "title": "Panini",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/Panini.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 7,
+      "name_category": "LIL NAS X ft Cardi B",
+      "title": "Rodeo",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/Rodeo.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 8,
+      "name_category": "LIL NAS X ft Doca Cat",
+      "title": "SCOOP",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/SCOOP.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 9,
+      "name_category": "LIL NAS X",
+      "title": "SUN GOES DOWN",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/SUN-GOES-DOWN.mp3",
+      "lyrics": ""
+    },
+	
+	{
+      "id": 10,
+      "name_category": "LIL NAS X",
+      "title": "THATS WHAT I WANT",
+      "image": "file:///android_asset/image/LILNASX.jpg",
+      "link_mp3": "mp3/THATS-WHAT-I-WANT.mp3",
+      "lyrics": ""
+    }
+  ]
+}
