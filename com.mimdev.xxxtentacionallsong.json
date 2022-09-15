@@ -1,0 +1,140 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "XXXTENTACION",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "XXXTENTACION",
+      "title": "Before I close my eyes",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Before-I-close-my-eyes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Before I lay me down to sleep<br>I pray the Lord my soul to keep<br>I hope it's not too late for me, whoa<br>Before I lay me down to sleep<br>I pray the Lord my soul to keep<br>I hope it's not too late for me, whoa<br><br>Difference changing in the distance<br>Time consumes our image, whoa<br>Difference changing in the distance<br>Time consumes our image, whoa<br><br>Before I lay me down to sleep<br>I pray the Lord my soul to keep<br>I hope it's not too late for me, whoa<br>Before I lay me down to sleep<br>I pray the Lord my soul to keep<br>I hope it's not too late for me, whoa</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "XXXTENTACION",
+      "title": "Carry On",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Carry-On.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Shiloh Dynasty &amp; XXXTENTACION:]<br>How did you get here?<br>I'm drunk and confused<br>I tried to be patient with you<br>Yeah<br>High up, you're falling back down<br><br>[XXXTENTACION:]<br>Trapped in a concept<br>Falsely accused<br>Misused, and misled<br>Bitch, I'm hoping you fucking rest in peace<br>Now the fact that I'm alone is fucking comforting<br>And I can't seem to shake this fucking feeling in my...<br>Uh, cold shoulder, heart broken, misspoken<br>I'm cut open, the fingers in all my stab wounds<br>And if she could, she'd prolly dance<br>On my grave, inside my head<br>I see your face, I fucking hate<br>That I love you still<br>Yeah<br><br>Carry on, life flies, so just carry on<br>With this pain inside of my chest<br>Got no choice but to carry on, uh<br>Carry on, life flies, so just carry on<br>With this pain inside of my chest<br>Got no choice but to carry on, uh<br>Carry on, life flies, so just carry on<br>With this pain inside of my chest<br>Got no choice but to carry on, uh<br>Yeah<br><br>[Shiloh Dynasty &amp; XXXTENTACION:]<br>How did you get here?<br>I'm drunk and confused<br>I tried to be patient with you, yeah<br>High up, you fucked up bad</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "XXXTENTACION",
+      "title": "Changes",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Changes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[XXXTENTACION:]<br>Mmm, baby, I don't understand this<br>You're changing, I can't stand it<br>My heart can't take this damage<br>And the way I feel, can't stand it<br>Mmm, baby, I don't understand this<br>You're changing, I can't stand it<br>My heart can't take this damage<br>And the way I feel, can't stand it<br>Mmm, baby, I don't understand it<br><br>[PnB Rock:]<br>Girl, you're making it hard for me<br>Girl, you're making it hard for me<br>Girl, you're making it hard for me, oh<br>Girl, you're making it hard for me<br>Girl, you're making it hard for me<br>Girl, you're making it hard for me<br><br>[XXXTENTACION and PnB Rock:]<br>Mmm, baby, I don't understand this<br>You're changing, I can't stand it<br>My heart can't take this damage<br>And the way I feel, can't stand it<br>Mmm, baby, I don't understand this<br>You're changing, I can't stand it<br>My heart can't take this damage<br>And the way I feel, can't stand it<br>Mmm, baby, I don't understand this<br><br>[XXXTENTACION:]<br>You're changing, I can't stand it<br>My heart can't take this damage<br>And the way I feel, can't stand it<br>Mmm, baby, I don't understand this</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "XXXTENTACION",
+      "title": "Everybody Dies In Their Nightmares",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Everybody-Dies-In-Their-Nightmares.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Shiloh Dynasty:]<br>Don't go, don't go to sleep<br>Don't go, stay up and don't go<br><br>[XXXTENTACION:]<br>Tired of feelin' like I'm trapped in my damn mind<br>Tired of feelin' like I'm wrapped in a damn lie<br>Tired of feelin' like my life is a damn game<br>Nigga really wanna die in the night time<br><br>Only time I feel pain, when I'm feelin' love<br>That's why it's tatted on my face that I'm damn numb<br>Only time I'm in my mind, when I'm all alone<br>That's why I'm never really alone in the night time<br>Change hoes like clothes, I can't get attached<br>'Cause these hoes fire starters like lit matches<br>I've been feeling really lost, ducking all attachments<br>I don't really go outside 'cause I hate traffic<br>I don't wanna go outside, gettin' caught in traffic, traffic<br><br>[Shiloh Dynasty:]<br>Don't go, don't go to sleep<br>Don't go, stay up and don't go<br><br>Tired of feelin' like I'm trapped in my damn mind<br>Tired of feelin' like I'm wrapped in a damn lie<br>Tired of feelin' like my life is a damn game<br>Nigga really wanna die in the night time<br>Tired of feelin' like I'm trapped in my damn mind<br>Tired of feelin' like I'm wrapped in a damn lie<br>Tired of feelin' like my life is a damn game<br>Nigga really wanna die in the night time<br>Tired of feelin' like I'm trapped in my damn mind<br>Tired of feelin' like I'm wrapped in a damn lie<br>Tired of feelin' like my life is a damn game<br>Nigga really wanna die in the night time<br>Nigga really wanna die in the night time<br>Nigga really wanna die in the night time<br>Nigga really wanna die in the night time, uh<br>Nigga really wanna die in the night time, uh<br>Nigga really wanna die in the night time<br><br>[Shiloh Dynasty:]<br>Don't go to sleep<br>Don't go, stay up and don't go<br>Don't go to sleep<br>Don't go, stay up and don't go<br>Don't go, don't go to sleep<br>Don't go, stay up and don't...<br></font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "XXXTENTACION",
+      "title": "Hope",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Hope.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeah<br>Rest in peace to all the kids that lost their lives in the Parkland shooting. This song is dedicated to you<br><br>OK, she keep crying, she keep crying every single night<br>Day and night, on my mind, please don't kill the vibe<br>Oh no, I swear to God, I be in my mind<br>Swear I wanna die, yeah, when you cross my&mdash;<br><br>Said I wanna die, yuh, no, I'm not alright, yuh<br>I might start a riot, yuh, I'm so fuckin' tired, yuh<br>So what's up? What you say? Feelin' good, I'm feelin' great<br>Tired of the fuckin' hate, stackin' cheese all on my plate<br><br>So outside my misery, I think I'll find<br>A way of envisioning a better life<br>For the rest of us, the rest of us<br>There's hope for the rest of us, the rest of us<br><br>OK, she keep crying, she keep crying every single night<br>Day and night, on my mind, please don't kill the vibe<br>Oh no, I swear to God, I be in my mind<br>Swear I wanna die, yeah, when you cross my&mdash;<br><br>Said I wanna die, yuh, no, I'm not alright, yuh<br>I might start a riot, yuh, I'm so fuckin' tired, yuh<br>So what's up? What you say? Feelin' good, I'm feelin' great<br>Tired of the fuckin' hate, stackin' cheese all on my plate</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "XXXTENTACION",
+      "title": "Jocelyn Flores",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Jocelyn-Flores.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Shiloh Dynasty:]<br>I know you so well, so well<br>I mean, I can do anything that he can<br>I've been pretty...<br><br>[XXXTENTACION:]<br>I know you're somewhere, somewhere<br>I've been trapped in my mind, girl, just holding on<br>I don't wanna pretend we're something, we're nothing<br>I've been stuck thinking 'bout her, I can't hold on (I'll be feeling)<br><br>I'm in pain, wanna put ten shots in my brain<br>I've been trippin' 'bout some things, can't change<br>Suicidal, same time I'm tame<br>Picture this, in bed, get a phone call<br>Girl that you fucked with killed herself<br>That was this summer when nobody helped<br>And ever since then, man, I hate myself<br>Wanna fuckin' end it, pessimistic<br>All wanna see me with no pot to piss in<br>But niggas been excited 'bout the grave I'm diggin'<br>Havin' conversations 'bout my haste decisions<br>Fuckin' sickenin'; at the same time<br>Memories surface through the grapevine<br>'Bout my uncle playin' with a slip knot<br>Post-traumatic stress got me fucked up<br>Been fucked up since the couple months they had a nigga locked up<br><br>I'll be feelin' pain, I'll be feelin' pain just to hold on<br>And I don't feel the same, I'm so numb<br>I'll be feelin' pain, I'll be feelin' pain just to hold on<br>And I don't feel the same, I'm so numb<br><br>[Shiloh Dynasty:]<br>I know you so well (I know you, girl)<br>I mean, I can do better than he can<br>I've been pretty...<br>I know you so well</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "XXXTENTACION",
+      "title": "Look At Me",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Look-At-Me.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ayy, I'm like &quot;Bitch, who is your mans?&quot;<br>Ayy, can't keep my dick in my pants<br>Ayy, my bitch don't love me no mo'<br>Ayy, she kick me out, I'm like vro<br><br>&quot;Damn son, where'd you find this?&quot;<br>Yah, ayy<br>Yah, ayy, yah<br>Ayy, haha, yah, yah, yah<br>Ayy<br>Ayy, ayy<br><br>Ayy, I'm like &quot;Bitch, who is your mans?&quot;<br>Ayy, can't keep my dick in my pants<br>Ayy, my bitch don't love me no mo'<br>Ayy, she kick me out, I'm like vro<br>Ayy, that bitch don't wanna be friends<br>Ayy, I gave her dick, she amen<br>Ayy, she put her tongue on my dick<br>Ayy, look at my wrist, about ten<br>Ayy, just got a pound of the boof<br>Ayy, brought that shit straight to the booth<br>Ayy, Tommy my Hilfiger voots<br>Ayy, she said, &quot;wan' fuck?&quot; Bitch, I do<br>Ayy, you put a gun on my mans<br>Ayy, I put a hole in your parents<br>Ayy, I just got lean on my ksubis<br>Ayy, I got a UZI, no Uzi<br><br>Fuck on me, look at me<br>Ayy, fuck on me, yah, look at me<br>Ayy, look at me, look at me<br>Yah, fuck on me, yah<br>Ayy, look at me, yah, fuck on me<br>Look at me, fuck on me<br>Yah, look at me, fuck on me<br>Yah, ayy<br><br>Tell these fuck niggas, voot me up, pipe up<br>Ayy, shouts-out Bans and them<br>Ayy<br><br>I took a white bitch to Starbucks<br>That little bitch got her throat fucked<br>I like to rock out like I'm misfit<br>My emo bitch like her wrist slit<br>Curly hair bitch like I'm Corbin<br>Got, like, three bitches, I'm Mormon<br>Skeet on your main bitch's forehead<br>Don't want your pussy, just want head<br><br>Look at me, fuck on me<br>Look at me, fuck on me<br>Look at me, fuck on me<br>Look at me, yah<br>Ayy, look at me, fuck on me<br>Look at me, fuck on me<br>Look at me, fuck on me<br>Look at me, yah</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "XXXTENTACION",
+      "title": "MOONLIGHT",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/MOONLIGHT.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeah<br><br>Spotlight, uh, moonlight, uh<br>Nigga, why you trippin'? Get your mood right, uh<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, moonlight<br>Nigga, why you trippin'? Get your mood right<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, uh, moonlight<br>Nigga, why you trippin'? Get your mood right, uh<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, moonlight<br>Nigga, why you trippin'? Get your mood right<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br><br>Feel like I'm destined<br>I don't need no Smith &amp; Wesson, no<br>Boy, who you testin'?<br>Fuck a Scantron, here's your lesson, oh<br>Knife in intestine<br>Takin' shots at all your brethren, no<br>Feel like I'm damaged<br>Girl, I know you fucking planned this<br><br>All alone, call my phone, make me feel right<br>Girl you know when you call, make me feel right<br>All alone, call my phone, make me feel right<br>Girl you know when you call, make me feel right<br><br>Spotlight, uh, moonlight, uh<br>Nigga, why you trippin'? Get your mood right, uh<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, moonlight<br>Nigga, why you trippin'? Get your mood right<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, uh, moonlight<br>Nigga, why you trippin'? Get your mood right, uh<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind<br>Spotlight, moonlight<br>Nigga, why you trippin'? Get your mood right<br>Shawty look good in the moonlight<br>All these pussy niggas so bad mind</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "XXXTENTACION",
+      "title": "NUMB",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/NUMB.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>And every single year<br>I'm drowning in my tears<br>I'm drowning in my tears again<br>I can't seem to forget the pain you seem to give<br>The pain you seem to give, my friend<br>And every single year<br>I'm drowning in my tears<br>I'm drowning in my tears again<br>I can't seem to forget the pain you seem to give<br>The pain you seem to give, my friend<br><br>Oh oh<br>Oh oh<br>Oh oh<br>Ho oh<br>Ho oh<br>Ho oh<br>Woah oh<br>Ho oh<br>Woah oh<br>Woah oh<br><br>And every single year<br>I'm drowning in my tears<br>I'm drowning in my tears again<br>I can't seem to forget the pain you seem to give<br>The pain you seem to give, my friend<br>Woah, oh<br>And every single year<br>I'm drowning in my tears<br>I'm drowning in my tears again<br>Woah, oh<br>I can't seem to forget the pain you seem to give<br>The pain you seem to give, my friend<br>Woah, oh, woah, oh, woah, oh<br><br>And every single year<br>I'm drowning in my tears<br>I'm drowning in my tears again<br>I can't seem to forget the pain you seem to give<br>The pain you seem to give, my friend<br>Woah, oh</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "XXXTENTACION",
+      "title": "Revenge",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/Revenge.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I think I, I think I finally, found a way to forgive myself<br>From mistakes I made in my past<br>I think that's the first step, right?<br>You agree?<br><br>I've dug two graves for us, my dear<br>Can't pretend that I was perfect, leaving you in fear<br>Oh man, what a world, the things I hear<br>If I could act on my revenge, then, oh, would I?<br>Some kill, some steal, some break your heart<br>And you thought that I would let it go, and let you walk<br>Well, broken hearts, break bones, so break up fast<br>And I don't wanna let it go, so in my grave I'll rot<br>I've dug two graves for us, my dear<br>Can't pretend that I was perfect, leaving you in fear<br>Oh man, what a world, the things I hear<br>If I could act on my revenge, then, oh, would I?<br>Some kill, some steal, some break your heart<br>And you thought that I would let it go, and let you walk<br>Well, broken hearts, break bones, so break up fast<br>And I don't wanna let it go, so in my grave I'll rot<br><br>In my grave, I'll rot<br>In my grave, I'll rot<br>In my grave, I'll rot<br>In my grave, I'll rot<br>In my grave, I'll rot<br>In my grave, I'll rot<br>In my grave, I'll rot<br>I'll rot, I'll rot, I'll rot<br>Is my pain your freedom?<br>Is all of my pain your freedom?<br>Enjoy...</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "XXXTENTACION",
+      "title": "SAD",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/SAD.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeah<br><br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah, I'm sad, I know, yeah<br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah, I'm sad, I know, yeah<br><br>I gave her everything<br>She took my heart and left me lonely<br>I think broken heart's contagious<br>I won't fix, I'd rather weep<br>I'm lost then I'm found<br>But it's torture being in love<br>I love when you're around<br>But I fucking hate when you leave<br><br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah<br>I'm sad, I know, yeah<br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah<br>I'm sad, I know, yeah<br><br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah<br>I'm sad, I know, yeah<br>Who am I? Someone that's afraid to let go, uh<br>You decide if you're ever gonna let me know (yeah)<br>Suicide if you ever try to let go, uh<br>I'm sad, I know, yeah<br>I'm sad, I know, yeah</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "XXXTENTACION",
+      "title": "The remedy for a broken heart",
+      "image": "file:///android_asset/image/XXXTENTACION.jpg",
+      "link_mp3": "mp3/The-remedy-for-a-broken-heart.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Why am I so in love?<br>Why am I so in love?<br>Why am I so in love?<br>I don't know why<br><br>Steady tryin' to maintain<br>Same things that'll blow a bitch mind frame<br>My brain can't fathom what the hate say<br>He say, she say, how 'bout me say?<br>Get the Vis-a, headed to the islands A-S-A-P<br>What's that on my shawty wrist? That's a AP<br>I'm the type to save a bitch, C-A-P-E<br>Feeling like ET, flying out of the Addy<br>Fucking on shawty, she baddie, casual convo then at it<br>I mean I'm better than better, maybe I'm lying<br>I'm sadder than most of y'all with the money and the freedom, nigga<br>What is money really worth if it ain't love?<br>I'ma find a perfect balance, it's gon' take time<br>I heard shawty still in love through the grapevine<br>Heard shawty still in love through the grapevine<br>Heard shawty in love through the grapevine<br><br>Mix a little bit of weed with a little bit of cash<br>With a little bit of this, with a little bit of that<br>We gon' be al-, we gon' be al- (right)<br>We gon' be al- (right) we gon' be al-<br>Mix a little bit of weed with a little bit of cash<br>With a little bit of this, with a little bit of that<br>We gon' be al-, we gon' be alright<br>We gon' be al- (right) we gon' be al-<br>Mix a little bit of weed with a little bit of cash<br>With a little bit of this, with a little bit of that<br>We gon' be al-, we gon' be al (right)<br>We gon' be alright, we gon' be al-<br>Mix a little bit of weed with a little bit of cash<br>With a little bit of this, with a little bit of that<br>We gon' be al- (right) we gon' be al-<br>We gon' be al- (right) we gon' be al-<br><br>Why am I so in love?<br>I don't know why<br>Why am I so in love?<br>I don't know why<br><br>She said I, oh, I, am falling for you, falling for you<br>I, oh, I, am falling for you, falling for you<br>I, oh, I, am falling for you, falling for you<br>I, oh, I, am falling for you, falling for you<br><br>Why am I so in love?<br>Why am I so in love?<br>Why am I so in love?<br>I don't know why<br>Why am I so in love?<br>Why am I so in love?<br>Why am I so in love?<br>I don't know why</font></p>"
+    }
+  ]
+}
