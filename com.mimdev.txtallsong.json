@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TXT",
+      "image": "file:///android_asset/image/TXT.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TXT",
+      "title": "0X1=LOVESONG",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/0X1=LOVESONG.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I know I love you<br><br>I jeroui segye sok<br>I know you're my one and only<br>I kkeuchi eopdeon eodum sok<br>Like oh my god, so holy<br>Mwodeun nae du sonkkeuteseon<br>Burinake domangga meolli<br>My life before you was a mess<br>Eonjena dan han pan igil su eopdeon cheseu<br>Oh we<br><br>Mujeogaengui badageseo<br>Neon yu1hage binnadeon gold<br>Now I can't stop thinking 'bout you<br>When I'm sinking alone<br>Eoneu nal naege natanan cheonsa<br>Deryeoga jwo neoui hometown<br>I know it's real, I can feel it<br><br>Nan munje tuseongi love sick<br>Giri eopseosseo<br>Jugeodo joasseo<br>I'm a loser in this game<br>Segyeui yu1han beopchik<br>Nareul guhaejwo<br>Nae soneul jabajwo<br>Please use me like a drug (I know I love you)<br><br>Say you love me, say you love me<br>Segyeui kkeutkkaji<br>All or nothing, I want all of you<br>I know I love you<br>Say you love me, say you love me<br>Segyeui kkeutkkaji<br>All or nothing, I give all of you<br>I know I love you<br><br>Ama nan andoel geoya<br>Cheongugen mot gal geoya<br>Nan eoulliji ana<br>Nae jari ttawi cheongugen eopseo<br>Mwodeun nae du balkkeuteseon<br>Saekkamake muldeureosseotji<br>My life before you was trash<br>Eonjena dan han bal buchil su eopdeon match<br>Oh we<br><br>Eoreumppunin igoseseo<br>Neon yu1hage binnadeon glow<br>Now I can't stop thinking 'bout you<br>When I'm sinking alone<br>Geureoda naege natanan cheonsa<br>Deryeoga jwo neoui hometown<br>I know it's real, I can feel it<br><br>Nan munje tuseongi love sick<br>Giri eopseosseo<br>Jugeodo joasseo<br>I'm a loser in this game<br>Segyeui yu1han beopchik<br>Nareul guhaejwo<br>Nae soneul jabajwo<br>Please use me like a drug (I know I love you)<br><br>Gumeong nan yeonghone sari doda<br>Chuun daegiga nogaga<br>Jeroui segye soge<br>Chajanaen neoraneun ongi<br>Nae modureul geodwoga<br>Girl, I need you<br><br>Nan munje tuseongi love sick (Oh)<br>Giri eopseosseo<br>Jugeodo joasseo (Oh)<br>I'm a loser in this game (Game)<br>Segyeui yu1han beopchik<br>Nareul guhaejwo<br>Nae soneul jabajwo<br>Please use me like a drug (I know I love you)<br><br>Say you love me, say you love me<br>Segyeui kkeutkkaji (I love you)<br>All or nothing, I want all of you<br>I know I love you<br>Say you love me, say you love me<br>Segyeui kkeutkkaji (segyeui kkeutkkaji)<br>All or nothing, I give all of you<br>I know I love you</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "TXT",
+      "title": "Anti-Romantic",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/Anti-Romantic.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I don't know who loves me<br>And I don't care eochapi nangbi<br>Seollem ttawi<br>Jom geobi nanikka<br><br>Dalkom ssapssalhan chocolate<br>Kkeut maseun hangsang gatji<br>Like saddest movies<br>Nungaen nunmulman<br><br>Nan ara<br>Dalkomhan love song<br>Maengseui geu maldo<br>Doraseomyeon gyeolguk<br>Natseon geu someone<br><br>Sorry I'm an anti-romantic<br>Daranago sipeo jeo meolli<br>Imi neol jjonneun nae maeumi<br>Jageun bulssiro taolla<br><br>Sorry I'm an anti-romantic<br>Deoneun mitji ana romantic<br>Nae mam jeonbureul da bulsareugo<br>Kkaman jaeman namge doelkka duryeowo<br><br>I know that you love me<br>Tto chwihage hae gipi<br>Neon machi champagne<br>Ireom andoeneunde<br><br>Da boijana kkeuchi<br>Sukchwiboda jidoki<br>Himdeul geojana<br>Ja, ijjeumeseo kkeunnae<br><br>So stupid<br>Dalkomhan love song<br>Sachiseureoun rom com<br>Haengbokaetdeon mankeum<br>Gyesanseoen red line<br><br>Sorry I'm an anti-romantic<br>Daranago sipeo jeo meolli<br>Imi neol jjonneun nae maeumi<br>Jageun bulssiro taolla<br><br>Sorry I'm an anti-romantic<br>Deoneun mitji ana romantic<br>Nae mam jeonbureul da bulsareugo<br>Kkaman jaeman namge doelkka duryeowo<br><br>Sorry I'm an anti-romantic<br>Daranago sipeo jeo meolli<br>Imi neol jjonneun nae maeumi<br>Jageun bulssiro taolla<br><br>Sorry I'm an anti-romantic<br>Deoneun mitji ana romantic<br>Nae mam jeonbureul da bulsareugo<br>Kkaman jaeman namge doelkka duryeowo</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "TXT",
+      "title": "BLUE HOUR",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/BLUE-HOUR.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Blue hour!<br><br>Nan eosaekhami neomu shireo geunyang utji<br>Baby I know we were special<br>Sesang hanappunin special<br><br>Neoye biweojin geu seonmulsangja gateun nunbit<br>Jeomuneun jeo taeyang sok neowa na<br>Yeah yeah I can<br><br>But it's you<br>You're the one that I want<br>You<br>Everything that I want<br>Blue<br>Nae gyeote naerin blue, modeun ge bakkwieo<br>Daseotshi oshipsambune i segyeneun areumdaweo<br><br>Cuz of imagination<br>Jeo haneure<br>Orenjibit mabeobi<br>Kkeuchi nagi jeone<br><br>Cuz of imagination<br>Geu challae<br>Can you feel the rush<br>Can you feel the rush<br>Shigana meomchweojweo<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Du segyeye gyeonggyeseon geu teume<br>Neowa nareul namgigopa<br>Come on let's do it<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Gaewa neukdaeye geu shiganen<br>Mabeob soge gachigopa<br>Blue hour!<br><br>Neoneun namane special<br>Hanappunin nae special<br>Kkume muni yeolligo<br>Chueok sok neon hyeonshillo<br><br>So tell me what to do<br>Taeyangeul meomchul clue<br>Miso jieul neol bwatji<br>Woah ohh yeah<br><br>Cuz it's you<br>You're the one that I want<br>You<br>Everything that I want<br>Blue<br>Geu sungan muldeun noeul, modeun ge bakkwieo<br>Daseotshi oshipsambune urin gyesok areumdaweo<br><br>Cuz of imagination<br>Jeo haneure<br>Orenjibit mabeobi<br>Kkeuchi nagi jeone<br><br>Cuz of imagination<br>Geu challae<br>Can you feel the rush<br>Can you feel the rush<br>Shigana meomchweojweo<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Du segyeye gyeonggyeseon geu teume<br>Neowa nareul namgigopa<br>Come on let's do it<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Gaewa neukdaeye geu shiganen<br>Mabeob soge gachigopa<br>Blue hour!<br><br>Naye taimmeoshin jeomuneun noeulbit<br>Sashil nan kkeuchi nal geol ara<br>The sun is down down down down down<br>Jeo bame nega sarajigi jeon hwansang soge neol nune dama<br><br>Cuz of imagination<br>Jeo haneure<br>Orenjibit mabeobi<br>Kkeuchi nagi jeone<br><br>Cuz of imagination<br>Geu challae<br>Can you feel the rush<br>Can you feel the rush<br>Shigana meomchweojweo<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Du segyeye gyeonggyeseon geu teume<br>Neowa nareul namgigopa<br>Come on let's do it<br><br>I wanna stay<br>(Can you feel the rush)<br>(Can you feel the rush)<br><br>Gaewa neukdaeye geu shiganen<br>Mabeob soge gachigopa<br>Blue hour!</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "TXT",
+      "title": "CROWN",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/CROWN.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Geoul sogeseo nareul meonghani boneun neon naega anya<br>Eojireoun dutonggwa something on my head<br>Idaero domangchigo shipeo sarajigo shipeo jeo meolli<br>(Guhaejweo) nan nugu I don't know who I am<br><br>Nae momi michyeonna bwa<br>Nae meorien ppuri doda<br>Eotteokhae meomchuljireul molla<br><br>Oh sesang sok na honja nappa<br>Guhaejweo eojjeomyeon nan goemuri doenjido molla<br>Got no one but you<br><br>(Who you?)<br>Beoryeojin nal chajeun neon guweonin geolkka<br>(Who you?)<br>Ne nalgaedo nawa gateun apeumin geolkka<br><br>Meorie ppuri sosa<br>But I love it<br>Neon nae wanggwani doeji<br>Dugeundugeun dugeundaeneun gamgak<br><br>Shimjangeun daehollan<br>But I love it<br>Biroso wanbyeokhaejin<br>Uri duri duri durijana<br><br>Oh oh oh oh oh<br>Oeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya<br><br>Oh oh oh oh oh<br>Goeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya<br><br>Sesangeun daeche wae irae naante<br>Haruachime ppuri dallin nae sangtae<br>Bichi isseulkka? angmaantedo<br>Geuttae nunapeseo pyeolchyeojin ne nalgae<br><br>Malhaejweo neoye banjogeul wanseonghaneun geon najana<br>Nae ireumi bulliweojin I sungan<br><br>(Who you?)<br>Beoryeojin nal chajeun neon guweonin geolkka<br>(Who you?)<br>Ne nalgaedo nawa gateun apeumin geolkka<br><br>Meorie ppuri sosa<br>But I love it<br>Neon nae wanggwani doeji<br>Dugeundugeun dugeundaeneun gamgak<br><br>Shimjangeun daehollan<br>But I love it<br>Biroso wanbyeokhaejin<br>Uri duri duri durijana<br><br>Oh oh oh oh oh<br>Oeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya<br><br>Oh oh oh oh oh<br>Goeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya<br><br>Sashil ajikdo nan jogeum buranae<br>Chagaun naengsowa oeroum junggane seo isseo<br>Nobody can understand<br><br>But it's you<br>Neoye jonjaega mabeobcheoreom nae sesangeul bakkweo<br>Nan ijen an apa<br>(I got crown on my head)<br><br>Meorie ppuri sosa<br>But I love it<br>Neon nae wanggwani doeji<br>Dugeundugeun dugeundaeneun gamgak<br><br>Shimjangeun daehollan<br>But I love it<br>Biroso wanbyeokhaejin<br>Uri duri duri durijana<br><br>Oh oh oh oh oh<br>Oeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya<br><br>Oh oh oh oh oh<br>Goeroum meomchweora masuri suri<br><br>Oh oh oh oh oh<br>Ya ya ya</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "TXT",
+      "title": "Good Boy Gone Bad",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/Good-Boy-Gone-Bad.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeongweoniran mal wie motjilhae gwanttukkeongeul deopeo<br>Neon yakhaeppajyeosseotteon nal wanjeonhi bakkweonwasseo<br>Nan nega dwego shipeo jongil geoul ape seoseo<br>Eolgureul halkwieo, shimjangeul samkyeo<br><br>Nareul beorideon neoege<br>Kkoril heundeureotteon nae past<br>I just killed me with all that stress<br>Ijen da sanggwaneopseo nan<br><br>Buseojin gibuneun waenji nappeuji ana<br>Hanshimhaetteon naldeulboda<br>Watch watch gotta watch watch me yeah<br>(Nan nal jugyeo jugyeonwa)<br><br>Da naeda beoryeo good boys gone bad<br>Da beoryeo good boys gone bad<br>Neol saranghaetteon good boys gone bad<br>Now<br>(Deo nal busweo busweonwa)<br><br>Nae gaseumpagen hyungteo gone bad<br>Shimjangeul geutgo gone dead<br>Nega aldeon that good boy's gone bad<br>Now<br>(Nan nal jugyeo jugyeonwa)<br><br>Good boy gone bad<br>(Good boy gone bad, good boy gone bad<br>Good boy gone bad, good boy gone bad)<br>Good boy gone bad<br>(Good boy gone bad, good boy gone bad<br>Good boy gone bad, good boy gone bad)<br><br>Ne ane sonyeoneul jiweonaen daeum<br>Manggajin nae moseubeul chaeweonwa<br>Nan machi zombiecheoreom dead alive<br>Sarange mudeom wie taeeona<br><br>Soljikhi deo mame deune<br>Wanjeonhi dallajin nae face<br>I just killed me with all that pain<br>Ijen da sanggwaneopseo nan<br><br>Nungameun jeolmange bameun waenji dalkomhae<br>Ohiryeo jayuroweo nan<br>Watch watch gotta watch watch me yeah<br>(Nan nal jugyeo jugyeonwa)<br><br>Da naeda beoryeo good boys gone bad<br>Da beoryeo good boys gone bad<br>Neol saranghaetteon good boys gone bad<br>Now<br>(Deo nal busweo busweonwa)<br><br>Nae gaseumpagen hyungteo gone bad<br>Shimjangeul geutgo gone dead<br>Nega aldeon that good boy's gone bad<br>Now<br>(Nan nal jugyeo jugyeonwa)<br><br>Good boy gone bad<br><br>Ne jagugeul tteudeonaen mam<br>Neoye heunjeokdeuri heulleonawa<br>Love is a lie, I loved that lie<br>Taeweobeoryeo burn it out<br><br>Jibeochiweo love gaena jweo forever<br>Pi daeshin heulleo monochrome diamonds<br>Killed it I killed it myself<br>Gondubakjil bureojin nalgaero<br>Churakhaedo apeuji ana anymore<br>I like being bad<br><br>Da naeda beoryeo good boys gone bad<br>Da beoryeo good boys gone bad<br>Neol saranghaetteon good boys gone bad<br>Now<br>(Deo nal busweo busweonwa)<br><br>Nae gaseumpagen hyungteo gone bad<br>Shimjangeul geutgo gone dead<br>Nega aldeon that good boy's gone bad<br>Now<br>(Nan nal jugyeo jugyeonwa)<br><br>Good boy gone bad<br>(Good boy gone bad, good boy gone bad<br>Good boy gone bad, good boy gone bad)<br>Good boy gone bad<br>(Good boy gone bad, good boy gone bad<br>Good boy gone bad, good boy gone bad)<br><br>Good boy gone bad</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "TXT",
+      "title": "LOSER=LOVER",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/LOSER=LOVER.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I'm a LO$ER I'm a LO$ER<br><br>Hoesaekbit chareul tago<br>Daranago isseo<br>Bireomeogeul sesang neomeo<br><br>Ne soneul jabeun nae son<br>Sangcheoppunijiman<br>It doesn't matter when I'm with you<br><br>Igil su eopdeon fighting, bleeding, losing ijen jichyeosseo<br>Gajil su eopdamyeon I f**kin' keep it low<br>Crying, crying, crying ijen jibeochyeo<br>Love you love you love you<br>No matter what I do<br><br>I say &quot;Run&quot;<br>Michin deut keuge useojwo<br>Nunmureun ije good bye, time to say<br><br>&quot;Run&quot;<br>Jeoldae dwidoraboji ma<br>Du sonen hunnit bands<br>I'm a LO$ER<br><br>I'm a LO$ER I'm a LO$ER<br>Lover with a $ dollar sign<br>Is a LO$ER<br><br>I'm a LO&#9825;ER I'm a LO&#9825;ER<br>Lover with a $ dollar sign<br>Is a LO$ER<br><br>Jeonjaeng gateun life<br>Jigiman haesseotdeon na<br>Neon nae guwonieosseo<br>No doubt no doubt no doubt<br><br>Byeorang kkeuteseo<br>Neoui bichi nareul ikkeureo<br>Making me a winner<br>So right so right so right<br><br>Mitbadageseo crawling, fighting, bleeding ijen jichyeosseo<br>Geojeolhagetdamyeon I f**kin' take it all<br>Crying, crying, crying ijen jibeochyeo<br>Love you love you love you<br>No matter what I do<br><br>I say &quot;Run&quot;<br>Michin deut keuge useojwo<br>Nunmureun ije good bye, time to say<br><br>&quot;Run&quot;<br>Jeoldae dwidoraboji ma<br>Du sonen hunnit bands<br>I'm a LO$ER<br><br>I'm a LO$ER I'm a LO$ER<br>Lover with a $ dollar sign<br>Is a LO$ER<br><br>I'm a LO&#9825;ER I'm a LO&#9825;ER<br>Lover with a $ dollar sign<br>Is a LO$ER<br><br>Ttwieonaeryeo from this highway<br>Pyeolchin chae bureojin nalgae<br>Yeongwoneul hyanghae flyin'<br>Anganhim sseobwado churakae<br><br>Neowa hamkkeramyeon<br>Churakdo areumdawo<br>Haneurui bandaepyeoneuro<br>Gikkeoi na garaanja<br><br>Geujeo seororeul anajwosseumyeon hae<br>Nae eoseolpeun bihaeng kkeunnal ttaejjeumen<br>Moduga nal biuseodo I don't care<br>Garaango sipeo neoui badae<br><br>I say &quot;Run&quot;<br>Michin deut keuge useojwo<br>Nunmureun ije good bye, time to say<br><br>&quot;Run&quot;<br>Jeoldae dwidoraboji ma<br>Du sonen hunnit bands<br>I'm a LO$ER<br><br>I'm a LO$ER I'm a LO$ER<br>Lover with a $ dollar sign<br>Is a LO$ER<br><br>I'm a LO&#9825;ER I'm a LO&#9825;ER<br>Lover with a $ dollar sign<br>Is a LO$ER</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "TXT",
+      "title": "Magic",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/Magic.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Remember how I used to be so<br>Stuck in one place so cold<br>Feeling like my heart just froze<br>Nowhere to go<br>With no one, nobody<br><br>Suddenly you came through<br>Making me make a move<br>Nobody got it like you<br>I can't look away<br>I can't<br><br>Cause baby you're a real one real one<br>Teaching me to feel something so strong<br>We could reach out and grab it<br><br>Oh it's just like magic<br>Feeling your touch<br>Oh it's a rush<br>No one else has it<br>Oh just like magic<br><br>Oh it's just like magic<br>Holding me tight<br>Giving me life<br><br>Oh it's magic<br>Oh it's magic<br>(Oh it's just like magic)<br><br>Oh it's magic, oh it's magic<br>(Just like magic)<br>Oh it's magic<br>Magic<br><br>Used to be so afraid<br>Fraid of all the games we played<br>Waited around all day<br>Nowhere to go<br>With no one, nobody<br><br>Hoping someone would save me<br>Till you called out my name<br>Something in me just changed<br>Got me awake<br>Got me<br><br>Baby you're a real one real one<br>Teaching me to feel something so strong<br>We could reach out and grab it<br><br>Oh it's just like magic<br>Feeling your touch<br>Oh it's a rush<br>No one else has it<br>Oh just like magic<br><br>Oh it's just like magic<br>Holding me tight<br>Giving me life<br><br>Oh it's magic<br>Oh it's magic<br>(Oh it's just like magic)<br><br>(Everybody clap your hands<br>If you've got a broken heart just take a chance<br>I say everybody clap your hands<br>If you've got a broken heart just take a chance)<br><br>Oh it's just like magic<br>Feeling your touch<br>Oh it's a rush<br>No one else has it<br>Oh just like magic<br><br>Oh it's just like magic<br>Holding me tight<br>Giving me life<br><br>Oh it's magic<br>Oh it's magic<br>(Oh it's just like magic)<br><br>(Everybody clap your hands<br>If you've got a broken heart just take a chance<br>I say everybody clap your hands<br>If you've got a broken heart just take a chance)</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "TXT",
+      "title": "PS5",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/PS5.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Whoa<br><br>Eyes up, you've been gone for a fortnight<br>My love, are you stuck in a fake life?<br>Can't win, if the prize is to waste your time<br>Now it's wasting mine<br><br>And I know that we're close but I'm lonely<br>Make me your only, won't win a trophy<br>But can it kiss you like this when you hold me?<br>Missing it low-key, I'll say it slowly<br><br>It's me or the PS5<br>Tell me how you wanna spend your night<br>Three's feeling way too tight<br>So if it's not me, then I'm probably gonna run it over<br>Me or the PS5<br>Tell me which of us is more your type<br>Seems like you can't decide<br>So if it's not me, then I'm probably gonna run it over<br><br>My love, know I'm in for the long ride (in for the long ride)<br>I'm not playing games of the wrong kind<br>Could be keeping secrets and telling lies<br>But I'm just online, and I can promise you<br>I'll never play ya, I'll find a way to<br>Show you I'm grateful, so I'm begging you<br>Two minutes only, you'll get a trophy<br>I'm staying faithful<br><br>It's me and the PS5<br>Tell me why you making me decide? (Yeah)<br>Please, don't you see I'm live? (I'm live)<br>So if you don't leave, I can find a way to win you over<br>Me and the PS5<br>Least you know where I'ma be at night<br>Score's never been this high (so high)<br>So if you don't leave, I can find a way to win you over<br><br>Me or the PS5<br>Me or the PS5<br>Me or the PS5</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "TXT",
+      "title": "Ring",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/Ring.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Sotto yubi de tsukutta wa no naka ni<br>Mabushii tsuki o kasanetara<br>Mata kimi no egao katte ni kokoro ga omoidashita<br><br>Ch&#299;sana sukima no muk&#333;<br>Ano hi no bokurano-y&#333;<br>Nozokeba subete ga<br><br>Oshiete yo<br><br>Kimi janai dareka no aishi-kata dake ga<br>D&#333;shitemo d&#333;shitemo wakaranai mama de<br>Nando asa ga koyou to<br>Meniutsuru sekai ni kimi o mata sagashi teru<br>Shiro shiro saigo no kisuwoshite dekita sukima no oku<br>Kirakira-kun no namida wa sotto hazushita yubiwa yori kagayaita<br><br>Sore ga kimirashi-sa nopacede<br>Koko kara ga kimidake nospace<br>Butsukaranai y&#333; ni mienaipende hiku sen<br>Otagai no styleo y&#363;sen deki teru ki<br>Demo hont&#333;ha &quot;awanai&quot;<br>S&#333; iwa reru no ga kowakatta<br>Fuwatto sa se toite genjitsu kara me sorashite<br><br>Soto shita yubiwa no muk&#333;<br>Ano hi no kimi no uso<br>Nozoite mite hosh&#299; nda<br><br>Inainoni<br><br>Boku janai dareka o aishi teru kimi o<br>D&#333;shitemo d&#333;shitemo mitometakunakute<br>Nando akirameyou to<br>Me o fusaide kokoro wa kimi o mada itoshi teru<br><br>Kono wakare ni imi ga hitotsudake arunara<br>Kin&#333; to wa motto chigau boku ni kawaru tame<br><br>Oshiete yo<br><br>Kimi janai dareka no aishi-kata dake ga<br>D&#333;shitemo wakaranai wakaranai mama de<br>Nando akirameyou to<br>Meniutsuru sekai ni kimi o mada sagashi teru<br>Shiro shiro saigo no kisuwoshite dekita sukima no oku<br>Kirakira-kun no namida wa sotto hazushita yubiwa yori kagayaita</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "TXT",
+      "title": "Run Away",
+      "image": "file:///android_asset/image/TXT.jpg",
+      "link_mp3": "mp3/Run-Away.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Naman ppaego da haengbokhan geotman gata<br>Uneun geotboda useul ttaega deo apa<br>Maennal chamaboryeo haedo beotyeoboryeo haedo<br>Geuge jal andwae, jigeum naegen ne soni piryohae<br><br>Geureol ttaen, nunmuri nal ttaen<br>Nae soneul kkwak jaba, domanggalkka?<br>Sumgyeojin guwa sabune samen<br>Hamkkeyeoya gal su isseo<br><br>Bibidi babidi yeolchaga chulbalhane<br>Bibidi babidi uriye maejik aillaendeu<br>I teoneoreul jinamyeon nuneul tteugo namyeon<br>Kkumsogeun hyeonshiri dwae<br><br>Nae yeongwonhi dwaejwo nae ireum bulleojwo<br>Run away, run away, run away with me<br>Sesange kkeuteseo forever together<br>Run away babe naege daedab haejwo<br><br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Neowa na hamkkeramyeon haneul wireul dallyeo<br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Jigeum nal deryeoga jwo uriraneun mabeobe<br><br>I don't, I don't wanna wake up<br>Nae jipangineun allam beureikeo<br>Uju sogeul urin heeom<br>Du gaeye kkoribyeori dweeo bungee<br>It's okay, don't be afraid<br>Uriga hamkkehae<br><br>I bami kkeutnaryeo hal ttaen<br>Shigyereul dwegama jigeum rewind<br>Geumjidwen jangnangwa i magic hour<br>Pureun bit bukkochi pieo<br><br>Haneulbit mabeobjin, gyoshireul saekchilhallae<br>Sohwane jumuni neowa nal ieo juge<br>I teoneoreul jinamyeon nuneul tteugo namyeon<br>Kkumsogeun hyeonshiri dwae<br><br>Nae yeongwonhi dwaejwo nae ireum bulleojwo<br>Run away, run away, run away with me<br>Sesange kkeuteseo forever together<br>Run away babe naege daedab haejwo<br><br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Neowa na hamkkeramyeon haneul wireul dallyeo<br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Jigeum nal deryeoga jwo uriraneun mabeobe<br><br>Kamkamhan bam geu gyedan miteseo<br>Neol bon sungan mabeobeun shijakdwaesseo<br>Ne nunmullo jumuneul mandeulja<br>Dashin ulji anke<br><br>Nae yeongwonhi dwaejwo nae ireum bulleojwo<br>Run away, run away, run away with me<br>Sesange kkeuteseo forever together<br>Run away babe naege daedab haejwo<br><br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Neowa na hamkkeramyeon haneul wireul dallyeo<br>Malhaejwo yes 'ani'neun no<br>Don't wanna stay ja ije go<br>Jigeum nal deryeoga jwo uriraneun mabeobe</font></p>"
+    }
+  ]
+}
