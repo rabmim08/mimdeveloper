@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "IU",
+      "image": "file:///android_asset/image/IU.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "IU",
+      "title": "BBIBBI",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/BBIBBI.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hi there insahae hodeulgap eopsi<br>Sijakhaeyo seoron eopsi<br><br>Seukinsibeun sayanghalgeyo back off back off<br>Idaero johayo balance balance<br><br>It's me nayeyo dareul geo eopsi<br>Yojeumen mwongayo nae gasip<br><br>Tamsaekhaneun bulbit scanner scanner<br>Oneureun myeot jeomingayo? jealous jealous<br><br>Jyaeneun daeche wae jeoreon oseul johahandam?<br>Gibuneul al su eopsneun jeo pyojeongeun mworam?<br>Taega dallajin geon ama seuteureseu ttaemuninga?<br>Geokjeongiya jyaedo cham<br><br>Yellow C A R D<br>I seon neomeumyeon chimbeomiya beep<br>Maeneoneun yeogikkaji it's ma ma ma mine<br>Please keep the la la la line<br><br>Hello stu P I D<br>Geu seon neomeumyeon jeongsaegiya beep<br>Stop it geori yujihae cause we don't know know know know<br>Comma we don't owe owe owe owe<br>(Anything)<br><br>I don't care dangsinui bimiri mwonji<br>Jeomadaui sajeong yeoksi<br>Jeongjunghi sayanghalgeyo not my business<br>Idaero johayo talk talkless<br><br>Still me ttoyeyo nollal geo eopsi<br>I'm sure you're gonna say &quot;my gosh&quot;<br><br>Bappajineun nunbit checki cheking<br>Maeil teullin geurim chajgi hash tagging<br><br>Kkoskkoshage geotdaga ppikkeut neomeojilla<br>Dadeul sugundaeneun geol jagin ana molla<br>Yosae mari manheun gyaerang eoullindana?<br>Munjeya jyaedo cham<br><br>Yellow C A R D<br>I seon neomeumyeon chimbeomiya beep<br>Maeneoneun yeogikkaji it's ma ma ma mine<br>Please keep the la la la line<br><br>Hello stu P I D<br>Geu seon neomeumyeon jeongsaegiya beep<br>Stop it geori yujihae cause we don't know know know know<br>Comma we don't owe owe owe owe<br>(Anything)<br><br>Pyeonhage haji mwo<br>Eo geogi neo nae mal ara deureo? eo?<br>I don't believe it<br><br>Ei ajik moreul geol<br>Nae mal teullyeo? tto naman nappeo? eo?<br>I don't believe it<br><br>Kkamppagi kyeo gyoyangi eopseo neo knock knock knock<br>Enough deo sangdae an hae block block block block block<br>Jal moreugesseumyeon ijen jom oewo babe<br>Repeat repeat<br>Cham swipji right<br><br>Yellow C A R D<br>I seon neomeumyeon chimbeomiya beep<br>Maeneoneun yeogikkaji it's ma ma ma mine<br>Please keep the la la la line<br><br>Hello stu P I D<br>Geu seon neomeumyeon jeongsaegiya beep<br>Stop it geori yujihae cause we don't know know know know<br>Comma we don't owe owe owe owe<br>(Anything)</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "IU",
+      "title": "Blueming",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/Blueming.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>'Mweohae?'raneun du geuljae<br>'Nega bogo shipeo' naye songmaeumeul dama u<br>Imotigon hanaana soge<br>Dallajineun nae mimyohan shimrireul akka u<br><br>Ani bappeuji ana nothing no no<br>Jamdeureo itji ana insomnia nia nia<br>Jigeum dareun saramgwa hamkkeiji ana<br>Eung, nado neoreul saenggak jung<br><br>Uriye nemo kaneun bloom<br>Eomjisongarageuro jangmikkocheul piweo<br>Hyanggie chwihal geot gata u<br>Ojik dulmane bimire jeongweon<br><br>I feel bloom I feel bloom I feel bloom<br>Neoege han songireul deo bonae<br><br>Bamsaem jageopeuro update<br>Heungmiroun i jakpume jieuni that's me u<br>Eojjeom i gwangyeye climax<br>2mageuro neomeogagien jigeumi good timing u<br><br>Gateun mamin geol ara real-la-lize<br>Mareul goreuji mara just reply la la ly<br>Jogeum jangnanseureoun naye eunyue<br>Ne haeseogi gunggeumhae<br><br>Uriye saegeun gray and blue<br>Eomjisongarageuro malpungseoneul ttiweo<br>Geumse teojil geot gata u<br>Hoheubi gappajyeo eojireoweo<br><br>I feel blue. I feel blue. I feel blue.<br>Neoege gadeukhi chaeweo<br><br>Ttieosseugieopshibonaelgesarangingeotgatae<br>Baengmansongijangmikkocheul, narangpiweobollae?<br>Kkochipe saegeun uri maeum ganeun daero chilhae<br>Shideul ttaedo yeppeuge<br><br>Uriye nemo kaneun bloom<br>Eomjisongarageuro jangmikkocheul piweo<br>Hyanggie chwihal geot gata u<br>Ojik dulmane bimire jeongweon<br><br>I feel bloom I feel bloom I feel bloom<br>Neoege han songireul deo bonae</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "IU",
+      "title": "Celebrity",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/Celebrity.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Sesange moseori<br>Gubujeonghage keobeorin<br>Golchitgeori outsider<br><br>Georeumgeori, otcharim<br>Ieopon neomeo play list<br>Eumakkkaji da minor<br><br>Neon moreuji<br>Tteolgun gogae wi<br>Hwanhan bit jomyeongi<br>Eodil bichuneunji<br><br>Neuryeodo joeuni<br>Gyeolguk alge dwegil<br>The one and only<br>You are my celebrity<br><br>Itjima neon heurin eodum sai<br>Wensoneuro geurin byeol hana<br>Boini geu yuilhami eolmana<br>Areumdaunji marya<br>You are my celebrity<br><br>Celebrity<br>You are my celebrity<br><br>Jichyeobeorin pyojeong machi<br>Jeonweoneul kkeonoeun deushi<br>Shimjangsorin too quiet<br><br>Nega gajin banjjakgeorim<br>Sangsangnyeok, identity<br>Kkaji mojori diet<br><br>Neon moreuji<br>Ajik motta pin<br>Neol wihae sseuyeojin<br>Oraedwen sarangshi<br><br>Hemaedo joeuni<br>Useum jitge dwegil<br>The one and only<br>You are my celebrity<br><br>Itjima neon heurin eodum sai<br>Wensoneuro geurin byeol hana<br>Boini geu yuilhami eolmana<br>Areumdaunji marya<br>You are my celebrity<br><br>Baljagukmada ieojin byeoljari<br>Geu seotureun georeumi saegyeonoeun mitgeurim<br>Oroshi neoreul mannareo ganeun gil<br>Geuriro gamyeon dwae jeomseoneul ttara<br><br>Itjima i oraen gyeoul sai<br>Eon teumeuro piul kkot hana<br>Boini haru dwi bomi eolmana<br>Areumdaulji marya<br>You are my celebrity<br><br>Celebrity<br>You are my celebrity</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "IU",
+      "title": "eight",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/eight.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[IU:]<br>So are you happy now<br>Finally happy now yeah<br><br>Mweo geudaeroya nan<br>Da ireobeorin geot gata<br><br>Modeun ge mamdaero wattaga insado eopshi tteona<br>Idaeroneun mueotto saranghago shipji ana<br>Da haejil daero haejyeobeorin<br>Gieok sogeul yeohaenghae<br><br>Urineun orenji taeyang arae<br>Geurimja eopshi hamkke chumeul chweo<br>Jeonghaejin ibyeol ttawineun eopseo<br>Areumdaweotteon geu gieogeseo manna<br>Forever young<br><br>Uuu uuuu uuu uuuu<br>Forever we young<br>Uuu uuuu<br>Ireon angmongiramyeon yeongyeong kkaeji aneulge<br><br>[SUGA:]<br>Seom geurae yeogin seom seoroga mandeun jageun seom<br>Ye eum forever young yeongweoniran mareun moraeseong<br><br>Jakbyeoreun machi jaenanmunja gatji<br>Geuriumgwa gachi majihaneun achim<br>Seoroga i yeonggeopeul jina<br>Kkok i seomeseo dashi manna<br><br>[IU:]<br>Jinadeut nal wirohadeon nuguye maldaero gojak<br>Han ppyeomjjari chueogeul inneun ge cham shwipji ana<br>Shigani jinado yeojeoni<br>Nal butdeuneun geugose<br><br>Urineun orenji taeyang arae<br>Geurimja eopshi hamkke chumeul chweo<br>Jeonghaejin annyeong ttawineun eopseo<br>Areumdaweotteon geu gieogeseo manna<br><br>Urineun seororeul bego nuweo<br>Seulpeuji aneun iyagireul nanweo<br>Uulhan gyeolmal ttawineun eopseo<br>Nan yeongweoni neol i gieogeseo manna<br>Forever young<br><br>Uuu uuuu uuu uuuu<br>Forever we young<br>Uuu uuuu<br>Ireon angmongiramyeon yeongyeong kkaeji aneulge</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "IU",
+      "title": "LILAC",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/LILAC.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Narineun kkotgarue nuni ttakkeumhae (aya)<br>Nunmuri goyeodo kkuk chameullae<br>Nae maeum hankyeon bimilseureon oreugore neoeodugoseo<br>Yeongwonhi doegameul sunganinikka<br><br>Uri durui majimak peijireul jal butakae<br>Eoneu jakbyeori iboda wanbyeokalkka<br>Love me only till this spring<br><br>O raillak kkochi jineun nal good bye<br>Ireon gyeolmari eoullyeo<br>Annyeong kkochip gateun annyeong<br>Haiyan uri bomnarui climax<br>A eolmana gippeun iriya<br><br>Ooh ooh<br>Love me only till this spring<br>Bombaramcheoreom<br>Ooh ooh<br>Love me only till this spring<br>Bombaramcheoreom<br><br>Gibuni dara konnorae bureune (ralla)<br>Ipkkorineun saljjak ollin chae<br>Eojjeom ireoke haneureun deo barameun tto wanbyeokan geonji<br>Oneulttara nae moseup mame deureo<br><br>Cheoeum mannan geunalcheoreom yeppeudago malhaejullae<br>Eoneu ibyeori itorok dalkomhalkka<br>Love resembles misty dream<br><br>O raillak kkochi jineun nal good bye<br>Ireon gyeolmari eoullyeo<br>Annyeong kkochip gateun annyeong<br>Haiyan uri bomnarui climax<br>A eolmana gippeun iriya<br><br>Ooh ooh<br>Love resembles misty dream<br>Tteungureumcheoreom<br>Ooh ooh<br>Love resembles misty dream<br>Tteungureumcheoreom<br><br>Neodo eonjenga nal itge doelkka<br>Jigeum pyojeonggwa oneurui hyanggido<br>Danjam saie seuchyeogan<br>Bomnarui kkumcheoreom<br><br>O raillak kkochi jineun nal good bye<br>Neoui daedabi nal ullyeo<br>Annyeong yaksok gateun annyeong<br>Haiyan uri bomnare climax<br>A eolmana gippeun iriya<br><br>Ooh ooh<br>Love me only untill this spring<br>Bombaramcheoreom<br>Ooh ooh<br>Love me only untill this spring<br>Bombaramcheoreom<br>Ooh ooh<br>Love resembles misty dream<br>Tteungureumcheoreom<br>Ooh ooh<br>Love resembles misty dream<br>Tteungureumcheoreom</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "IU",
+      "title": "Love poem",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/Love-poem.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Nugureul wihae nugunga<br>Gidohago inna bwa<br><br>Sumjugyeo sseun sarangshiga<br>Natge deullineun deuthae<br><br>Neoegero seonmyeonghi naraga<br>Neujji anke jarie dakireul<br><br>I'll be there hollo geonneun neoye dwie<br>Singing till the end geuchiji aneul i norae<br>Aju jamshiman gwi giuryeo bwa<br>Yunani gin bameul geonneun neol wihae bureulge<br><br>Tto han beon neoye sesange<br>Byeori jigo inna bwa<br><br>Sumjugyeo samkin nunmuri<br>Yeogi heureuneun deuthae<br><br>Hal mareul ireo goyohan maeume<br>Gieokcheoreom deullyeooneun moksori<br><br>I'll be there hollo geonneun neoye dwie<br>Singing till the end geuchiji aneul i norae<br>Aju keodaran sumeul shwieo bwa<br>Sori nae uneun beobeul ijeun neol wihae bureulge<br><br>(Dashi georeogal su ittorok)<br>Bureulge<br>(Dashi saranghal su ittorok)<br><br>Here i am jigyeobwa nareul, nan jeoldae<br>Singing till the end meomchuji ana i norae<br>Neoye gin bami kkeunnaneun geunal<br>Gogaereul deureo barabon geugose isseulge</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "IU",
+      "title": "My sea",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/My-sea.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Geureona sigani jinado<br>Amulji anneun ildeuri itji<br>Naega nal onjeonhi saranghaji mothaeseo<br>Mami gananhan bamiya<br><br>Geoul soge majuchin eolguri eosaekaeseo<br>Seupgwancheoreom joyonghi nuneul gama<br>Bami doemyeon seodulleo naeillo gago sipeo<br>Sumaneun sowon arae maeil dareun kkumeul kkudeon<br><br>Aineun geureoke oraen sigan<br>Gyeou naega doeryeogo apatdeon geolkka<br>Ssaineun harumankeum deo meoreojyeo<br>Urineun hwahaehal su eopseul geot gata<br>Naajiji aneul geot gata<br><br>Eorin nal nae mamen yeongwonhi<br>Gamulji anneun badaga isseotji<br>Ijeneun heunjeongmani nama huimihan geugosen<br><br>Seollemeuro chaoreudeon naui sumsoriwa<br>Meori wiro seonseonhi buneun baram<br>Padoga doeeo eodirodeun dallyeogago sipeo<br>Jageun duryeoum arae cheoncheonhi du nuneul tteumyeon<br><br>Sesangeun geureoke modeun sungan<br>Naegero wa nunbusin seonmuri doego<br>Suthage uisimhadeon naneun geujeya<br>Naege daedapal su isseul geot gata<br><br>Seon neomeoe gieogi<br>Nareul bureugo isseo<br>Aju oraen sigan dongan<br>Itgo itdeon moksorie<br><br>Mulgyeoreul geoseulleo na doraga<br>Nae anui badaga taeeonan goseuro<br><br>Hwipsseullyeo gireul ileodo jayurowa<br>Deoisang nal gaduneun eodume nun gamji ana<br>Du beon dasi nal moreun cheok haji ana<br><br>Geureomedo yeojeonhi gakkeumeun<br>Salege jineun naldeuldo itgetji<br>Ttodasi hemaeiljirado doraoneun gireul ara</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "IU",
+      "title": "Palette",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/Palette.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>isanghagedo yojeumen<br>geunyang swiun ge joha<br>hagin geuraedo yeojeonhi<br>korin eumakeun johdeora<br>Hot pinkboda<br>jinhan borasaekeul deo johahae Mmm<br>tto mwodeora danchu itneun<br>Pyjamas, lipstick<br>jom jitgujeun jangnandeul<br><br>I like it I'm twenty five<br>nal johahaneun geo ala<br>Ooh I got this I'm truly fine<br>ije jogeum al geot gata nal<br><br>gin meoriboda<br>bandeusi jareun danbali joha<br>hagin geuraedo<br>joheun nal bureul ttaen cham yeppeotdeora<br>Oh wae geureolkka<br>jogeum chonseureoun geol johahae Mmm<br>geurimboda ppaegokhi chaeun<br>Palette, ilgi, jamdeuleotdeon sigandeul<br><br>I like it I'm twenty five<br>nal miwohaneun geo ala<br>Ooh I got this I'm truly fine<br>ije jogeum al geot gata nal<br><br>eoryeoseo modeun ge eoryeowo<br>jansorie, 'mae' seoreowo<br>kkujungman deutdeon cheolbuji, 'ae'<br>gyeou seumugogae neomeo<br>gippeumdo jamsi eomeo?!<br>apeunikka wen cheongchunirae<br><br>jieuna oppaneun maliya<br>jigeum mak seoreuninde,<br>naneun jeoldaero aniya<br>geunde mak eoreuni dwae<br>ajikdo hancham meoleotneunde<br>neoboda daseot sal bakke an meokeotneunde<br><br>seumul wi, seoreun arae<br>'gomamttae' Right there<br>aedo eoreundo anin nai ttae<br>geujeo 'na'il ttae<br>gajang chanranhage bichi na<br>eodumi deuriwojil ttaedo geobnaeji ma<br><br>neomu areumdawoseo kkotip hwaljjak pyeoseo<br>eonjena sarangbadneun ai You<br>Palette, (Eh) ilgi, (Eh) jamdeuleotdeon sigandeul<br><br>I like it I'm twenty five<br>nal johahaneun geo ala<br>Ooh I got this (I got this) I'm truly fine<br>ije jogeum al geot gata nal<br>(ajik hal mali manha)<br><br>I like it (Like it) I'm twenty five (Oh)<br>nal miwohaneun geo ala<br>Ooh I got this (I got this) I've truly found<br>ije jogeum al geot gata nal</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "IU",
+      "title": "strawberry moon",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/strawberry-moon.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Dari igeogani seodulleo jeolmeun piya<br>Mindeulle han songi deulgo<br>Sarangi eojireoi tteodanineun bamiya<br>Naraga sappunhi iruryeom<br><br>Paengpaenghan eodum sairo<br>Tteooreuneun gibun<br>I geodaehan mujungnyeoke hok hwicheonghaedo<br>Duryeopjin aneul kkeoya<br><br>Pureureun uri wiro<br>Keodaran strawberry moon han seugup<br>Naege neoreul matgyeobollae eh-oh<br><br>Barameul serojilleo<br>Naraoreuneun gibun so cool<br>Salmi eotteoke deo wanbyeokae ooh<br><br>Dashi majuhagi eoryeoun haenguniya<br>Onmome shimjangi ttwieo<br>Oh ohiryeo gikkeoi hemaegopeun bamiya<br>Neowa gil ireul su ittamyeon<br><br>Matjabeun seoroye soneuro<br>Churipgureul heomun<br>I muhanhame kkeutgwa kkeut tto wiaraero<br>Bihaengeul tteonal kkeoya<br><br>Pureureun uri wiro<br>Keodaran strawberry moon han seugup<br>Naege neoreul matgyeobollae eh-oh<br><br>Barameul serojilleo<br>Naraoreuneun gibun so cool<br>Salmi eotteoke deo wanbyeokae ooh<br><br>Nollaweo iboda<br>Kkumgateun sungani tto isseulkka<br>(Deo isseulkka)<br>Amado uriga cheoeum balgyeonhan<br>Oneul i bame modeun geot, geu wiro nara<br><br>Pureureun uri wiro<br>Keodaran strawberry moon han seugup<br>Sesangeul gajyeoboni eottae eh-oh<br><br>Barameul serojilleo<br>Naraoreuneun gibun so cool<br>Salmi eotteoke deo wanbyeokae ooh</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "IU",
+      "title": "Through the Night",
+      "image": "file:///android_asset/image/IU.jpg",
+      "link_mp3": "mp3/Through-the-Night.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>i bam geunare banditbureul<br>dangshine chang gakkai bonaelgeyo<br>eum saranghandaneun marieyo<br><br>na uriye cheot ipmajchumeul tteoollyeo<br>geureom eonjedeun nuneul gamgo<br>eum gajang meon goseuro gayo<br><br>nan padoga meomuldeon<br>morae wie jeokhin geulsshicheoreom<br>geudaega meolli<br>sarajyeo beoril geot gata<br>neul geuriweo geuriweo<br><br>yeogi nae maeumsoge<br>modeun mareul<br>da kkeonaeeo jul sun eopsjiman<br>saranghandaneun marieyo<br><br>eotteoke naege<br>geudaeran haenguni on geolkka<br>jigeum uri hamkke itdamyeon<br>a eolmana joeulkkayo<br><br>nan padoga meomuldeon<br>morae wie jeokhin geulsshicheoreom<br>geudaega meolli<br>sarajyeo beoril geot gata<br>tto geuriweo deo geuriweo<br><br>naye ilgijang ane<br>modeun mareul<br>da kkeonaeeo jul sun eopsjiman<br>saranghandaneun mal<br><br>i bam geunare banditbureul<br>dangshine<br>chang gakkai ttiulgeyo<br>eum joeun kkum igil barayo</font></p>"
+    }
+  ]
+}
