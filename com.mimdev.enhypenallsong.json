@@ -1,0 +1,141 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ENHYPEN",
+      "image": "file:///android_asset/image/ENHYPEN.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ENHYPEN",
+      "title": "Blessed-Cursed",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Blessed-Cursed.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>We go!<br><br>Wake up, ije nuneul tteo<br>Gatja chukbok sogeseo<br>I wanna be wanna be on my way, I bet<br><br>Nal gaduneun gyeonggyeseon<br>Ne rul ttawin jibeochiweo<br>I wanna be wanna I, way, I bet<br><br>Kkeojin jul arasseo, nae mamsok tadeon yeoreumi<br>Dalkomhan ibsullo nal gildeurin i Property<br>Mome geolchin Luxury, Blue pill gachi naye nun garine<br>Tell me, do I get blessed or do I get cursed?<br>I just want to know<br><br>Yusangachi geonnejin seungni, jomyeong dwie gamchweojin bimil<br>Marioneteuye sagak aneseo chumeul chudeon nayeosseo<br>Don't wanna stay, ije kkaedareun jinshiri<br>Nareul bulleo, meolliseo nareul bulleo (Let's go)<br><br>Just stop, don't tell me what to do<br>Hunjang gateun jeoju<br>I jeoju soge, I'll be ok, no pain, no pain<br><br>Jeo bit neomeoye Liar, urin hyeonshillo Fade in<br>I geojitteul sai, hyeonsaeng sogeuro daibing<br>And I walk like a lion, nae yeoksareul nan Making<br>Molla jeongdab ttawin, nae bangshikdaero gaji<br>Goes on and on<br><br>Wake up, ije nuneul tteo<br>Gatja chukbok sogeseo<br>I wanna be wanna be on my way, I bet<br><br>Nal gaduneun gyeonggyeseon<br>Ne rul ttawin jibeochiweo<br>I wanna be wanna I, way, I bet<br><br>I don't want, I don't want<br>Yeongjeom jjari geu jeongdab<br>Ije nan itji ana<br>Nalgaereul kkeokkeonoeun geu Lie<br><br>Don't wanna miss, ajik sum shwineun nadaumi<br>Nareul bulleo, meolliseo nareul bulleo (Let's go)<br><br>Just stop, don't tell me what to do<br>Hunjang gateun jeoju<br>I jeoju soge, I'll be ok, no pain, no pain<br><br>Jeo bit neomeoye Liar, urin hyeonshillo Fade in<br>I geojitteul sai, hyeonsaeng sogeuro daibing<br>And I walk like a lion, nae yeoksareul nan Making<br>Molla jeongdab ttawin, nae bangshikdaero gaji<br>Goes on and on<br><br>Wake up, ije nuneul tteo<br>Gatja chukbok sogeseo<br>I wanna be wanna be on my way, I bet<br><br>Nal gaduneun gyeonggyeseon<br>Ne rul ttawin jibeochiweo<br>I wanna be wanna I, way, I bet</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "ENHYPEN",
+      "title": "Drunk-Dazed",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Drunk-Dazed.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Areumdapgo hwangholhae<br>Banjjagineun nae gangmageun daiamondeu<br>Gyuchik eomneun segyeneun<br>Jeonbu dwijipyeo dwijipyeo seoisseo<br><br>Turning up the party, now<br>Haneuren nae bari, Wow<br>Saramdeureun Ha ha, high<br>Nae gwitsogeneun La la, loud<br>Nunbusyeo, Baby<br>I jomyeong, Shining<br>We're in love with this carnival<br><br>Sasil museowo nan<br>Chulleongineun jansok i chwihan segye<br>Geu kkeuten mogi taneun nae mam<br>But I just wanna stay<br><br>Neukkyeojyeo, nae meorin Daze, daze, daze<br>Jungdoge ppajyeo Replay, play, play<br>Wonham wonhaneun daero<br>Gal ttaekkaji gabwa Go<br>Nareul gadun Carnival wow, wow<br>Dasi nae simjangi Daze, daze, daze<br>Can't control my body dance, dance, dance<br>Dalkomhan i hyanggido<br>Bulgeunbit songgonnido<br>Jeulgyeobwa, i Carnival wow, wow<br><br>Mmm gyeonggyeseoneul neomeo nal bulleo nal<br>Modeun geosi bakkwieo, modu muneojyeo<br>Jamgin mun neomeo son ppeodeo nan<br>Gotongi nal bangyeo, galjeungui hyangyeon<br><br>Sasil duryeowo nan<br>Geoul sogui naega natseolgiman hae<br>I gamyeon dwi chorahan jinsil<br>But I never escape<br><br>Neukkyeojyeo, nae meorin Daze, daze, daze<br>Jungdoge ppajyeo Replay, play, play<br>Wonham wonhaneun daero<br>Gal ttaekkaji gabwa Go<br>Nareul gadun Carnival wow, wow<br>Dasi nae simjangi Daze, daze, daze<br>Can't control my body dance, dance, dance<br>Dalkomhan i hyanggido<br>Bulgeunbit songgonnido<br>Jeulgyeobwa, i Carnival wow, wow<br><br>Naege jueojin geu bit<br>Seonghwaui bulgil Ah<br>Juini doel ttaekkaji Imma ride<br><br>Neukkyeojyeo, nae meorin Daze, daze, daze<br>Jungdoge ppajyeo Replay, play, play<br>Wonham wonhaneun daero<br>Gal ttaekkaji gabwa Go<br>Nareul gadun Carnival wow, wow<br>Dasi nae simjangi Daze, daze, daze<br>Can't control my body dance, dance, dance<br>Dalkomhan i hyanggido<br>Bulgeunbit songgonnido<br>Jeulgyeobwa, i Carnival wow, wow<br><br>Nan nareul kkaewo<br>Simjangeul taewo<br>Nae kkumeul chaewo<br>Nan nareul kkaewo<br>Simjangeul taewo<br>Nae kkumeul chaewo</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "ENHYPEN",
+      "title": "FEVER",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/FEVER.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Give me fever<br><br>Eoreum gateun nun, geu bulgeun nunbit<br>Breaking me in two, nareul heundeulji<br>Wangjwae anjeun ne ape seol ttae<br>Nae ane taneun bulgil<br><br>What I gotta do, tteugeoun soni<br>Neoreul chajado I cannot have it<br>Neoege sondaeseon an dwae, jeoldae<br>Hajiman ikkeulliji<br>Nan apeulsurok neol wonhae<br><br>Meomchwo jebal, meomchuji ma<br>Meomchwo jebal, meomchuji ma (Ah)<br><br>Neo ttaemune onmomi taolla<br>Neo ttaemune simjangi mongmalla<br>Like a fever, fever, fever, fever<br>Neol ango sipeo<br>Neol ango sipeo<br>Mireonaedo nae ane taolla<br>Jaega dwaedo bulkkochi pieona<br>Like a fever, fever, fever<br>Neol alko sipeo<br>Neol alko sipeo<br><br>Don't stop! (Stop!)<br>Geurae all day, all day taewojwo<br>Please stop! (Stop!)<br>Naui taeyangiyeo geuman Baby, oh baby (Ooo)<br>Ireon nal eotteoke jom haejwo eotteoke jom nal<br><br>Nal noajwo nal anajwo<br>Nal noajwo nal anajwo<br><br>Neo ttaemune onmomi taolla<br>Neo ttaemune simjangi mongmalla<br>Like a fever, fever, fever, fever<br>Neol ango sipeo<br>Neol ango sipeo<br>Mireonaedo nae ane taolla<br>Jaega dwaedo bulkkochi pieona<br>Like a fever, fever, fever<br>Neol alko sipeo<br>Neol alko sipeo<br><br>Neo ttaemune onmomi taolla<br>Neo ttaemune simjangi mongmalla<br>Like a fever, fever, fever, fever<br>Neol ango sipeo<br>Neol ango sipeo<br>Mireonaedo nae ane taolla<br>Jaega dwaedo bulkkochi pieona<br>Like a fever, fever, fever<br>Neol alko sipeo<br>Neol alko sipeo<br></font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "ENHYPEN",
+      "title": "Future Perfect (Pass the MIC)",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Future-Perfect-(Pass-the-MIC).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>&quot;Walk the line&quot; (Ayy)<br>I hate that line (Ayy)<br>Nan kkaedarasseo (Ayy)<br>Hamkke dallyeosseo (Woah)<br>I'll pass the mic (Ayy)<br>Pass the mic (Ayy)<br>You stay still?<br>You stay? You stay?<br><br>I got pushed, pushed (I got pushed, pushed)<br>Tteomillyeo wasseo (Ayy, ayy)<br>Kkoripyoneun given and tamed, yeah<br>Ontong sudongtae<br>Kill the past, geunyang kkeojyeo<br>Geunyang kkeojyeo, jagyeogeul nonhae? (nonhae?)<br>Naneun eopseo (Woah), ne gadurisogen, nah (Ayy, ayy)<br>Babojiseun gwandugesseo<br>Ijeseoya algedwaesseo<br>Give me that mic, igeon day one<br><br>Naui ballo seogil wonhae<br>Aningeon uimieopseo<br>Jinjja nae moksorireul kkeonae<br>Uriui miraereul geuryeonae<br>Hamkke oechyeo<br>Meon hunnal meon hunnari wallyodoel geu sungan<br>Hamkke oechyeo<br>Neowa na, neowa naneun uriga doengeoya<br><br>Dadeul soneul deureo (Oh-oh-oh)<br>Hal mal isseum deureo (Oh-oh-oh)<br>Come on, come on<br>Deuruwa, deuruwa<br>I'll pass the mic<br>Pass the mic, pass the mic, oh-oh-oh<br>Neoreul naege sireo (Oh-oh-oh)<br>'Cause we are rule breaker (Oh-oh-oh)<br>Come on, come on<br>Deombyeo, deombyeo<br>I'll pass the mic<br>Pass the mic, pass the mic, oh-oh-oh<br>Dadeul soneul deureo<br><br>&quot;Walk the line&quot; (Ayy)<br>I hate that line (Ayy)<br>Nan kkaedarasseo (Ayy)<br>Hamkke dallyeosseo (Woah)<br>I'll pass the mic (Ayy)<br>Pass the mic (Ayy)<br>You stay still?<br>You stay? You stay?<br><br>Will to win gyeolgugen ogomal days (Days)<br>Look at me pogihal riga eopji<br>Ohiryeo thanks, jijeokjil<br>Neon dowajwotji naui myth<br>&quot;What did you say?&quot;<br>Jilmune daedabeun eonjena &quot;real&quot;<br><br>Naui ballo seogil wonhae<br>Aningeon uimieopseo<br>Jinjja nae moksorireul kkeonae<br>Uriui miraereul geuryeonae<br>Hamkke oechyeo<br>Meon hunnal meon hunnari wallyodoel geu sungan<br>Hamkke oechyeo<br>Neowa na, neowa naneun uriga doengeoya<br><br>Dadeul soneul deureo (Oh-oh-oh)<br>Hal mal isseum deureo (Oh-oh-oh)<br>Come on, come on<br>Deuruwa, deuruwa<br>I'll pass the mic<br>Pass the mic, pass the mic, oh-oh-oh<br>Neoreul naege sireo (Oh-oh-oh)<br>'Cause we are rule breaker (Oh-oh-oh)<br>Come on, come on<br>Deombyeo, deombyeo<br>I'll pass the mic<br>Pass the mic, pass the mic, oh-oh-oh<br>Dadeul soneul deureo<br><br>&quot;Walk the line&quot; (Ayy)<br>I hate that line (Ayy)<br>Nan kkaedarasseo (Ayy)<br>Hamkke dallyeosseo (Woah)<br>I'll pass the mic (Ayy)<br>Pass the mic (Ayy)<br>You stay still?<br>You stay? You stay?</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "ENHYPEN",
+      "title": "Given-Taken",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Given-Taken.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wake up in day one<br>Cheonnare achim<br>Jomyeongi bichweo<br>Taeyange nunbit<br><br>Geu bicheun nal bultaeweotji<br>Geu bicheun naye nun garyeotji<br>But I go now kkumeul jocha<br>Dive into red sun, no lie<br><br>Sumaneun stars sumaneun dal<br>Jilmune supsogeul hemaedeon na<br>Eodum soge jeo bicheul ttarawasseo<br><br>Ganeun seon neomeoye nal bureuneun neo<br>Neol bureuneun na<br><br>(To you)<br>Unmyeonge hwasal bi sogeseo<br>(To)<br>Majuhan nae ane gyeonggyeseon<br>(Free)<br>Given or taken oh<br>Naye bulgeun nunbit<br>(To you)<br>Nan ije sesangeul dwijibeo<br>(To)<br>Haneure nae bareul naedidyeo<br>(Me)<br>Given or taken oh<br>Nae hayan songgonni<br><br>Oh nan neoege georeogaji<br>Du segyereul yeongyeolhaji<br>Naye bulgeun nunbit<br><br>Oh nan neoege georeogaji<br>Shinsegyee daeul ttaekkaji<br>Nae hayan songgonni<br><br>Nae dwien sucheon gaeye uishim<br>Nae dwien suman gaeye bulshin<br>But I go now kkumeul jocha<br>Drive through the question for life<br><br>Jueojimgwa jaengchwiham sai<br>Jeungmyeonge giro wi namgyeojin na<br>Jeo haneureul urin gidaryeowasseo<br><br>Ganeun seon neomeoye nal bureuneun neo<br>Neol bureuneun na<br><br>(To you)<br>Unmyeonge hwasal bi sogeseo<br>(To)<br>Majuhan nae ane gyeonggyeseon<br>(Free)<br>Given or taken oh<br>Naye bulgeun nunbit<br><br>(To you)<br>Nan ije sesangeul dwijibeo<br>(To)<br>Haneure nae bareul naedidyeo<br>(Me)<br>Given or taken oh<br>Nae hayan songgonni<br><br>Red blood<br>Jeo wanggwane<br>That blood<br>Heureuneun pi<br>Red blood<br><br>Neol hyanghan nae sonkkeucheun bulgeunbiche muldeureoman ga<br>But I'm gonna go<br>(To you)<br>Unmyeonge hwasal bi sogeseo<br>(To)<br>Majuhan nae ane gyeonggyeseon<br>(Free)<br>Given or taken oh<br>Naye bulgeun nunbit<br><br>(To you)<br>Nan ije sesangeul dwijibeo<br>(To)<br>Haneure nae bareul naedidyeo<br>(Me)<br>Given or taken oh<br>Nae hayan songgonni<br><br>Oh nan neoege georeogaji<br>Du segyereul yeongyeolhaji<br>Naye bulgeun nunbit<br><br>Oh nan neoege georeogaji<br>Shinsegyee daeul ttaekkaji<br>Nae hayan songgonni</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "ENHYPEN",
+      "title": "Not For Sale",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Not-For-Sale.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Cheoeum neukkineun feeling<br>Neol mannago jakkuman simjangi isanghae, isanghae<br>Silchineun aneun feeling<br>Neol mannagoseo dallajin moseubi nan eosaekae, oh, baby<br><br>Plasticeuro mandeun sesangen<br>Gagyeokpyoro gadeukae<br>Ireul jwoya ireul banneun ge<br>Yeogiseoneun dangyeonhae<br>Simjangeun for sale (Ooh)<br>Sarangdo for sale<br><br>Idaero manghaebeoril sesang<br>Gidae hana eopdeon naege<br>Semeuron guhal su eomneun<br>Dapdeureul gareuchyeojun neo<br>Chagaun simjang wiui price tag<br>Natseon ongiro tteeonaen<br>Neoraneun jonjaeneun naege isseo<br>You're not, you're not for sale<br><br>You're not for sale, woah-oh-oh<br>Pal su eomne (Ooh-ooh)<br>Sal su eomne, yeah, yeah, ooh<br><br>Cheoeum neukkineun feeling<br>Neol mannago jakkuman simjangi isanghae, isanghae<br>Silchineun aneun feeling<br>Neol mannagoseo dallajin moseubi nan eosaekae, oh, baby<br><br>Geoseulleo juji anado dwae<br>Jeonbu jugo sipeun geol<br>Amuraedo manghae beorin geon<br>Nain geonman gateungeol<br>Geuraedo jote<br>Simjangi malhae<br><br>Idaero manghaebeoril sesang<br>Gidae hana eopdeon naege<br>Semeuron guhal su eomneun<br>Dapdeureul gareuchyeojun neo<br>Chagaun simjang wiui price tag<br>Natseon ongiro tteeonaen<br>Neoraneun jonjaeneun naege isseo<br>You're not, you're not for sale<br><br>You're not for sale, woah-oh-oh<br>Pal su eomne<br>Sal su eomne, yeah, yeah, ooh</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "ENHYPEN",
+      "title": "One In A Billion",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/One-In-A-Billion.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Neol gidaryeosseo jeonui jeonui jeonsaengeseobuteo<br>Neul hemaewasseo gieok mothal gieogeseobuteo<br>Jidokan sewol Passed it sigandeureul ditgo<br>Neoege Arriving, yeah<br><br>Neukkyeojyeo neowa nal mukkeobeorin Fate<br>Unmyeongi neol taekae<br>Ikkeullyeo dalkomhage peojyeoganeun Pain<br><br>One In a Billion!<br>No, no, no, no nal kkeureodanggyeo your everything<br>Nae hyeolgwan wiro dolgo isseo tteugeoun pi<br><br>Simjangi neol garikyeosseo<br>Dan han beone arabwasseo<br>It's destiny<br>One In a Billion<br><br>Oh-oh-One In a Billion!<br>Oh-oh-One In a Billion!<br><br>Neol haechilkkabwa doraseoseo meolli domangchyeodo<br>Heomureojideut ni apeseo dasi mureup kkuleo<br>Nae soneul jabajwo bigeugeul kkeunnaejwo<br>Nal nochi ma Anymore, anymore, yeah<br><br>Dachyeodo geoyeokal suga eomneun Fate<br>Yeongwonui gullee<br>Gatyeodo myeot beonigo neoreul chajeulge<br><br>One In a Billion!<br>No, no, no, no nal kkeureodanggyeo your everything<br>Nae hyeolgwan wiro dolgo isseo tteugeoun pi<br><br>Simjangi neol garikyeosseo<br>Dan han beone arabwasseo<br>It's destiny<br>One In a Billion!<br><br>Oh-oh-One In a Billion!<br>Oh-oh-One In a Billion!<br><br>Kkamadeukan Time and tide<br>Barawasseo Whole my life (i sunganeul wihae nan)<br>Bachil teni gajyeoga<br>One In a Billion<br>Yeah, you could be that<br><br>One In a Billion!<br>Know, know, know, know ganjeolhi wonhae your everything<br>Neol mannagi jeon cheoeumbuteo yeongwonkkaji<br><br>Peojeul jogak gateun uyeon<br>Neoreul matchwo watdeon unmyeong<br>Now, all becomes clear<br>One In a Billion!<br><br>Oh-oh-One In a Billion!<br>Oh-oh-One In a Billion!<br><br>Oh-oh-One In a Billion!</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "ENHYPEN",
+      "title": "ParadoXXX Invasion",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/ParadoXXX-Invasion.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>We back<br>Haha<br>Got me like<br>Yeah<br><br>Eonjejjeum cheoldeulgeoni uh uh uh uh?<br>Jigyeoun jansori blah blah blah blah<br>Nolliwa binolliga what what what?<br>Seon neomji ma josimhae watch out<br><br>Nalga ppajin logic<br>Nuga nugul yokae no no<br>Sesangi mandeureo dun line line<br>Eopeullae yeah<br><br>Mosunppunin sesang<br>Buditchigo tto buditchyeo<br>Ay ppittakage ppittakage ppittakage live it up<br><br>We bump it up, gatdabeoryeo ratte<br>Neol dakchige mandeul naui new thang<br>Naui kkum sok keolleoneun paradoxxx<br>Neoui hyeonsilboda meotjyeo<br>So call me P R D X invader<br><br>So come on come on eh<br>Waseo gugyeonghae<br>Jayuroun urin<br>Binolliga nolli<br><br>Come on come on eh<br>Mwoga isanghae?<br>Mujilseoga anin<br>Sae sidaeui nolli<br><br>Yeah<br>Chakan aicheoreom walk walk walk<br>Billeonui seupgyeok pow pow pow<br>So insane banjeon dwie chungdol<br>But OK that's my salui jido<br><br>Olko geureun ichi<br>Jinan segi yaegi no no<br>Geunyang igeon soljikan nae mam mam<br>Makji ma yeah<br><br>Mosunppunin sesang<br>Buditchigo tto buditchyeo<br>Nal naebeoryeo dwo naebeoryeo dwo naebeoryeo dwo idaero<br><br>We bump it up, gatdabeoryeo ratte<br>Neol dakchige mandeul naui new thang<br>Naui kkum sok keolleoneun paradoxxx<br>Neoui hyeonsilboda meotjyeo<br>So call me P R D X invader<br><br>Like paradoxxx like paradoxxx like paradoxxx<br>(Paradoxxx invasion)<br>No paradoxxx no paradoxxx no paradoxxx<br>(New rules)<br>Like paradoxxx like paradoxxx like paradoxxx<br>(Paradoxxx invasion)<br>No paradoxxx no paradoxxx no paradoxxx<br><br>We bump it up, gatdabeoryeo ratte<br>Neol dakchige mandeul naui new thang<br>Naui kkum sok keolleoneun paradoxxx<br>Neoui hyeonsilboda meotjyeo<br>So call me P R D X invader<br><br>So come on come on eh<br>Waseo gugyeonghae<br>Jayuroun urin<br>Binolliga nolli<br><br>Come on come on eh<br>Mwoga isanghae?<br>Mujilseoga anin<br>Sae sidaeui nolli</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "ENHYPEN",
+      "title": "Polaroid Love",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Polaroid-Love.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>It's like a polaroid love<br>Sarang, chonseureon geu gamjeong<br>Geunde nae gaseumi ttwieo<br>Wae na irae na<br><br>Wae sarange mongmaeneun geonji<br>Eochapi ppeonhan gamjeongijana<br>Bunmyeong da anda mideotji<br>Algodo ppajin hamjeonginga bwa<br><br>Nado moreuge When you call my name<br>Gaseum apeuge naui simjangi kungkung<br><br>It's like a polaroid love<br>Sarang, chonseureon geu gamjeong<br>Geunde nae gaseumi ttwieo<br>Wae na irae na<br>It's like a polaroid love<br>Nae tteutdaero doeji ana<br>Heunhan filterjocha eopseo<br>But I love that vibe<br>(Yeah yeah yeah yeah)<br><br>Neol hyanghan nae mameul yeogi<br>Bojeong eopsi saegineun geoya<br>Jeomjeom ttoryeothaejyeo gaji<br>I mameun sesang dan han jang ppuniya<br><br>Nado moreuge When you call my name<br>Gaseum apeuge naui simjangi kungkung<br><br>It's like a polaroid love<br>Sarang, chonseureon geu gamjeong<br>Geunde nae gaseumi ttwieo<br>Wae na irae na<br><br>It's like a polaroid love<br>Nae tteutdaero doeji ana<br>Heunhan filterjocha eopseo<br>But I love that vibe<br>(Yeah yeah yeah yeah)<br><br>Polaroid Love<br>Chonseureon geu gamjeong<br>Polaroid Love<br>I love that vibe<br><br>Nado moreuge When you call my name<br>Gaseum apeuge naui simjangi kungkung<br><br>It's like a polaroid love<br>Sarang, chonseureon geu gamjeong<br>Geunde nae gaseumi ttwieo<br>Wae na irae na<br><br>It's like a polaroid love<br>Nae tteutdaero doeji ana<br>Heunhan filterjocha eopseo<br>But I love that vibe<br>(Yeah yeah yeah yeah)</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "ENHYPEN",
+      "title": "SHOUT OUT",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/SHOUT-OUT.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>We go and shout, yeah-eh<br>Oh, oh-oh, oh-oh<br><br>Maeil hwipsseullideut harureul saldaga<br>Jageun uimuni saenggyeotji<br>Ongat saramdeurui mare jichyeoman ga<br>Daeche nuga nareul jeonguihae<br>Nal gadwotdeon geojit gateun paradigm<br>Nugunga geueo noeun border line neomeo<br>I shout out, and this is my shout out<br>Na daun nal wihae<br><br>Jemeotdaero ne meotdaero (Woah-oh-oh)<br>Yeogin urimanui universe (Woah-oh-oh)<br>Nunchi ttawi bol geot eopsi<br>Geujeo jayuroun i sungan<br>You and me<br><br>We go and shout, shout, shout<br>When we're together<br>Three, two, one, tteugeopge oechyeo<br>Hanaro keojyeoganeun moksori<br>Simjangi teojil deusi ttwigo isseo<br>Shout, shout, shout, neowa na gachi<br>Sesangeul heundeureo nwa<br>Deo sikkeureopge<br>Neol hyanghan nae maeumeul sorichyeo<br>Gaseum tteugeopge shout out<br><br>Honjaramyeon pogi haetgetji<br>Nal gadwodun geu byeoge gatyeo<br>Nal bureuneun neoui moksori<br>You're blowing up my heart uh, bang-bang!<br>Seoroui mokgyeokja<br>Yeah, you and I-I<br>Seoroui listener<br>Mitgo itjana<br>Uriui wanbyeokan harmony<br>Jeongmal areumdawo<br><br>Jemeotdaero ne meotdaero<br>Yeogin urimanui universe<br>Nunchi ttawi bol geot eopsi<br>Geujeo jayuroun i sungan<br>You and me<br><br>We go and shout, shout, shout<br>When we're together<br>Three, two, one, tteugeopge oechyeo<br>Hanaro keojyeoganeun moksori<br>Simjangi teojil deusi ttwigo isseo<br>Shout, shout, shout, neowa na gachi<br>Sesangeul heundeureo nwa<br>Deo sikkeureopge<br>Neol hyanghan nae maeumeul sorichyeo<br>Gaseum tteugeopge shout out<br><br>Oh-oh-oh-oh, shout<br>Oh-oh-oh-oh, oh<br>Sesangeul hyanghae hamkke sorichyeo<br>Urin deo keuge shout out!<br><br>Jinjja nae moksoriro (Oh-oh-oh)<br>Nege jinsimeul jeonhae (Oh-oh, ah-ah)<br>Uri hamkkemyeon segyeneun areumdawo<br>Jeomjeom peojyeoga peojyeoga meolli<br>Ijen sorichyeo sorichyeo oechyeo<br>'Till the end of time<br>The story of you and I<br><br>We go and shout, shout, shout<br>When we're together<br>Stay stay stay you make it better<br>My life without you is a misery<br>Simjangi teojil deusi ttwigo isseo<br>Shout, shout, shout, neowa na gachi<br>Sesangeul heundeureo nwa<br>Deo sikkeureopge<br>Neol hyanghan nae maeumeul sorichyeo<br>Gaseum tteugeopge shout out<br><br>Oh-oh-oh-oh, shout<br>Oh-oh-oh-oh, oh<br>Sesangeul hyanghae hamkke sorichyeo<br>Urin deo keuge shout out<br>Oh-oh-oh-oh, shout<br>Oh-oh-oh-oh, oh<br>Sesangeul hyanghae hamkke sorichyeo<br>Urin deo keuge shout out</font></p>"
+    },
+	
+	
+	{
+      "id": 11,
+      "name_category": "ENHYPEN",
+      "title": "Tamed-Dashed",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/Tamed-Dashed.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Gildeullyeojimyeon doena<br>Nal maeryohan yongmangui geu seomgwang<br>Kkumeun areumdapge tto chuhage<br>Moseubeul bakkwo mak<br>Oh, eolkigo seolkyeojin<br>Chawon soge seontaegui dillema<br>Bareul naeditgiga nan geobi na<br>I hate to be or not<br><br>Like hot summer (Na, na, na)<br>Ildan ttwieo (Na, na, na)<br>Bulkkoche sarojapyeodo beoryeojindaedo<br>Jeongdabeun jigeum al su eopseo<br><br>Tteugeoun simjang nareul deryeoga<br>Mongmareun galjeung I can't stop me like<br>Summer (Na, na, na)<br>Ildan ttwieo (Na, na, na)<br>Bultaneun taeyang nal ikkeureoga<br>Naui nachimban please don't leave me now<br>Summer (Na, na, na)<br>Geunyang ttwieo (Na, na, na)<br><br>Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh<br>Ooh-ooh-ooh, ooh-ooh<br>Jeongdabi anira haedo<br>Ooh-ooh-ooh, ooh-ooh<br>Jeongdabi anira haedo<br><br>Oh, meomchwoyaman hana<br>Takan siya kkume jungdokdoen na<br>Oh, geuriun eorin nal<br>Iksukan na boijiga ana<br><br>Like hot summer (Na, na, na)<br>Ildan ttwieo (Na, na, na)<br>Idaero dallinda haedo meomchunda haedo<br>Gyeolgwaneun jigeum al su eopseo<br><br>Tteugeoun simjang nareul deryeoga<br>Mongmareun galjeung I can't stop me like<br>Summer (Na, na, na)<br>Ildan ttwieo (Na, na, na)<br>Bultaneun taeyang nal ikkeureoga<br>Naui nachimban please don't leave me now<br>Summer (Na, na, na)<br>Geunyang ttwieo (Na, na, na)<br><br>Jigeutjigeuthan gomin<br>Ppulgwa ppul saieseo<br>So keep it going, keep it going on right now<br>Just keep it running, keep it running up right now<br>Nawa gateun gomine gatyeoinneun neo<br>Eotteoke haeya halji mollaseo meomchwo inneun neo<br>Geureol ttaen nae soneul japgo dallyeobwa<br><br>Tteugeoun simjang nareul deryeoga<br>Mongmareun galjeung I can't stop me like<br>Summer (Na, na, na)<br>Ildan ttwieo (Na, na, na)<br>Bultaneun taeyang nal ikkeureoga<br>Naui nachimban please don't leave me now<br>Summer (Na, na, na)<br>Geunyang ttwieo (Na, na, na)<br><br>Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh<br>Ooh-ooh-ooh, ooh-ooh<br>Jeongdabi anira haedo<br>Ooh-ooh-ooh, ooh-ooh<br>Jeongdabi anira haedo</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "ENHYPEN",
+      "title": "TFW (That Feeling When)",
+      "image": "file:///android_asset/image/ENHYPEN.jpg",
+      "link_mp3": "mp3/TFW-(That-Feeling-When).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>One, two, three, four<br><br>Ppeonhan myeot madi<br>Eoneoron pyohyeon an dwae<br>Heunhan, J-P-G (Ah)<br>Igeollon bujokande<br>Nulleobwa, F5<br>Dulleobwa, website<br>Neol daleun geon eopseo, baby<br>Hannajui gyosil<br>Eodinga nareunhal ttae<br>Bureooneun breeze<br>Neon geureon neukkimingeol<br>Gyeote isseumyeon<br>Neul pyeongonhaejyeo<br>Hoksi neodo ganni? Baby<br><br>Hoo-ooh-ooh (Woah-ah)<br>Aryeonhan yeoreum bada<br>Noeul muldeun baram<br>Ah, hoo-ooh-ooh (Woah-ah)<br>Tto nega tteoolla nan that feeling when<br>(I love you)<br><br>Feels like coke siwonhan barami bureowa<br>Ujuui teum sairo<br>Deullineun heartbeat<br>Neodo nawa gateun goseul, I hope you see<br>Please just stay with me<br>Just stay with me<br>Dansume arabol geoya, that feeling when<br>Geujeo urimani aneun i sungan<br>Han jangmyeonssik gongyuhaneun, everything<br>Special, yah-yah<br>So special, yah-yah<br><br>That feeling when we're here (Ah-ah-ah, ooh)<br>Such a good vibe (Ah-ah-ah, ooh)<br>That feeling when we&rsquo;re here (Ah-ah-ah, ooh)<br>Such a good vibe<br>Sijakdwaesseo (That feeling you know)<br><br>Omyohan saek bit<br>Nungwa majuchin &quot;puppy&quot;<br>Pogeunhan neukkim<br>Can't take my eyes off you, yeah<br>&quot;Seollem&quot; is my quote<br>Eotteon pyohyeondo seolmyeonghal su eopseo i neukkim<br><br>Hoo-ooh-ooh (Woah-ah)<br>Eoseolpeun daneobodan<br>Dugeundaeneun simjang<br>Ah, hoo-ooh-ooh (Woah-ah)<br>I tteollimeul jugo sipeun geoya nan<br>(I love you)<br><br>Feels like coke siwonhan barami bureowa<br>Ujuui teum sairo<br>Deullineun, heartbeat<br>Neodo nawa gateun goseul, I hope you see<br>Please just stay with me<br>Just stay with me<br>Dansume arabol geoya, that feeling when<br>Geujeo urimani aneun i sungan<br>Han jangmyeonssik gongyuhaneun, everything<br>Special, yah-yah<br>So special, yah-yah<br><br>That feeling when we're here (Ah-ah-ah, ooh)<br>Such a good vibe (Ah-ah-ah, ooh)<br>That feeling when we're here (Ah-ah-ah, ooh)<br>Malhajamyeon nega joa (That feeling you know)</font></p>"
+    }
+  ]
+}
