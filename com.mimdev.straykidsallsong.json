@@ -2,13 +2,19 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
       "main_ads_rewards":"",
+      "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -20,7 +26,7 @@
       "status_app": "0",
       "link_redirect": "https://"
     }
- ],
+  ],
   "Categories": [
     {
       "id": 1,
@@ -112,6 +118,69 @@
 	
 	{
       "id": 10,
+      "name_category": "STRAY KIDS",
+      "title": "3RACHA",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/3RACHA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>1 2 3RACHA get spotlight<br>Oechinji beolsseo 5nyeon prime time<br>Our credit is always the biggest headline<br>Jeon segye chateuui sangdan<br>Chosimeun kkeuchi eomneun kkeuteuro tonghaji sumisanggwan<br>Jamangwa jasin han kkeut chai, han kkeut chairo da hanmulgatji<br><br>Nae siganeun mul<br>Gyeongsareul mandeureo deo ppareuge heulleo<br>Hae tteul muryeop<br>Tokki nuni doen nae du nuneun chunghyeol<br>Iksukaejil ri eomneun saenghwalpaeteon 25789<br>Teukbyeolhaejigil wonhamyeonseo dan harudo<br>Mot beotiji GG sipjungpalgu<br><br>Jageommurui yangi jarangi dwaetdeon geuttaewaneun dareuge<br>Yanggwa jillo seungbu<br>Mangnyeonhan heohwangdoen kkum? uriga jabeun geon anideonde tteungureum<br>Dolpung taepung ireukyeotji seonpung jangsingnyongi doel byeongpung<br>Sumaneun jakpumeul georeo noeul byeogi doel neone gomageul da ttuleo nochi<br><br>3RACHA<br>Bigureum 3jeomui machal<br>SHUT UP<br>Uriga haneun mal da ikkeureo macha<br>Yeonggameul bajjak ttaenggyeo uri sikdaero tapa<br>3RACHA<br>Stray Kids<br>(3RACHA)<br><br>Yeah I'm famous<br>Seupikeo sok moksori gadonghamyeon bunwigi machi goemul<br>Beolsseo myeot nyeonjjae yujihaneun tikitaka urin pane deulkkeulneun murideul soge seondu<br>Back in the days, rookiedeullo bullideon aedeureun jigeum segyero<br>Boyeojuji jaeneung tapjaega jedaero<br>Doeeo guji mwo an haedo<br>Imi aneun saramdeureun uril bogo baksu dalla pomi<br><br>Uri sokdoneun eumsok ppalla nuguboda ollagaji nopi jumping<br>Sumi gappado stopeun eopji yeogi saengtaegye pagoee jubeomin<br>I don't care mworadeun gyesokae tease<br>Yeonggami jureodeulji anneun saemmuriji<br>You cannot beat me up deo gyesok bullyeo keojyeoganeun uri momjip<br><br>Look good and tasty<br>Mat deurim uril chatge dwae maekki<br>Sikgi jeone meokji<br>Gyeoksik itge moge dureun naepkin<br>Beolledeureun toechi<br>Uri giren kkothyanggiga baetji<br>Dallajin moseubedo yeojeonhi momsoge namaisseo paegiwa gaekgi<br><br>3RACHA<br>Bigureum 3jeomui machal<br>SHUT UP<br>Uriga haneun mal da ikkeureo macha<br>Yeonggameul bajjak ttaenggyeo uri sikdaero tapa<br>3RACHA<br>Stray Kids<br>(3RACHA)<br><br>My boys spittin' facts they locked and loaded<br>Still on the grind you better watch out for the brothers<br>Masterminds, the perfect trio bound by blood<br>Musketeers of making music, &quot;one for all, and all for one&quot;<br><br>Pull out the shivs, choppin' up sounds faster than lightning<br>Been in the corps since '17 yeah the beasts never stop wildin'<br>We're going for the win, yeah, our music score might seem a lil frightening<br>Just take a deep breath<br>3RACHA breathing<br><br>The Scoville Scale is on the verge of blowing up<br>They feel the burn and yet they just can't get enough<br>Our copyrighted numbers won't be ever stopping 'cause we still constructing keep it coming<br>Why u mad brah?<br><br>3RACHA<br>Bigureum 3jeomui machal<br>SHUT UP<br>Uriga haneun mal da ikkeureo macha<br>Yeonggameul bajjak ttaenggyeo uri sikdaero tapa<br>3RACHA<br>Stray Kids<br>(3RACHA)<br><br>3RACHA<br>Bigureum 3jeomui machal<br>SHUT UP<br>Uriga haneun mal da ikkeureo macha<br>Yeonggameul bajjak ttaenggyeo uri sikdaero tapa<br>3RACHA<br>Stray Kids<br>(3RACHA)<br><br>They always say the same excuses<br>While they're complaining we're producing</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "STRAY KIDS",
+      "title": "TASTE",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/TASTE.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Fake eyes open<br>Tto soga beorin apeum<br>Ichame nal tto<br>Gajigo nora jwo<br><br>Fake eyes open<br>Tto soga beorin apeum<br>Ichame nal deo<br>Manggajige nora jwo<br><br>It's like bad red roses<br>Hyanggie michyeo hoheubi gappajim<br>Areumdaume garyeojin jitgo dukkeoun gasi<br>Don't care about it algo itjana<br>Beire ssain nundongja<br>Hetgallindamyeon jigeum i sunganeul<br><br>Jeulgyeo Babe, babe, don't test me, oh, no<br>Babe, babe, don't get me wrong<br><br>Geojiseun an hae gamhi<br>Uimi buyeohan i bamui<br>Jeongdabeun You can get me<br>Oroji You can get me<br><br>Whoo, woo<br>Whoo, woo<br><br>Yeah, make you feel my love, la-la-la<br>Jigeum neo Come and taste me now<br>Yeah, you better watch out<br>You're gonna like, ah<br>Geurae nan soksangnyeo La-la-la-la<br><br>Neowa na dul saiui georil jopyeo<br>Jamkkanui hoheupgwa matdaa True up<br>I seuwithan gonggane ppallajin Ah<br>I seuwithan gonggane dalgwojin<br>Just look at me<br><br>Just look at me, babe, day and night<br><br>Don't make me bad, make me bad<br>I'm addicted to you<br>Imi gildeullyeojin nae mameul jageukae<br><br>Don't make me bad<br>Bad<br>Addicted to you<br>Sijakae beorin isang naege anim an dwae<br><br>Kiss me or leave me<br>Eojungganhan jarie seogo sipji ana<br>Kiss me or hate me<br>Softhan i sanghwang sok nal bwajwo babe<br><br>My eyes are gettin' too loose<br>Can't repeat tying up with this strain<br>Instead of runnin'<br>I'm gon' mess it all up this second<br>I sunganeul ganjikae naagago itgie<br><br>Pureun bichui naenggiga doneun neol<br>Bulge muldeullyeo i gongganeseo<br><br>So jasaegui habi pieonaneun flowers<br>I jomyeonge nunmeoreo tto ppajinda<br>Gollanhae geojinmaltuseongin ne mam<br>Neo eopsin amugeotdo an japinda<br><br>Yeah, make you feel my love, la-la-la<br>Jigeum neo Come and taste me now<br>Yeah, you better watch out<br>You're gonna like, ah<br>Geurae nan soksangnyeo La-la-la-la<br><br>Neowa na dul saiui georil jopyeo<br>Jamkkanui hoheupgwa matdaa True up<br>I seuwithan gonggane ppallajin Ah<br>I seuwithan gonggane dalgwojin<br>Just look at me<br><br>Just look at me, babe, day and night<br><br>Don't make me bad, make me bad<br>I'm addicted to you<br>Imi gildeullyeojin nae mameul jageukae<br><br>Don't make me bad<br>Bad<br>Addicted to you<br>Sijakae beorin isang naege anim an dwae</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "STRAY KIDS",
+      "title": "Give Me Your TMI",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/Give-Me-Your-TMI.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Dingdongdaeng animyeon ttaeng dingdongdaeng animyeon ttaengttaengttaeng<br>Meorineun tting jubyeoneun ping doraga dolgo dora baengbaengbaeng<br>Neoege jeopsok junginde nan tto regi geollyeo wae jakku twinggyeo<br>Rek pullil ttaejjeume baireoseuga wae wa jebal jom kkilkkyeo<br><br>Neoreul bogo geujeo nolla kkamjjak<br>Jamsi beopeoring geollin nae gamgak<br>Don't know why nugulkka<br>Nege hollin deut deo dagaganda ey<br><br>Kkanoko nan mutgo sipeo jeomjeom deo chojohaejyeo<br>Almyeon deo alsurok ow I really gotta know<br>Gakkawojilsurok<br>Daeum daeum dabeul dallanikka right now<br><br>Neon daeche naege mwogillae<br>Tto nareul meomchithage hae<br>Jeoldae jipchageun anya<br>I just wanna know, I just wanna know, baby<br><br>Waeilkka nado moreuge<br>Jeomjeom deo moribi dwae<br>One, two, I wanna know more<br>Guji deo algo sipeo<br>Give Me Your TMI<br><br>Ey whoo whoo whoo<br>Deo gunggeumhaejyeo<br>Yeah I just wanna know<br><br>What's your name? Tell me<br>Tuk mureobol ge maneul geot gata dapaejwo pls<br>Gunggeumhan ge manaseo geurae jamsiman jilmun myeot gae jogeumman hapsida<br>Kkwae orae geollildeuthande siganeun jom itseumnikka<br><br>Seoro cheosinsangeun eotteoko chwimiwa teukgin mueosimyeo<br>Hoksi yosae hipabina rockeun gwansim eopseumnikka<br>Daedabeun eojjaetdeun sanggwaneopji nega joeunikka<br>Tto jilmune jilmuneul banbokae neoe daehae deo aragaji<br><br>Kkalttakkkalttak sumneomeoganda<br>Tic toc tic toc sigani ganda<br>Simjang tteollim nae meori gullim<br>Alda gado jal moreugetda<br>Let me know let me know let me jomman deo<br><br>Kkanoko nan mutgo sipeo jeomjeom deo chojohaejyeo<br>Almyeon deo alsurok ow I really gotta know<br>Gakkawojilsurok<br>Daeum daeum dabeul dallanikka right now<br><br>Neon daeche naege mwogillae<br>Tto nareul meomchithage hae<br>Jeoldae jipchageun anya<br>I just wanna know, I just wanna know, baby<br><br>Waeilkka nado moreuge<br>Jeomjeom deo moribi dwae<br>One two I wanna know more<br>Guji deo algo sipeo<br>Give Me Your TMI<br><br>Ey whoo whoo whoo<br>Deo gunggeumhaejyeo<br>Yeah I just wanna know<br><br>Gunggeumhan ne story eotteolkka daedabi<br>Gwaenchana cheoncheonhi deo mani just tell me<br>Neoui mareun jakku nae mameul geondeuryeo<br>Du nun matchul ttaemada tteollyeo<br>Geureolsurok sege naga<br>Neol deo algo sipeojyeo<br><br>Neodo nawa ttokgateulkka<br>Geunyang gunggeumhan ge aniya<br>Museun daedabi naolkka<br>Yesanghagin eoryeopjiman<br><br>Saeropge dagaoneun gamjeongdeuri beokchaolla oh<br>Too muchinga sipdagado oh<br><br>Ey whoo whoo whoo<br>Deo gunggeumhaejyeo<br>Yeah I just wanna know</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "STRAY KIDS",
+      "title": "CHILL",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/CHILL.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Kallo mul bedeut kkeunijiga anneun ssaum<br>Cheoeumbuteo matji anatdeon geon aniya<br>Urin geujeo dareun geosil ppunira<br>Saenggakaetdeon geu saenggageun gyeolguk teullyeotdeon geosilkka<br><br>Soneul jabado seoro dareun goseul bogo<br>Daehwa jujeui heureumeun da ttan dero<br>I aejeong eomneun daehwa soge mamiran<br>Geujeo teong bin sseuregitonge nulleo buteun kkeomiya<br><br>Sigyetbaneul soriga Ti-ki tok<br>Chimmuk soge eosaekan giryuga heulleo<br>Gajeun iyuro naege jjillyeo inneun nunbit<br>Soge aju yateun mameuro<br><br>Bikyeojullae<br>Raneun mareul kkeonaesseul ttae<br>Seulpeumiragibodan huryeonhagedo Yeah<br>Yes, you, that's you, thank you, right now<br>Geurae urin<br><br>Yeah, we gonna break, break, break, together<br>Seoroui gapjin maeilmaeildeureul bultaewo<br>Ijen modu namgimeopsi beoryeodo urin huhoe eopseo<br>Geujeo sok taneun maeumman sikyeo<br><br>Ijen nae nae naege singyeong kkeo<br>Chueok sok yeogiseo geuman bakkeuro nagajwo<br>Geurae neodo namgimeopsi beoryeo da dasin huhoe eopge<br>Ildan sok taneun maeum jom sikyeo<br><br>(I mean like, ah)<br>Ppareuge ppareuge deo sigeobeorin mam da<br>Ssiseonaego saeroun sijak seoro haebojago Start now<br>Jijigo bokgo pandaneun najungeuro mirwo<br>Eochapi i gwangyeui jisok ganeungseongeun Zero<br>Ssak da<br><br>Geurae da jiwo bojago<br>Ige mannyago seongnaedo<br>Neodo da jiul geojaneo<br>Wae anin cheok nunsiul bulkyeo<br><br>Sigyetbaneul soriga Ti-ki tok<br>Chimmuk soge eosaekan giryuga heulleo<br>Gajeun iyuro naege jjillyeo inneun nunbit<br>Soge aju yateun mameuro<br><br>Bikyeojullae<br>Raneun mareul kkeonaesseul ttae<br>Seulpeumiragibodan huryeonhagedo Yeah<br>Yes, you, that's you, thank you, right now<br>Geurae urin<br><br>Yeah, we gonna break, break, break, together<br>Seoroui gapjin maeilmaeildeureul bultaewo<br>Ijen modu namgimeopsi beoryeodo urin huhoe eopseo<br>Geujeo sok taneun maeumman sikyeo<br><br>Ijen nae nae naege singyeong kkeo<br>Chueok sok yeogiseo geuman bakkeuro nagajwo<br>Geurae neodo namgimeopsi beoryeo da dasin huhoe eopge<br>Ildan sok taneun maeum jom sikyeo<br><br>Amuryeom eottae<br>Siwonhage gewonae<br>Soge itdeon yaegideul jeonbu ssiseonae<br><br>Jeonbu nallija oneul da baeteo<br>Soge damadwotdeon geu modeun maldeuldo<br>Urin han ssangui jungnyeojuneun Actor<br>Yeongi geumanhago uri seoro<br>Ije geuman<br><br>Yeah, we gonna break, break, break, together<br>Seoroui gapjin maeilmaeildeureul bultaewo<br>Ijen modu namgimeopsi beoryeodo urin huhoe eopseo<br>Geujeo sok taneun maeumman sikyeo<br><br>Ijen nae nae naege singyeong kkeo<br>Chueok sok yeogiseo geuman bakkeuro nagajwo<br>Geurae neodo namgimeopsi beoryeo da dasin huhoe eopge<br>Ildan sok taneun maeum jom sikyeo</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "STRAY KIDS",
+      "title": "CASE 143",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/CASE-143.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Sageon balsaeng itji mothal sageon<br>Chimyeongjeogin maeryeoge holladang ppajyeo<br>Jakku nareul jageukhaneun neon<br>Chulcheoga eomneun munjeya pureoya hal sukjeya<br><br>Can I be your boyfriend?<br>Neoreul daehaneun taedo geojit hana eopseo no cap<br>Neoege hago shipeun mallo gadeuk chasseo my case<br>Wanbyeokham ape eotteon mallodo bujokhae<br><br>You got me losing patience<br>Geotjabeul su eomneun emotion<br>Tteoolla ne moseup I never feel alright<br>Sumaneun gamjeongi chungdolhae wae irae<br><br>Rolling in the deep inside my head<br>You got me bad<br>Mujanghaeje<br>Shinsokhage negero moving, on my way<br><br>Why do I keep getting attracted<br>Jaseok gachi kkeullyeoga<br>I cannot explain this reaction<br>Igeotbakke 143<br><br>Why do I keep getting attracted<br>Ne moseumman tteoolla<br>I cannot explain this emotion<br>143<br>I LOVE YOU<br><br>A B C D E F G I<br>Wanna send my code to you<br>8 letters is all it takes<br>And I'm gonna let you know oh<br><br>Neo malgon nopi ssahadweotji barricade (barricade)<br>Weonhaneun daero bulleodo dwae<br>Code name (call me baby)<br>Yokshimiraedo dwego shipeo soulmate (whoo)<br>I mameun jeomjeom deo upgrade 'cause<br><br>You got me losing patience<br>Geotjabeul su eomneun emotion<br>Tteoolla ne moseup I never feel alright<br>Sumaneun gamjeongi chungdolhae wae irae<br><br>Rolling in the deep inside my head<br>You got me bad<br>Mujanghaeje<br>Shinsokhage negero moving, on my way<br><br>Why do I keep getting attracted<br>Jaseok gachi kkeullyeoga<br>I cannot explain this reaction<br>Igeotbakke 143<br><br>Why do I keep getting attracted<br>Ne moseumman tteoolla<br>I cannot explain this emotion<br>143<br>I LOVE YOU<br><br>Heartbeat naye modeun sangtae jigeum wigi (wigi)<br>Neoye moseup ain't no &quot;false&quot;<br>Naye songmam dashi repeat (repeat)<br><br>Walking next to you but I'm falling<br>Deo gipge ppajyeodeureo kkeulliji<br>You're pulling me deeper and deeper<br>I try to get out but I can't stop<br><br>Can I be the one?<br>Yeah I'll be the one<br>Mumohage dojeonhae ogeuradeuneun pyohyeon<br>Meorissogi ttinghago mugamjeongeun sonjeol<br>Moving, I'm on my way<br><br>Why do I keep getting attracted<br>Ne moseumman tteoolla<br>I cannot explain this emotion<br>143<br>I LOVE YOU<br><br>Why do I keep getting attracted<br>Jaseok gachi kkeullyeoga<br>I cannot explain this reaction<br>(Igeotbakke)<br><br>I'm gonna let you know (know)<br>That I'm just gonna go (go)<br>And hold you so I'm never letting go<br><br>I'm gonna let you know (know)<br>That I'm just gonna go (just go)<br>Yeah nan neoegero jigeum chulbalhamnida baro like I'm<br><br>Never letting go oh<br>I cannot explain this emotion<br>143<br>I LOVE YOU</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "STRAY KIDS",
+      "title": "Can't Stop",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/Can-t-Stop.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Meolliseo boideon heurithan silluet<br>Gakkai wa neoro seonmyeonghaejin geu sungan<br>Daechaek eopsi ppareuge ttwineun Heartbeat<br><br>Amureochido aneun cheogeul haeboryeo<br>Du nunui chojeomeul munggae boryeogo haedo<br>Jakkuman deo peojineun neoui hyanggi<br><br>Neowa na ppaego meomchun geot gateun<br>Baegyeongeul dugo naui siganeun<br>Saenggageun ppareuge gago<br>Nunapeun neurige ga<br>Deoneun sumgil suga eopseo<br><br>Na neo joahana bwa<br>Naega nal bwado<br>Tiga nal jeongdoro<br>Cham mani neol wonhana bwa<br>Mwon jiseul haedo<br>Heeo naoji<br>Mothal mankeum nan neo<br>Joeunga bwa<br><br>Oh, let me, oh, let me<br>Oh, let me love you<br>Oh, oh, I can't stop falling in love with you<br><br>Neon wae ireoke eoseolpeunyago<br>Maengnakdo eopsi munneun neol bogo<br>Mwon marinyaneun daedabi<br>Waelke tteollige nawa<br>Deoneun sumgil suga eopseo<br><br>Na neo joahana bwa<br>Naega nal bwado<br>Tiga nal jeongdoro<br>Cham mani neol wonhana bwa<br>Mwon jiseul haedo<br>Heeo naoji<br>Mothal mankeum nan neo<br>Joeunga bwa<br><br>Ne nunen ppeonhi da boyeosseul tende<br>Mwo hareo anin cheogeul haesseulkka<br>Inneun geudaero<br>Nae mameul pyohyeonhalge nan neo<br><br>Joahana bwa<br>Naega nal bwado<br>Tiga nal jeongdoro<br>Cham mani neol wonhana bwa<br>Mwon jiseul haedo<br>Heeo naoji<br>Mothal mankeum nan neo<br>Joeunga bwa<br><br>Oh, let me, oh, let me<br>Oh, let me love you<br>Oh, oh, I can't stop falling in love with you</font></p>"
+    },
+	
+	{
+      "id": 16,
+      "name_category": "STRAY KIDS",
+      "title": "SUPER BOARD",
+      "image": "file:///android_asset/image/STRAYKIDS.jpg",
+      "link_mp3": "mp3/SUPER-BOARD.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Ya, climb aboard dubal jump in<br>On this board urin teok goego pop it<br>Daechung haedo dadeul geomnaeneun nunchi<br>Ijen geotgi sileo haneul wiro Swerving<br><br>Yeoril geurae gosaenghaera kkomaenga<br>Meomchithada geumajeodo ppaetgilla<br>Oh, yeah, running stupid dummy, funny<br>Ha utgijido ana jjokkeuman ge eodil kwak<br><br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Fly high into the sky<br>Not gonna stop until the day I die<br>Rising up to the sun, yeah<br>You can call it my heart<br><br>Byeonhaji ana Oh<br>Bulbuteun nal Oh<br>Jjonneundamyeon heotgosaeng<br>Dal jjotdeon gae gyeolguk jibungman chyeodabwa<br><br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Narara syung SUPER BOARD<br>Naraga syung SUPER MODE<br>Nallina syung SUPER ROAD<br>Narara<br><br>Kkwak makin doro wi goguma baek gae<br>Dapdapae naraga neutgetda taekbae<br>Kkumege nareul baedal jung<br>Roketbaesong ige nae Title<br><br>Eobeoeobeobeobeobeo nae balmite Hoverboard<br>Geu miteneun bisangsatae wireul bwara nan bisang jung<br>Kwaegameul neukkyeo gibuneun Loco<br>Wit gonggineun daldalhae Choco<br><br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Narara syung SUPER BOARD<br>Naraga syung SUPER MODE<br>Nallina syung SUPER ROAD<br>Narara<br><br>Naseodaga jappajilla<br>Geu moseup bogo baekkop jaba<br>Ttwineun nom wie urin naneun nom<br>Noryeobwado an dallajyeo<br><br>Da mareunhaneure nalbyeorak<br>Uriga hwimorachinda<br>Jjonneundamyeon heotgosaeng<br>Dal jjotdeon gae gyeolguk jibungman chyeodabwa<br><br>Go high, fly high<br>Na, na, na, na, na, na<br>Go high, fly high<br>Na, na, na, na, na, na<br><br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara syung SUPER BOARD<br>Narara<br><br>Narara syung SUPER BOARD<br>Naraga syung SUPER MODE<br>Nallina syung SUPER ROAD<br>Narara</font></p>"
+    },
+	
+	{
+      "id": 17,
       "name_category": "STRAY KIDS",
       "title": "VENOM",
       "image": "file:///android_asset/image/STRAYKIDS.jpg",
