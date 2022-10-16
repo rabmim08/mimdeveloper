@@ -1,0 +1,155 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "DREAMCATCHER",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DREAMCATCHER",
+      "title": "BEcause",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/BEcause.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Kkokkkok da sumgigoseo jal saranneyo<br>Ajik geudaen nal jal mollayo<br>Saramdeureun chakan ain jul algetjiman<br>Jinjja nae moseubeun jal mollayo<br><br>Nareul bol ttaen useo jwoyo useo jwoyo<br>Bul kkeojin banganen uri dulppuningeol<br>Geudae oneuldo narang nolmyeon<br>Naeireun jom deo dalkomhan geol julgeyo<br><br>Parake parake jillyeoga<br>Neoui pyojeongeun machi<br>Ocean view<br>Jogeum deo meotjige boyeo jwo geu momjit<br>Naega neukkil su itge<br><br>BEcause I like you<br>(I like you)<br>Du nune gadeuk chan byeol<br>Naui serenade<br>Cheonsa gateun eolgullo<br>Saranghanda malhae<br><br>BEcause I love you<br>Forever love<br>Sumgyeolkkaji da<br>Forever love<br><br>BEcause I love you<br>Forever mine<br>Sumgyeolkkaji da<br>Forever mine<br><br>Yeah<br>Cheombuteo dasi A to Z<br>My teaching cheolchik<br>Cheoljeohi musi<br>Milsil ane kineun eopseo<br>Now I'm jeolchibusim<br><br>Easy come, easy go<br>But nae geon anijyo<br>Tongjeungeun jamsigo<br>Every dog has his day<br><br>Ttasaropge nareul bichwo nareul bichwo<br>Juneun ne pumen yeongwonhi nappuningeol<br>Geudae oneul tto narang nolmyeon<br>Junbidoen modeun seonmureul da jullae<br><br>Parake parake jillyeoon<br>Neoui pyojeongeun machi<br>Ocean view<br>Daedapae jwo Hurry<br>Gihoeneun jwosseo mani<br>So creepy<br>Geurae ne mari maja<br><br>BEcause I like you<br>(I like you)<br>Du nune gadeuk chan byeol<br>Naui serenade<br>Cheonsa gateun eolgullo<br>Saranghanda malhae<br><br>BEcause I love you<br>Forever love<br>Sumgyeolkkaji da<br>Forever love<br><br>BEcause I love you<br>Forever mine<br>Sumgyeolkkaji da<br>Forever mine<br><br>Geobuhaedo gwaenchana<br>Dareun nae moksoriga<br>Daesin neoreul bureuni<br><br>Jigeum moseup idaero<br>Gyeote nama jugenni<br>Han pogui areumdaun<br>Geurimeuro<br><br>Ssodeun mulgam modu jiwo nae<br>Malla gudeobeorigi jeone<br>Heureun nunmul jaguk dakka<br>Joechaekgamkkaji da mallya<br>I don't want to BE<br><br>BEcause I like you<br>(I like you)<br>Du sone gadeuk chan neol<br><br>Yeongwonhi aneullae<br>Cheonsa gateun eolgullo<br>Saranghanda malhae<br><br>BEcause I love you</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "DREAMCATCHER",
+      "title": "BOCA",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/BOCA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Modeun tageseun neol hyanghae isseo<br>Nal eopsi beineun sangcheo<br>Mal an haedo al su isseo<br>(Hold on Hold on)<br><br>Eh oh amureon pyojeongdo eopsi<br>Neon imi iksukadan deusi<br>(I'm knockin' door, now I'm knockin' door)<br>Beoseonaji mothae But I know<br><br>Hold up, I'm a geek, the big paradox<br>Swipge saenggakamyeon neol jikineun Killer<br>Jiok kkeuteseon da hanagachi bireo<br>Ibeul georeo jamga Freeze up<br><br>Iyu eomneun siseon<br>Kkoril muneun Question<br>(Woo wah ah ah ah ah)<br>Joeuisigeun imi<br>Geudeurege eopseo<br><br>Mageul su eopsi<br>Samuchineun mam<br>Chamji mothae deo<br>Na neoreul wihaeseo<br><br>Meokgureume ssain<br>Gipeojineun bam<br>Naeryeochyeora Thunder<br>Drop thunder gutge<br>Georeo jamgeulge BOCA<br><br>Where is the love<br>Gasi gateun geu mallo<br>Neol apeuge handamyeon<br>Yeolji mothage BOCA<br><br>Yeah nun gama sum makyeo neon<br>Uh domangchyeo meonbalchi neon<br>Uh dwitgeoreumman chyeotdamyeon<br>Geogiseo byeonhaji byeonhaji ana<br>Ppeonhaji ppeonhaji No<br><br>Uh get the key<br>I'll set you free<br>Neo ije geumandwo sumbakkokjil<br>Bajjak ttarawa<br>More deo Come on now<br>Lock the door<br>Lock the door<br><br>Mageul su eopsi<br>Samuchineun mam<br>Chamji mothae deo<br>Na neoreul wihaeseo<br><br>Bureooneun geon<br>Geochin baramgwa<br>Naeryeochyeora Thunder<br>Drop thunder gutge<br>Georeo jamgeulge BOCA<br><br>Where is the love<br>Gasi gateun geu mallo<br>Neol apeuge handamyeon<br>Yeolji mothage<br><br>Sojunghan sigandeureul wae<br>Jeungoro chaeuneunga<br>Woo woo<br>Too many angels dying now<br>I'm gonna change your mind<br>Dasi sum swil su itge<br>No wah<br><br>Where is the love<br>Gasi gateun geu mallo<br>Neol apeuge handamyeon<br>Yeolji mothage BOCA</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "DREAMCATCHER",
+      "title": "Deja Vu",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Deja-Vu.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Bicheul ireun neoye du nunttongjayeo<br>Jinan modeun gieokdeureul jiweo jweo<br><br>Jiteojin angae sairo meolli tteonaon gil<br>Shirin heunjeongmaneul namgin chae<br>Gieok kkeuteul jaba bwado<br>Kkeunnae orae deo orae<br>Gipeun chimmuge jamdeureo<br><br>Oh now holding this pain<br>Modeun geol beorin geunalcheoreom<br>Maeil deo gweroweojeo<br>Kkeudeopshi nunape Oh deja vu<br><br>Oh deja vu<br>Oh deja vu<br>Oh deja vu<br>So I fallen now<br><br>Nan i sumkkyeori heorakdweneun nalkkaji<br>Dashin neoreul noeul su eopseo<br>Urin modeun sungan hamkke hal teni<br>Nae gyeoteseo deo meoreojiji ma<br><br>Eh i sungani jeonbu geojishigil<br>Uh jamshi seucheoganeun chakkagigil<br>Jeojeun nunmullodo dwineujeun huhwerodo<br>Doragal doragal su ittamyeon Yeah<br><br>So now, I'm holding this pain<br>Modeun geol beorin geudaecheoreom<br>Maeil deo seonmyeonghaejeo<br>Kkeudeopshi nunape Oh deja vu<br><br>Oh deja vu<br>Oh deja vu<br>Oh deja vu<br>So I fallen now<br><br>Nan i sumkkyeori heorakdweneun nalkkaji<br>Dashin neoreul noeul su eopseo<br>Urin modeun sungan hamkke hal teni<br>Nae gyeoteseo<br><br>Mideowatteon modeun jinshiri<br>Geojitteullo nareul dwideopeosseuni<br>Oh ah eodum sok han julgi bitcheoreom<br>Sonjaba jun neoreul ttaraga<br>Neoreul ttaraga<br><br>Oh deja vu<br>Oh deja vu<br>Oh deja vu<br>I'm saved now<br><br>Neomaneul wihae nae jeonbureul geolgoseo<br>Apeun sangcheoga gipeojeodo<br>Modeun sungandeuri kkumin geotcheoreom<br>Ni gyeoteseo meoreojiji ana<br>And now, I'm in my deja vu</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "DREAMCATCHER",
+      "title": "Fairytale",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Fairytale.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ttoryeosi boyeo saeroun Wonder<br>Ganjeolhi wonhandamyeon geugoseuro<br><br>Sarangeul neukkyeo geokjeongeun eopseo<br>Jeo badaui baramgwa<br>Seollemeul gadeuki Running up<br><br>Wonderful, wonderful sunrise<br>Beautiful, beautiful moonlight<br>Padoe banjjagineun bicheul gadeuk dama<br><br>Hold on to me as we go fly<br>Deo nopi olla nareul kkwak butjaba And now<br>We're heading for a surprise<br><br>Na jigeum binnago inneun<br>Dangsinui nuneul bomyeonseo<br>Donghwa gateun kkumeul kkwo<br><br>Bit soge jeojeo chumchuneun<br>Sinbihan neoui sonjaba<br>We're living a fairytale<br><br>Follow your heart<br>Follow your heart<br>Follow your heart<br>We're living in a fairytale<br><br>Yeah yeah naegeman boyeojwo<br>Neoui dwie binnaneun nalgaereul<br>Kkumin jul aratdeon neowaui chum<br>Dulmanui soksagim<br><br>Waenji teok kkeutkkaji chaoreuneun geon<br>Yaksokdoen ibyeol ttaemunilkka<br>Modeun sunganeul namgigo sipeo i seollemkkaji Yeah<br><br>Wonderful, wonderful sunrise<br>Beautiful, beautiful moonlight<br>Sunganui mabeop gateun barameul neukkyeobwa<br><br>Hold on to me as we go fly<br>Du pareul beollyeo nareul kkwak angoseo And now<br>We're heading for a surprise<br><br>Na jigeum binnago inneun<br>Dangsinui nuneul bomyeonseo<br>Donghwa gateun kkumeul kkwo<br><br>Bit soge jeojeo chumchuneun<br>Sinbihan neoui sonjaba<br>We're living a fairytale<br><br>We're living in a fairytale Wah<br><br>I see a dream inside my eyes<br>You are the dream inside my eyes<br>I'm living a fairytale<br><br>This might sound like a fantasy<br>Don't worry, look up and you'll see<br>You're living a fairytale<br><br>Woo woo<br>Follow your heart<br>Follow your heart<br>Follow your heart<br>We're living in a fairytale</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "DREAMCATCHER",
+      "title": "GOOD NIGHT",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/GOOD-NIGHT.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey dalbichi gureume<br>Garyeojineun sigan (like devil comes)<br>Neol jikyeobogo isseo<br><br>Wait sumeul jukin chae<br>Jamdeuneun ttaereul noryeo (like devil comes)<br>Ja sigani dwaesseo<br><br>Oneul i bami<br>Jinagaji mothage hal geoya<br>(Jjaekkakjjaekkak sigyereul meomchwo)<br>I don't wanna tik tok<br><br>Oh baby<br>Run, run, run it meoleojige<br>Run, run, run it boiji anhneun gose<br>Beoseonal su eobseul geol<br>Deo balbeodung chyeodo oh<br><br>Kkeuteobsi banbokdoeneun akmong sokeseo<br>Idaero gachyeo isseojwo yeongwonhi<br>Namaneul wihan inhyeongcheoreom<br>Baby good night<br>Baby good night<br><br>Nan byeonhameobsi kkumeul jihwihagetji<br>Son hana kkattak eobsido chungbunhi<br>Neon ttame heumppeok jeojeo<br>Kkaeji mothal tende<br><br>Malhaebwa (wake me now)<br>Deo bileobwa (scary night)<br>Neoreul wihae sijakdoen noli<br>Meomchul suneun eobseo<br><br>Jigeum i bami<br>Jinagaji mothage hal geoya<br>(Jjaekkakjjaekkak sigyereul meomchwo)<br>I don't wanna tik tok<br><br>Oh baby<br>Run, run, run it meoleojige<br>Run, run, run it boiji anhneun gose<br>Beoseonal su eobseul geol<br>Deo balbeodung chyeodo oh<br><br>Kkeuteobsi banbokdoeneun akmong sokeseo<br>Idaero gachyeo isseojwo yeongwonhi<br>Namaneul wihan inhyeongcheoreom<br>Baby good night<br><br>Jakku nal siheomhaji ma<br>Bulssanghan pyojeong ttawin no no no<br>Neoreul wihae mandeun sigan sokin geol<br>Deo isang tteonagal saenggakeun haji ma<br><br>Oh baby<br>Welcome to my dream world<br>Come, come, come in naman baraboge<br>Beoseonal su eobseo neon<br>Nae son ane isseo oh<br><br>Kkeuteobsi banbokdoeneun akmong sokeseo<br>Idaero gachyeo isseojwo yeongwonhi<br>Namaneul wihan inhyeongcheoreom<br>Baby good night<br>Baby good night</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "DREAMCATCHER",
+      "title": "MAISON",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/MAISON.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Sumi makyeo<br>Jeo meolli sarajeoman ganeun<br>Naeil Oh stay<br>Ttangeul ullyeo<br>Muneojineun igose<br>Seonmyeonghan Dead sign-gwa<br>Iksukaejin nugunga<br><br>Oh nal<br>Deoneun mot sogyeo da algo isseo<br>Supeul tugwahae bicheul ttaraga<br>All day all night<br>Gipsugi jari jabeun geudae<br>Break your habit now<br><br>Save my home in the jungle<br>Save my home in the polar<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Save my home in the ocean<br>Save my home in the desert<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Saramdeureun da hago shipeun daero hae<br>Jinshim biun kkeopdegippunin gohae<br>Nun jilkkeun gameo<br>Gidaridaga ttak bwado boiji anneun miraee<br>Huhwehal ttaeneun imi neujeottan geol ara Uh<br>Neo pyeonhagiman hamyeon dacheo<br>Be my side<br>Isanghage deopji? i haengseonge beopchik<br>Machi mallaganeun ni yangshimgwa ttokkatji Hoo<br><br>Oh nal<br>Deoneun mot sogeo da algo isseo<br>Meokkureum arae bireul ttaraga<br>All day all night<br>Gipsugi jari jabeun geudae<br>Break your habit now<br><br>Save my home in the jungle<br>Save my home in the polar<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Save my home in the ocean<br>Save my home in the desert<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Geochin barameul tago da muldeuryeo<br>Modeun gyejeori seonmyeonghan<br>Geu sunganeuro dollyeo<br>Heulleonaerin nae nunmul<br>Imi mure jamgin nun<br><br>Save my home in the jungle<br>Save my home in the polar<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Save my home in the ocean<br>Save my home in the desert<br>Jikyeonae naye Maison<br>Please someone fight for us<br><br>Jinacheo beorin sungan<br>Da sarajineun<br>(La maison la la la maison)<br>Moreun cheokaneun neodo<br>Da sarajineun<br>(La maison la la la maison)<br><br>Save my home in the jungle<br>Save my home in the polar<br>(La maison la la la maison)<br>Save my home in the ocean<br>Save my home in the desert<br>(La maison)<br><br>Please someone fight for us</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "DREAMCATCHER",
+      "title": "Odd Eye",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Odd-Eye.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Du nuneul tteo moduga baran challanhan igot<br>Sel su eopsi seulpeumeul heullin hu<br>Jogeumssik boineun New world<br><br>Gyeonggyeseoneul neomeoseon geu gonggan<br>Deo areumdaun punggyeongeul In my eyes<br>Gin banghwang kkeute chajeun deuthaetjiman tto<br>Majuchyeo beorin huimang sogui Lie<br><br>Deoukdeo gyomyohaejyeo My mistake Oh<br>Bicheuro garyeojineun So So Sorrow<br>Misoe soga bangsimhaneun geu sungan<br><br>Sumeun bimireul bwa Odd Eye<br>Deo gipi ppajyeodeureo bwa bwa<br>Da geureoldeuthan geojinmal<br>Dalkomhame garyeojyeo Woo<br><br>Gyeonggyereul heomuneun nungwa<br>Kkeutkkaji matseoryeoneun jeolmang<br>Kkeuchi itji aneulkka<br>Back and forth yeogin chatdeon gosi aningeol<br>No more Utopia<br><br>Yah Live it up Uh<br>Muuimie balbeodung chine<br>Gateun gose meomun deuthae<br>Dasi kkeuteomneun galjeungeul aneun chae<br>Singirul jjochado geogien eomneunde<br><br>Hwangholhan challa wanbyeokan hwansang<br>Hyeonsireul garin chae Ooh Uh<br>Dallajin nune boineun gyeolmal<br>Majuchyeo beorin huimang sogui Lie<br><br>Deoukdeo gyomyohaejyeo My mistake Oh<br>Bicheuro garyeojineun So So Sorrow<br>Misoe soga bangsimhaneun geu sungan<br><br>Sumeun bimireul bwa Odd Eye<br>Deo gipi ppajyeodeureo bwa bwa<br>Da geureoldeuthan geojinmal<br>Dalkomhame garyeojyeo Woo<br><br>Gyeonggyereul heomuneun nungwa<br>Kkeutkkaji matseoryeoneun jeolmang<br>Kkeuchi itji aneulkka<br>Back and forth yeogin chatdeon gosi aningeol<br>No more Utopia<br><br>Jogeupi jogeupi byeonhagil baratdeon na (isangjeogin kkum)<br>Jogeumssik jogeumssik sarajyeo ganeun galmang (Ah)<br><br>Nareul ttaraman oneun jul aratdeon<br>Geurimjareul ttaraganeun deusi Oh<br><br>Bakkuji mothaneun unmyeong soge<br>Huimangeun deo sarajyeo ga<br><br>Kkeunnae nuneul garyeo Odd Eye<br>Deo gipi ppajyeodeureo So dark<br>Da geureoldeuthan geojinmal<br>Dalkomhame garyeojyeo Woo<br><br>Gyeonggye sok heomuhan nawa<br>Kkeutkkaji matseoryeoneun jeolmang<br>Kkeuchi eopseul geot gata<br>Back and forth yeogin chatdeon gosi aningeol<br>No more Utopia</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "DREAMCATCHER",
+      "title": "PIRI",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/PIRI.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Du nuneul gameun sungan geomeun gonggan<br>Na hollo namgyeojeo (I I I)<br>Dashi nuneul tteodo kkumeul kkaedo<br>Nae hyeonshireun dareuji ana<br><br>Keojin bulcheoreom bulcheoreom bulcheoreom<br>Shwipge malcheoreom malcheoreom malcheoreom<br>Andwae mamcheoreom mamcheoreom mamcheoreom<br>Uh geurae mweo shigani da haegyeolhae jugetji<br><br>Kkeutto eopshi banbokdweneun jigeum<br>Gireul ireo hemaego itjiman<br>Neoege daeul su ittamyeon<br><br>Pirireul bureora<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>I know what you want to me<br><br>Pirireul bureora<br>Deo kkeudeopshi nan down down down for me<br>Shigani eopseo now it's not too late<br>Neobakke eopseo save me now imi nan<br><br>Emergency emergency<br>Pil-lil-lil-lil-lil-lil-ly<br>Pil-lil-lil-lil-lil-lil-ly<br>Emergency emergency<br>Pil-lil-lil-lil-lil-lil-ly<br>Pil-lil-lil-lil-lil-lil-ly<br><br>Amu sori eomneun kkum<br>Ontong nareul boneun nun ya<br>I don't wanna done<br>Neoreul chatgo inneun jung ya<br>Notchigo shipji ana<br>Naege soneul ppeodeo bwa<br>Geureoke shwipji ana<br>I've had a gun for a while<br><br>Bulcheoreom bulcheoreom bulcheoreom<br>Shwipge malcheoreom malcheoreom malcheoreom<br>Andwae mamcheoreom mamcheoreom mamcheoreom<br>Uh geurae mweo shigani da haegyeolhae jugetji<br><br>Kkeutto eopshi banbokdweneun jigeum<br>Ajikdo nan hemaego itjiman<br>Niga kkok deureul su ittorok whoa<br><br>Pirireul bureora<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>I know what you want to me<br><br>Pirireul bureora<br>Deo kkeudeopshi nan down down down for me<br>Shigani eopseo now it's not too late<br>Neobakke eopseo save me now imi nan<br><br>Emergency emergency<br>Pil-lil-lil-lil-lil-lil-ly<br>Pil-lil-lil-lil-lil-lil-ly<br>Emergency emergency<br>Pil-lil-lil-lil-lil-lil-ly<br>Pil-lil-lil-lil-lil-lil-ly<br>Emergency emergency<br><br>Gureum han jeom eomneun bam<br>Pureun angaega dweyeo<br>Nal ana jul su ittamyeon<br>Bameul saemyeo georeotteon<br>Gireul dashi ireodo<br>Niga oneun nalkkaji deo<br>Naneun gidaril tende oh<br><br>Pirireul bureora<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>Oh oh oh oh oh oh<br>I know what you want to me<br><br>Pirireul bureora<br>Deo kkeudeopshi nan down down down for me<br>Shigani eopseo now it's not too late<br>Neobakke eopseo save me hold me now now<br>Pirireul bureora</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "DREAMCATCHER",
+      "title": "Rainy Day",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Rainy-Day.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I biga jinagamyeon nado geudael jiul su itgil<br>Bitsoriga deullimyeon saranghaneun geudaega deo saenggagi nayo<br><br>Hamkke georeotdeon i gil sogeseo<br>Ijeotdeon gieokdeuri bureowa<br>Hajiman chueokaneun sigandeureun tteonagajyo<br><br>Bireul piharyeo ttwieotjiman<br>Jeojeobeorin eokkaeneun chagawojyeo<br>Usani eopseodo ije nan gwaenchanayo<br><br>Hamkke georeotdeon i gil sogeseo<br>Joatdeon gieokdeuri bureowa<br>Hajiman itgo sipeun siganmajeo saenggangnajyo<br><br>Bireul piharyeo ttwieotjiman<br>Neomeojin nae mureupeun deo aryeowa<br>Usani eopseodo ije nan gwaenchanayo<br><br>Woo<br><br>I biga geuchil ttaemyeon nae nunmuldo geuchil su itgil<br>Bitsoriga deullimyeon saranghaneun geudaega neomu geuriwojyeoyo<br><br>Sigani orae jinagamyeon da itgetjyo<br>I biga geuchyeodo nan yeogi isseulgeyo</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "DREAMCATCHER",
+      "title": "Scream",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Scream.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Garyeojin nunapi<br>Piro muldeullyeojine<br>Tell me why<br>I don't lie<br><br>Chagaun barameun bulgo<br>Siseoni neukkyeojyeo wa<br>Hyeolgwaneul tago heureuneun All pain<br><br>Mukkyeojin du son jeoryeooneun i neukkim<br>Modu naege doreul deonjyeodo<br>Beoseonaji mothae<br><br>Hanado nan jaemieopseo<br>Nugureul wihaeseoinji<br>Nuga jom malhae jwo Tell me<br>Taoreuneun bulgil wie Now<br><br>Please I don't want to scream<br>(Devil eyes come nuneul tteunda nuneul tteunda)<br>Please I don't want to scream<br>(Scream scream scream scream)<br>Eodum soge peojyeo Scream<br><br>Gamyeon dwiui Trick gasoroun Freak<br>Keojin jeungoga naeun mujagwi sogui Target<br>Taoreun galjeung samkyeodo wiseoneun da nae tasira hae<br>Naemollin kkeuteun jeolbyeok wie<br>Huhoeman nameul seontaegi dwae<br><br>Nalkaron kallalcheoreom nari seon mari<br>Sangcheo doeeo pagodeureodo<br>Kkeunchi mothaneun sum<br><br>Hanado nan al su eopseo<br>Nugureul wihaeseoinji<br>Nuga jom malhae jwo Tell me<br>Pieooreun yeongi soge Now<br><br>Please I don't want to scream<br>(Devil eyes come nuneul tteunda nuneul tteunda)<br><br>Modu tteonan hu<br>Dasi nuneul tteo<br>Sarajyeo beorin heunjeok<br>Can't believe me<br><br>Seulpeohaji mara No more No more No more<br>Nal wihae No more No more No more<br><br>Uh uh<br>Nega bon modeun geol ijeo<br>Amu il eopseotda mideo<br>Geureoke hana dul moduga michyeo ga Woo<br><br>I just wanna make you scream<br>(Devil Eyes Come)<br>Modu nareul bogo Scream<br>(Scream scream scream scream)<br><br>I just wanna make you scream</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "DREAMCATCHER",
+      "title": "Some Love",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/Some-Love.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ttokbaro georeo supyeong matchwo balkkeut neukkim ttara<br>Siseoneul himkkeot nopyeo machi gocheung bildingcheoreom<br>Du pareul beollyeo bwa naneun nega teukbyeolhadan geol ara<br>Gudeun momeul pulgo sesangeuro You already know<br><br>We all need some love<br>Jigeum neoegero jumuneul georeo<br><br>I sesangeseo jeil balgeun saekkkaldeullo<br>Gadeuk chaewo Color you Wah uh<br>Love yourself<br>I chimmugeul kkaewo jul gyeongjeok sorie<br>Muneul yeolgo nagaja<br>We all need some love<br><br>Haneurui saegeun Sky Blue (My color is rainbow)<br>Naega saenggakaneun daero nae moseubeul geuryeo<br>Moksori nopi ollyeo Let's get up<br><br>Jamkkan seon neomneun chamgyeoneun Stop<br>Geudeuri majado nae mameun ttaero dareunikka<br>Nuneul gameumyeon illeongineun ujuwado gata<br>Igoseseon Play my game<br><br>We all need some love<br>Jigeum neoegero jumuneul georeo<br><br>I sesangeseo jeil balgeun saekkkaldeullo<br>Gadeuk chaewo Color you Wah uh<br>Love yourself<br>I chimmugeul kkaewo jul gyeongjeok sorie<br>Muneul yeolgo nagaja<br>We all need some love<br><br>Never stop, never stop being yourself<br>Geu nuga mworaedo meomchuji ma<br>Idaero neon binnal geoya nunbusige<br><br>Sesangeseo jeil balgeun saekkkaldeullo<br>Gadeuk chaewo Color you Wah uh (woo)<br>Love yourself<br>I chimmugeul kkaewo jul gyeongjeok sorie<br>Muneul yeolgo nagaja<br>We all need some love<br><br>Believe in who you are<br>Oh love Oh love<br>We all need some love<br>Oh love</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "DREAMCATCHER",
+      "title": "VISION",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/VISION.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Gather around jeonghaejin wichiro<br>(Shinnyeomeul ullin shimjange tteollim)<br>Geu nugudo jeolttaero ttulchi motae kkume mirae<br><br>Not for me<br>Samakboda memareun igose<br>Chaeweojil su eomneun galjeung<br>Gallajin ttang wi geu teume<br>Gitbareul seugo masseo ssaweo<br>Gyeondil su eopseo deoneun sumeul su eopseo<br>Forward march<br><br>Bareul matchweo jeonjin Reload<br>Jeogi gadeukan gil wiro<br>Uri moduege Salute<br>I'll give you a vision<br><br>Jamkkane apeumeun gyeondyeo<br>Shwieogalsurok deo beonjeo<br>Geudeuregen eopseo Reason<br>I'll give you a vision<br><br>Yeah yeah uh<br>Turning over page<br>Turning over page<br>Turning over page<br><br>Jogeumsshik jopyeoga yuryeokan judongja<br>Namgyeojin Victim, big pain, deep gray<br>Chaja Like Jackie Chan, quickly, swiftly<br><br>Gonna hunt you<br>Gonna hunt you, karma<br>Gonna get you<br>Gonna get you, karma<br><br>Talchulgudo manggajeo weonmangmani namaseo<br>Geureoke geureoke We win on the straight<br><br>Not for me<br>Haneul gadeuk bunnoreul dameun deut<br>Gipge naeryeochineun Thunder<br>Inae jikyeonaen ttang geu wie<br>Gitbareul deulgo tto masseo ssaweo<br>Gyeondil su eopseo deoneun sumeul su eopseo<br>Forward march<br><br>Bareul matchweo jeonjin Reload (Oh)<br>Jeogi gadeukan gil wiro (geu wiro)<br>Uri moduege Salute<br>I'll give you a vision<br><br>Jamkkane apeumeun gyeondyeo<br>Shwieogalsurok deo beonjeo<br>Geudeuregen eopseo Reason<br>I'll give you a vision<br><br>I'll give you a vision<br>I'll give you a vision<br><br>Nunbushin neoye naeilgwa<br>Areumdaun igoseul wihae<br>Uril hyanghae Give it up tonight oh oh<br><br>Bareul matchweo jeonjin Reload<br>Jeogi gadeukan gil wiro<br>(Jeogi gadeukan gil wiro Yeah)<br>Uri moduege Salute<br>I'll give you a vision<br>(I'll give you a vision)<br><br>Jamkkane apeumeun gyeondyeo<br>Shwieogalsurok deo beonjeo (kkeudeopshi beonjeo)<br>Geudeuregen eopseo Reason<br>I'll give you a vision</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "DREAMCATCHER",
+      "title": "YOU AND I",
+      "image": "file:///android_asset/image/DREAMCATCHER.jpg",
+      "link_mp3": "mp3/YOU-AND-I.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Michin deushi dallyeodo<br>Neon dashi tto jejariyeottago<br>Geoul sok neoye moseubi oh oh<br>Ilgeureojineun mystery<br><br>(Fall in, fall in) haega jeomulmyeon<br>(Times to be) muneul yeoreodweo<br>Modeun bichi sarajin bam na na na na<br><br>Seureureuk seureureuk jamdeun<br>Seureureuk seureureuk gyeote<br>Amudo moreuge dagagalkke<br>Now oh now<br><br>Sumaneun sumaneun byeori<br>Neomaneul neomaneul bichugil<br>Hemaeji anke<br><br>Nuneul tteobwa<br>Nae soneul jababwa maeil<br>Kkumsogeman geuryeotteon najana<br>Geureokedo weonhan neowa nae shigandeul baby<br>Ijeneun nawa hamkkehae<br>Baby you and I<br>Baby you and I<br><br>Uh iksukan giri nasseolge neukkyeojeo<br>Neoreul bureuneun moksoriga deullyeo<br>Haneopshi chagaweojin nunppit<br>Doraseo ganeun neoreul sumgigo<br><br>Hollin deut ikkeullin geugoseun wiheomhae<br>No no no way<br><br>Seureureuk seureureuk jamdeun<br>Seureureuk seureureuk kkume<br>Amudo moreuge deureogalkke<br>Now oh now<br><br>Heureuneun heureuneun neoye<br>Chagaun chagaun nunmul da<br>Jiweojulkke<br><br>Nuneul tteobwa<br>Nae soneul jababwa maeil<br>Kkumsogeman geuryeotteon najana<br>Geureokedo weonhan neowa nae shigandeul baby<br>Ijeneun nawa hamkkehae<br><br>Muneul yeoreojweo<br>Gadeuk pume ankko hana dwen sungan<br>Dalppicheul modu dama<br>Kkeuchi eomneun jeo haneure<br>Balgeun bichi dwaejulkke<br>Eonjena kkumcheoreom stu ru tu tu<br><br>Nuneul gama<br>Nae soneul jababwa<br>Da ijeobeoryeo honjayeotteon shigan<br>Kkaman sesang soge ni pyeonhi dwaejulkke baby<br>Ijeneun nawa hamkkehae<br>Baby you and I<br>Baby you and I</font></p>"
+    }
+  ]
+}
