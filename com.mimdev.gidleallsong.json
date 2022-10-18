@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "(G)I-DLE",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "(G)I-DLE",
+      "title": "Change",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Change.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wanna live my life like yesterday<br>Never feeling do-o-own<br>Never feeling do-o-o-own<br><br>Woke up in another new day<br>Something has changed, don't feel the same<br>Alone hearing voices in my head<br>Thought that I had it all but it feels like nobody cares, nobody ca-ares<br>In a Tiffany dress, get off from white ben<br>Walk the red carpet, balge teojineun flash<br>Modeun sesangui gwansim sumaneun fans<br>Geurae sarange baega bureun geoji<br>Maeil kkumkkudeon saliya<br>Geurigo kkumi eopseojin saliya<br>Daeche eolmana daedanhan geol deo gajyeoya<br>Haengbokalkka gunggeumhan bamiya<br><br>Love and fame, it seems to be enough<br>When the truth is not that beautiful<br>Tears and pain are things I've never shown<br>No one knows, no one knows, no one knows<br>They think I'm okay, think I'm okay<br><br>Wanna live my life like yesterday<br>Never feeling do-o-own<br>Never feeling do-o-o-own<br>In the clouds, just stay there everyday<br>Never coming do-o-own<br>Never coming do-o-own<br><br>Life has ups and downs, just realized<br>Nothing lasts forever, yeah<br>One day if I fall, would you smile<br>And say you'll be there for me<br><br>I've been lying awake these days<br>Can't get away, everyone cha-anges<br>Every time you smile, don't you pretend<br>Ask myself every night and realize things won't be the same, won't be the same<br><br>Love and fame, it seems to be enough<br>When the truth is not that beautiful<br>Tears and pain are things I've never shown<br>No one knows, no one knows, no one knows<br>That I'm not okay, I'm not okay<br><br>Wanna live my life like yesterday<br>Never feeling do-o-own<br>Never feeling do-o-o-own<br>In the clouds, just stay there everyday<br>Never coming do-o-own<br>Never coming do-o-own<br><br>Life has ups and downs, it's alright<br>Nothing lasts forever, yeah<br>One day I will fall, can't deny<br>But I know you won't leave<br><br>Wanna live my life like yesterday<br>Never feeling do-o-own<br>Never feeling do-o-o-own<br>In the clouds, just stay there everyday<br>Never coming do-o-own<br>Never coming do-o-own</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "(G)I-DLE",
+      "title": "DARK (X-file)",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/DARK-(X-file).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Baby, why you down?<br>Wanna take a puff on my joint?<br>Gominhaji ma<br>Yeah, fire a shot<br>Gutge jamgyeojin bang<br>Bonneung ttawie samkyeojin bam<br>Michin momburim geurimja<br>Wensumanyang seororeul mangchyeonwa<br><br>Jeom jeom jeom tto<br>Deo geotjabeul<br>Su eopsi jiteojyeo<br><br>Kill the truth<br>Me and you<br>Geu mueotdo<br>Kkeunnael su eopseo<br>Heunjeokjocha namgimyeon an doel sai (an doel sai)<br>Pagoehaeya haneun the X-file (X-file)<br>Jeoldae chatji mothage gamchwonwa (gamchwonwa)<br>Deoreoun sarangui saekkkal dark (Dark)<br><br>Dark<br>Dark<br><br>Yeah, I'm crazy for you (What?)<br>Kiss me (Uh huh)<br>Don't you know it is a show anyway?<br>Yeah, uh<br><br>Gakkeum geureon saenggageul hae<br>Geunyang jom nappeumyeon an doelkka?<br>Sarameun chakamyeon apeunde<br>Charari nappeumyeon an doelkka?<br>Geunde neon nappeun geon sileun geojana<br>Maja ilneun ge swipji anchi<br>Nan inneun ge deo eoryeounde<br><br>Jeom jeom jeom tto<br>Deo geotjabeul<br>Su eopsi jiteojyeo<br><br>Kill the truth<br>You have to<br>Geu mueotdo<br>Kkeunnael su eopseo<br>Heunjeokjocha namgimyeon an doel sai (an doel sai)<br>Pagoehaeya haneun the X-file (X-file)<br>Jeoldae chatji mothage gamchwonwa (gamchwonwa)<br>Deoreoun sesang yuilhan light, bye<br><br>Dark<br>Dark<br>Dark<br>Dark<br><br>Dark</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "(G)I-DLE",
+      "title": "HANN (Alone)",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/HANN-(Alone).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Do you remember you remember<br>Remember what you said (said)<br>Neoneun naege mweodeun jul geotcheoreom mareul geonnetta (geonnetta)<br>Don't you remember you remember<br>Remember what you said (said)<br>Neoneun machi museun yageul meogeun manyang byeonhaetta<br><br>Deuriweojin Blue nae heuryeojineun nun<br>Jinjja Is this true huhoe an hanyago<br>Nae eojeye My boo boo boo<br>Lonely life joa<br>Da samkyeobeorin mul nan shigeobeorin deut<br>I want you to be ruined butjabji anha kkeut<br>Neon eojeye My boo boo boo<br>Lonely life jal ga<br><br>Chagapge nareul bonda namin deut doraseonda<br>Nan meonghani seoitta<br>Mollatteon neoreul bwatta geujeo useumman naonda<br>Nan ije neoreul molla<br><br>Neol ijeurira Woo woo woo<br>Jeori ga oji ma dorabojido mala<br>Neol jiurira Woo woo woo<br>Jeori ga oji ma dorabojido mala<br><br>Do you remember you remember<br>Remember what you said (said)<br>Naneun eotteon maldo mot haebon chae neoreul bonhaetta (bonhaetta)<br>Don't you remember you remember<br>Remember what you said (said)<br>Naneun machi museun yageul meogeun manyang byeonhaetta<br><br>Da byeonhaetta<br>Tto heunan sarangcheoreom bbeonhaetta<br>Gumjurin sajacheoreom neoneun nal neomu weonhaetta<br>Sonjitgwa geonnen mal<br>Geojitmarieottamyeon neon sesang jeil motdwaetda<br>Geureon geoji da ttokgatji<br>Eommaga hhaetteon mal jeonbu da majji<br>Sarangeun kkamage byeonhaetta dollil su eobge da taeweotta<br>Oneul nan nae gieok sogeseo neol eobsaetta<br><br>Chagapge nareul bonda namin deut doraseonda<br>Nan meonghani seoitta<br>Mollatteon neoreul bwatta geujeo useumman naonda<br>Nan ije neoreul molla<br><br>Neol ijeurira Woo woo woo<br>Jeori ga oji ma dorabojido mala<br>Neol jiurira Woo woo woo<br>Jeori ga oji ma dorabojido mala<br><br>Meongdeun nae mame heunjeogeul jiugo<br>Jeongdeun ne nune nae mameul bichujyo<br>Neomu chagaweo kkamjjak nollalji molla<br>Dashi nae ape doraonda haedo<br>Ijen badajul jariga eomneyo<br>Kkeuti nan geojyo nan ije neoreul molla<br><br>Neol ijeurira Woo woo woo<br>Jeori ga oji ma dorabojido mala<br>Neol jiurira Woo woo woo<br>Jeori ga oji ma dorabojido mala</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "(G)I-DLE",
+      "title": "HWAA",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/HWAA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeah<br><br>Chadichan hangyeouri deopchin deut, yeah<br>Siganeun da eoreobeorigo<br>Janinhan geu barami namgin deut han<br>Eodumeun deo gipeo beorigo<br><br>Beoseonario<br>Kkeuteopsi pyeolchyeojin giyak eopsneun gyejeoreul<br>Jiwonaerio<br>Tteugeopji mot han naldeure hollo dein hyungteoreul<br>Keunbureul naerio i nae ane<br>Nunmuri deoneun mot salge<br>Nan hwareul naerio deo hwareul naerio<br>Ilheotdeon bomeul doechajge<br><br>Chagapge buneun barami<br>Nuni hayahge deopin maeumi<br>Achimi omyeon budi modu nogeul su itge, ooh<br>Bureul jipyeora<br><br>Hwaa (taolla taolla)<br>Hwaa (kkot-piurira)<br>Hwaa (taolla taolla)<br>Hwaa (kkot-piurira)<br><br>Nae neoui heunjeok namji anhge hari (Yeah yeah)<br>Mosda han wonmangdo hwolhwol tari (Yeah yeah)<br>Sseulsseulhan chuwireul geodwo gagil<br>Namgyeojin sideureun kkotgireul jeuryeo balpji<br>Haneul pullira dasigeum bomeul nurira<br>Chueogeun mojori buri na georeumi dwae<br>Chanranhan kkoteul piurira<br>Nan hwareul naerio deo hwareul naerio<br>Ilheotdeon bomeul doechajge<br><br>Chagapge buneun barami<br>Nuni hayahge deopin maeumi<br>Achimi omyeon budi modu nogeul su itge, ooh<br>Bureul jipyeora<br><br>Hwaa (taolla taolla)<br>Hwaa (kkot-piurira)<br>Hwaa (taolla taolla)<br>Hwaa (kkot-piurira)<br><br>Kkeunheojin inyeonui miryeoneul pume ango (ango)<br>Siryeossdeon siganeul nareul taewoganda hwa<br>Hwaa<br>Hwaa<br>Bureul jipyeora<br><br>Kkot-piurira</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "(G)I-DLE",
+      "title": "LATATA",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/LATATA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ginagin neowa i bameul neowa ireoke neowa<br>Gidarin neowa shiganeul neowa ireoke neowa<br>Eodum sok Red light<br>Shiseoneun Left right bul wireul geonna<br>Shijage jeomhwa gakkai onda nuga mweo geomna<br><br>Uh oh eodikkaji deo gipi ppajeodeulji<br>Jungdokdwen hyanggikkaji geureoke dwiseokkyeobeoriji<br>Geurae deo deo bultaeweo beoryeojige<br>Naeireun urin eomneun geoya neo<br><br>I love ya<br>Neol wihan noraereul hae gipge deo ppajige Lata<br>I love ya<br>Neol wihan chumeul chweo naege neol gachige Lata<br>I love ya<br>Latata latata latata latata<br>Latata latata latata latata<br>Nal wihae bulleojweo pyeongsaeng neol mot itge Lata<br>I love ya<br><br>I love ya<br>Every day every night latata<br>I love ya<br>Every day every night latata<br><br>Don't be lazy dagawa Baby<br>Shiganeun neomu jjapgo igeon ajik Basic<br>Jom deo gipeun goseuro deo deureoga nareul meogeumgo<br>Chwihaedo dwae jungyochi ana naeiri<br><br>Aju hwaryeohan i chumeun rattatta<br>Tteugeopge bultaeul geoya dadada<br>Mweo eoryeoweo da neol bureoweohae<br>Joa i bameul bultaeweo<br>Muah muah muah<br><br>Uh oh eodikkaji deo geuri nappajilji<br>I bameun achimkkaji geureoke deo micheobeoriji<br>Geurae deo deo bultaeweo beoryeojige<br>Naeireun urin eomneun geoya neo<br><br>I love ya<br>Neol wihan noraereul hae gipge deo ppajige Lata<br>I love ya<br>Neol wihan chumeul chweo naege neol gachige Lata<br>I love ya<br>Latata latata latata latata<br>Latata latata latata latata<br>Nal wihae bulleojweo pyeongsaeng neol mot itge Lata<br>I love ya<br><br>I love ya<br>Every day every night latata<br>I love ya<br>Every day every night latata<br><br>Ginagin neowa i bameul neowa ireoke neowa<br>Gidarin neowa shiganeul neowa ireoke neowa<br>Eodum sok Red light<br>Shiseoneun Left right bul wireul geonna<br>Shijage jeomhwa gakkai onda nuga mweo geomna<br><br>I love ya<br>Every day every night latata<br>I love ya<br>Every day every night latata</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "(G)I-DLE",
+      "title": "LION",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/LION.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ooh, I'm a lion, I'm a queen, amudo<br>Geurae woo nal gadul su eopseo apeumdo<br><br>Bulgeun taeyang arae fire<br>Parake taneun flower<br>Mijigeunhan neoui aereul taeuge<br>Saljjak deureonaeneun sharp claw<br>Daraoreuneun sangcheo<br>Baljagugeun nae wanggwaneul maemdolge<br><br>Nan naui nuneul garigo<br>I eumage momeul matgigo<br>Ppeonhan rideumeul mangchigo<br>Sajaui chumeul bachigo<br>Neon naui nuneul salpigo<br>I eumage momi malligo<br>Tteugeoun rideume gatigo<br>Sajae chumeul bachigo<br><br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Eh oh<br><br>Geu ganginhan ureumeun neoui bareul naege dollyeo<br>I neolbeun hwangya sok keugo dandanhan ssireul ppuryeo<br>Geu ungjanghan bureumeun neoui mameul naege dollyeo<br>I gipeun badatsokkkaji geochin mellodil kkoja<br><br>Deo tameul naeji mareo<br>Jaril jikineun lion<br>Ttaeroneun sanawo jilji moreuni<br>Ije hwanhoui eumeul nopyeo<br>Modu gogaereul ollyeo<br>Eorin sajaui wanggwaneul ssuiuni<br><br>Nan naui nuneul garigo<br>I eumage momeul matgigo<br>Ppeonhan rideumeul mangchigo<br>Sajaui chumeul bachigo<br>Neon naui nuneul salpigo<br>I eumage momi malligo<br>Tteugeoun rideume gatigo<br>Sajae chumeul bachigo<br><br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Eh oh<br><br>Sseuldeeomneun yeui ttawin mureotteudeo<br>Pyeongyeoniran dapdapan urineun muneotteuryeo<br>Gamhi tto nuga nal makgo tto nuga nal jojonghae<br>Josimhae dadeumji mothan baltobeuro<br>Amudo gabon jeogi eomneun gaecheokaneun gil<br>Ppeonhae ppajin kkondaedeureun hyeoreul chadeon jit<br>Geugeol haenaegoseoya banneun baksuneun<br>Deo jjarithan masiji<br>Geugeol matbwatgo ije bujeonghal su eopseo<br>I'm a queen<br><br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Bwabwabwa bwabwabwa bwabwabwa<br>It looks like a lion<br>I'm a queen like a lion<br>Eh oh<br><br>Ooh, I'm a lion, I'm a queen, amudo<br>Geurae ooh gildeuril su eopseo sarangdo</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "(G)I-DLE",
+      "title": "LOVE",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/LOVE.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey ex-boyfriend (Hey, ex)<br>Jakku inseuta yeomtamhadeonde (Uh, hmm-mm, uh)<br>You hope to get back? (Get back?)<br>Algetjiman my life is perfect<br><br>Right after world tour, magazines, radio, CFkkaji<br>Momi baek gaedo mojaral geo gata-ah-ah (Ah-ah, ah-ah)<br>Ijen naega neol eolmakeum<br>Saranghaesseotdeonjido forgot it (Yeah)<br><br>Now I'm amazing I feel crazy<br>Aju meotjin saleul chajeun<br>Jigeum naege puk ppajin geot gata, ah<br>Wanna be married? It was crazy<br>Aju meotjin sarang ttawireul baratdani<br>Jeongmal michyeotji mariya (Crazy)<br>Thanks, breaking up the love<br><br>Love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love (Okay)<br>I'm lucky, lost the love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love (Okay)<br>Thanks, breaking up the love<br><br>Back in those days<br>Bameul saedorok ulgon haetji<br>I lived in my dream<br>Huhoehage mandeullyeo haetji (Mm-mm-mm)<br><br>Mwo deureotgetji, geurae &quot;TOMBOY,&quot; ije &quot;Nxde&quot;kkaji<br>Naega bwado cham daedanhan geot gata-ah-ah (Ah-ah, ah-ah)<br>Ijen neol ppaeseogan geu eonnil majuchinda haedo<br>Anyway (Yeah)<br><br>Now I'm amazing I feel crazy<br>Aju meotjin saleul chajeun<br>Jigeum naege puk ppajin geot gata, ah<br>Wanna be married? It was crazy<br>Aju meotjin sarang ttawireul baratdani<br>Jeongmal michyeotji mariya (Crazy)<br>Thanks, breaking up the love<br><br>Love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love (Okay)<br>I'm lucky, lost the love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love<br>Thanks, breaking up the love<br><br>I'm lucky, found my love, love, love<br>Dasineun geunal geuttaecheoreom nal ulliji aneul<br>Meotjin aeindo na saenggin geot gata-ah-ah<br>Gomawo jinjja sarangeul neon chatge haejwosseo<br>My love is (Guess who?)<br>That's me, she's my love<br><br>Love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love (Okay)<br>I'm lucky, lost the love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love, love, love<br>Lo-lo-lo-love (Okay)<br>Thanks, this is my 'I love'</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "(G)I-DLE",
+      "title": "MY BAG",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/MY-BAG.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br><br>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br><br>Uh oh I know you like it<br>My voiceneun malhae mwo hae God dang<br>Uh oh I just like it<br>Taesaengbuteo maneun Money gwansim eopji<br><br>Ssagaji eomneun mudaeui motdoen beominui nunbit<br>Fantasyran mareun nareul ppaego da geumji<br>Geulleo meogeun neoui gam modu nareul wihan bap<br>Dokan Vibe sugar high mat jom bwara modu Die<br><br>Rum-rum-rum Rumble da Crumble<br>I Voiceneun Drumedo No lose<br>No no no lovely I'm Bumblebee<br>Geunyang huk deureogal ppun an hae One, two<br><br>I never had geop a.k.a &quot;Giant dog&quot;<br>Acha hago sseudadeumeun dachyeo igeon eojjeom beom<br>I value my love geuman dudeulgyeo neo<br>Meori bin meongcheongideulgwaneun noneun muri jeonhyeo dalla Ye you know<br><br>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br><br>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br><br>Gabyeoun geon No no<br>Gongpoeneun deomdeom<br>Nappeun nomegen worwol<br>Deombyeobwara Come come<br><br>I'm a cool lady yuilmui kaerik<br>Nega beolbeol tteoneun eonnideul sai Boss baby<br>Neomchineun Jealousy<br>But that's too early<br>Nae pibubuteo Younghan geoseun eongeupagido gwichanne<br><br>Jonjaega Princess eojjeomyeon beomjoe<br>Neomchineun Bullet mameul gwantonghae<br>Hyanggineun Like rose and beautiful red<br>Hwaga nan gasiui geudae Blood ye<br><br>Ajik ilji aneun yeollakdeureun apeurodo ilji aneul geoni<br>Heotdoen huimangdeureun jeogi beoryeodugil<br>You know say no<br><br>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br><br>Red five diamonds in my bag<br>If you wanna see it, dance to a beat like that<br>My mama saw it and 'Oh my god dang'<br>Ok I'll show you what's in my bag<br></font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "(G)I-DLE",
+      "title": "Nxde",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Nxde.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Why you think that 'bout nude?<br>'Cause your view's so rude<br>Think outside the box<br>Then you'll like it<br><br>Hello my name is yeppi yeppiyo<br>Maltuneun meongcheonghan deut mommaeneun sexy, sexyyo<br>Geureom daia bakin tiara hanae<br>Naega peogina utge peogina utge<br>Dwiteullyeobeorin rorellai, don't need no man<br>Cheolhage michin dokseogwang, self-made woman<br>Ssagajieomneun i storye muji hwangdanghan<br>Yayuhaneun gwangaekdeul, you tricked me, you're a liar<br><br>Ah, balgabeotgyeojyeo beorin movie star<br>Ah, byeolbichi kkaejyeobeorin bam<br>Kkori bolpumeopdaedo manggajinda haedo<br>Dasin sarangbatji mothandaedo<br><br>Yes, I'm a nude<br>Nude (ttattaratttara)<br>Yes, I'm a nude<br>Nude (I don't give a love)<br><br>Baby, how do I look? (Yeah) How do I look? (Yeah)<br>Arittaun nal ipgo ttattaratttara<br>Baby, how do I look? (Yeah) How do I look? (Yeah)<br>Arittaun nal ipgo ttattaratttara<br><br>Ouch<br>Sillyehamnida yeogi gyesin modu<br>Yahan jakpumeul gidaehasyeotdamyeon<br>Oh, I'm sorry, geuttan geon eopseoyo<br>Hwanbureun jeojjok daejungeun heungmi eomneun jeongbo<br>Geu papkoneul deonjyeodo deomdeom (deomdeom)<br>Haengbokgwa banbirye pyeongjeom<br>But my jeongjeom meotdaero naen pyeongyeoneun tohal geo gatji<br><br>Ah, balgabeotgyeojyeo beorin movie star<br>Ah, deo bukkeureoul ge eomneun bam<br>Kkori bolpumeopdaedo eojjeomyeon negedo<br>Dasin sarangbatji mothandaedo<br><br>Yes, I'm a nude<br>Nude (ttattaratttara)<br>Yes, I'm a nude<br>Nude (I don't give a love)<br><br>Baby, how do I look? (Yeah) How do I look? (Yeah)<br>Arittaun nal ipgo ttattaratttara<br>Baby, how do I look? (Yeah) How do I look? (Yeah)<br>Arittaun nal ipgo ttattaratttara<br><br>Mm, ah<br>Mm, ah<br>Mm, ah<br>Yes, I'm a nude<br>Yes, I'm a nude<br>Now I draw a luxury nude<br><br>Why you think that 'bout nude?<br>'Cause your view's so rude<br>Think outside the box<br>Kkago malhae<br>Arittaun naui nude<br>Areumdaun naui nude<br>I'm born nude<br>Byeontaeneun neoya<br><br>Rude<br>Nude</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "(G)I-DLE",
+      "title": "Oh my god",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Oh-my-god.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Nunbusin haneure siseoneul garin chae ne pum ane angine<br>Heureuneun eumage jeongsineul ppaetgin chae geudaero ppallyeo deune (Oh God)<br>Help me help me sumi meojeul geot gachi I feel<br>Set me free set me free noga beoril geot gachi So sick<br><br>Swil teum eopsi ppajyeodeulgo irijeori gatgo nolgo<br>Iseongeul kkaebusugo jemeotdaero deureooji<br>Wiheomhani gatgo sipgo apeumkkaji ango sipgo<br>Gyeolguk neoreul pumeuni nan<br><br>Oh my god, she took me to the sky<br>Oh my god, she showed me all the stars<br><br>Babe babe dallyeodeul geonman gachi Come in<br>Make me make me jeongsin nagal geot gachi Like it<br><br>Oh god eojji jeoege<br>Ireon siheomeul jwonnayo Is it a call from hell?<br>Can't stop daeche eotteoke geunyeoreul ppajyeonagalkkayo<br>Dangsini jun jeoljeneun eoduun beullaekol sok galgigalgi<br>Jjitgyeojyeo honi nagan chaero geujeo eoribeori<br>Tongjega bulganeunghae seoltang ppurin mayakgachi<br>Ige joeramyeon beorirado aju dalge batji<br><br>Michin deusi areumdapgo dasi boni angma gatgo<br>Iseongeul ssok ppaenoko jemeotdaero deureooji<br>Bulkkotcheoreom gangnyeolhago deilmankeum saranghago<br>Gyeolguk neoreul pumeuni nan<br><br>Oh my god, she took me to the sky<br>Oh my god, she showed me all the stars<br><br><br>Jiteun boratbit hyanggil onmome muldeurigo<br>Nopgo neolbeun haneurui jeo kkeutkkaji peoteurine<br>Jiteun bulgeunsaek sarangeul eolgure saegigo<br>Geu nuga mwora haedo Fall in love<br><br>Oh my god, she took me to the sky<br>Oh my god, she showed me all the stars<br><br>Nunbusin haneure siseoneul garin chae ne pum ane angine<br>Heureuneun eumage jeongsineul ppaetgin chae geudaero ppallyeo deune</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "(G)I-DLE",
+      "title": "Reset",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Reset.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Geumanhaja geu mari daya?<br>Eojjeom neon kkeutkkaji motdwaenni<br>Geurae geumanhaja charari jal dwaetdago<br>Neo gateun nomegeseo nan baekbaeneun akkawosseo<br><br>Mot mannan chingudo manna (Ayy)<br>Nal wihan seonmuldo sabwa (Ha)<br>Saenggakboda honjado gwaenchaneun geo gata<br>Geoul soge malhae bojiman<br><br>Ssodajideon bada sali jamgyeotdeon nal<br>Sumi meojeun chae harureul saraga<br>Morachineun baram maeumi jamgyeotdeon nal<br>Eonjejjeum i heomhan nari kkeunna dasi yeol suga isseulkka? (Ha)<br><br>Reset my phone, akkyeotdeon sajindo<br>Onyeonui sigando bujireomneun geol<br>Toge sumaneun gyeolguk ne chingudeulgwa<br>Yeojeonhage mwotdo eomneun geu peuropildo yeokgyeowo<br><br>Gakkeum suljarido naga (Ayy)<br>Na jotaneun namjado mana (Ha)<br>Saenggakboda honjado gwaenchaneun geo gata<br>Geoul soge malhae bojiman<br><br>Ssodajideon bada sali jamgyeotdeon nal<br>Sumi meojeun chae harureul saraga<br>Morachineun baram maeumi jamgyeotdeon nal<br>Eonjejjeum i heomhan nari kkeunna dasi yeol suga isseulkka? (Ha)<br><br>Nado nega sileojyeosseo (sileojyeosseo)<br>Jeoldae deulkiji aneul i geojinmal<br>Geurae aniya aniya geuchiman babodo aniya<br>Wollae soljikan geo aljana<br><br>Tteonagaji mara kkuk samkyeotdeon mal (No)<br>Ajik beokchage joahandan mariya (joahandan mariya)<br>Doraoji ana kkuk chamaya hae (ana, woah-oh)<br>Nado eonjengan neocheoreom dareun saranghal suga isseulkka?</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "(G)I-DLE",
+      "title": "Sculpture",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Sculpture.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ah, ah, ah<br><br>I wanna be<br>Geu jakpumi, i i<br>Dadeul michyeotdajiman<br>Imi you are my artist (Mm, whatever)<br>Naega jalhalge<br>Jjalbeun meorido du beon dasineun an halge<br>Malhaetjana geu chinguneun jeoldae nappeun aeneun aninde<br>Geurae siltamyeon oneulbuteo geunyang an mannalge<br>Uisim an hae nolda bomyeon yeollak eoryeopjana bame<br>Eoje neutge jaseo pigonhagetda<br>Oneureun jom swillae?<br>Singihaji naega wollae jom chakae<br><br>Igeo bwa bwa naega<br>Ne malgwa ne modeun geose matchwo<br>Geuryeojil tenikka<br><br>Na michige sarangbatgo sipeo<br>Neoui jogakpumi doeeodo<br>Geukkat naega kkakkyeojineun geu gotongjjeum<br>It's okay, I'm your sculpture<br><br>Your sculpture<br>Your sculpture<br>Your sculpture<br><br>I know, I see-ee-ee<br>Nado cham mwot gatji<br>If there'll be a party<br>Useumyeo dressreul tto joigetji<br><br>Geurae bwa bwa naega<br>Ne malgwa ne modeun geose matchwo<br>Geuryeojigo isseo<br><br>Na michige sarangbatgo sipeo<br>Neoui jogakpumi doeeodo<br>Geukkat naega kkakkyeojineun geu gotongjjeum<br>It's okay, I'm your sculpture<br><br>Your sculpture<br>Your sculpture<br>Your sculpture<br><br>Nan haengbokan ge maja, ani haengbogi manna<br>Neoui sarangbadeuni? jukdorok haengbokan geogetji<br>Da kkakkyeobeorin onmome geumi gado<br>Geurae neol ilneun geotboda nal ilneun ge swiul geot gata<br><br>Na michige sarangbatgo isseo<br>Neoui jogakpumin geol arado<br>Geukkat haeya buseojineun geu gotongjjeum<br>It's okay, I'm your sculpture<br><br>Your sculpture<br>Your sculpture<br>Your sculpture</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "(G)I-DLE",
+      "title": "Senorita",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Senorita.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Geudaeyeo wae geureoke cheodabonayo?<br>Amu maldo geonnejuji anko<br>Naye nuneul pihajido anko<br>Geudaeyeo wae geureoke gakkai wayo?<br>Ajik urin moreuneun ge mancho<br>Na geudael mweora bulleoya hajo<br><br>Jogeum ppareuge eojjeom bappeuge<br>Mweodeun I don't care I don't care I don't care<br>Mweonga dareuge deo nappeuge<br>Mweodeun I'm ok I'm ok I'm ok<br>Na eotteokajo<br><br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Iri wa iri wa iri wa iri wa<br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Hey se&ntilde;or<br><br>Dagawa jweoyo naegero<br>Ana jweo sege deo<br>Algo shipeo about you<br>I fell in love with you<br>Mollayo it is true<br>Geunyang love you so love you so love you so<br>Bulleo jweoyo nareul<br><br>Se&ntilde;orita<br>Se&ntilde;orita<br>Se&ntilde;orita<br>Se&ntilde;orita<br><br>Geudaeyeo wae geureoke utgo innayo<br>Jakku maeumi geudaeyege gajo<br>Na geudael eojji bonaeya hajo<br><br>Geunyang neon naegeman jipjunghae bwa<br>Namdeul nuni jungyohanga<br>Gadeuk pume ana jweo bwa ireum ttawi mollado dwae<br>Gatgo shipda malhae bwabwa saranghae bwa<br><br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Uh oh oh oh uh oh<br>Hey se&ntilde;or<br><br>Dagawa jweoyo naegero<br>Ana jweo sege deo<br>Algo shipeo about you<br>I fell in love with you<br>Mollayo it is true<br>Geunyang love you so love you so love you so<br>Bulleo jweoyo nareul<br><br>Se&ntilde;orita<br>Se&ntilde;orita<br>Se&ntilde;orita<br>Se&ntilde;orita<br><br>Yuhu huhuhu huhu huhu<br>Yuhu huhuhu huhu huhu<br>Yuhu huhuhu huhu huhu<br>Yuhu huhuhu huhu huhu<br><br>(Se&ntilde;orita) yuhu huhuhu huhu huhu<br>(Se&ntilde;orita) yuhu huhuhu huhu huhu<br>(Se&ntilde;orita) yuhu huhuhu huhu huhu<br>(Se&ntilde;orita) yuhu huhuhu huhu huhu<br><br>Hey se&ntilde;or</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "(G)I-DLE",
+      "title": "TOMBOY",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/TOMBOY.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yeah tomboy<br><br>Look at you neon mot gamdanghae nal<br>Ya took off hook gibuneun Coke like brrr<br>Look at my toe naye Ex ireum Tattoo<br>I got to drink up now niga shilta haedo joa<br><br>Why are you cranky, boy?<br>Mweol geuri jjinggeuryeo neo<br>Do you want a blond Barbie doll?<br>It's not here, I'm not a doll<br>(I-DLE think you can)<br><br>Michin yeonira malhae What's the loss to me ya<br>Sajeongeopshi kkaborago You'll lose to me ya<br>Sarang geukkat geo ttawi nae mome<br>Sangcheo hanado eorimeopji<br>Neoye sseogeun nae naneun hyangsuna ppuril baen<br><br>Yeah I'm f&mdash; tomboy (Umm ah umm)<br>Yeah I'll be the tomboy (Umm ah)<br>This is my attitude<br>Yeah I'll be the tomboy<br><br>SY I don't wanna play this ping pong<br>I would rather film a TikTok<br>Your mom raised you as a prince<br>But this is queendom, right?<br>I like dancing, I love ma friends<br>Sometimes we swear without cigarettes<br>I like to eh on drinking whiskey<br>I won't change it, what the hell?<br><br>Michin cheogira malhae What's the loss to me ya<br>Sajeongeopshi sshibeurago You're lost to me ya<br>Sarang geukkat geo ttawi nae nune<br>Nunmul han bangul eorimeopji<br>Neoye hachaneun male misona jieul baen<br><br>Yeah I'm f&mdash; tomboy (Umm ah umm)<br>Yeah I'll be the tomboy (Umm ah)<br>This is my attitude<br>Yeah I'll be the tomboy<br><br>Said you get it?<br>You get the song right<br>You'll get what I mean &quot;tomboy&quot;<br><br>La la la la la la la la la<br>La la la la la la la la la<br><br>La la la la la la la la la<br>La la la la la la la la la<br>(Three, two, one)<br><br>It's neither man nor woman<br>Man nor woman<br>It's neither man nor woman<br>(Just me I-DLE)<br><br>It's neither man nor woman<br>Man nor woman<br>It's neither man nor woman<br>(Just me loving tomboy)</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "(G)I-DLE",
+      "title": "Uh-Oh",
+      "image": "file:///android_asset/image/(G)I-DLE.jpg",
+      "link_mp3": "mp3/Uh-Oh.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Uh-oh geogi nugungayo<br>Uh-oh nareul andagoyo<br>Uh-oh nan ijeobeoryeossjyo beoryeossjyo<br><br>Neodo usgiji anhnayo<br>Nan jom danghwangseureopneyo<br>Uh-oh chinhan cheok marajwo malhago danyeo<br><br>Uh-uh-oh manjiji malgo jeogi tteoreojyeoyo<br>Naege mworeul wonhanayo<br>Da ttokgatjyo neocheoreom<br>Neo gateun geoneun ije jeonhyeo moreugessneyo<br>Uh-uh-oh na byeonhaessnayo<br>Da ttokgatjyo neocheoreom<br><br>Bepulgeona naejugeona cheonsa gateun Hello<br>Dalkomhage satang ballin maldo<br>Yeui eopseo chakhan cheok malgo kkeojyeo<br>Ije wa gasik ttawi tteolji mara<br><br>Maemdolgeona mal geolgeona<br>Bakjwi gateun Follower<br>Nae seonggongeul jeomchyeossdaneun Liar<br>Eoieopseo chinhan cheok malgo kkeojyeo<br>Neol wihan gasik ttawin gidae mara<br><br>Eongmangjinchang Only see now<br>Mollassji ori sok Swan<br>Hwangholhan keikeu wi Blow out<br>Nae meori wie Crown<br><br>Yo malhaessji igosui boseogeun naya<br>Tujahae eoseo<br>Neon beonjjeokgeorin geosman chajneura<br>Yeogil beonjjeok deureo ollil nan mot chajasseo<br><br>Uh uh uh uh uh uh<br>No no no no no no<br>Neo byeollo deo byeolloya dwaesseuni kkeojyeo<br><br>Uh-uh-oh manjiji malgo jeogi tteoreojyeoyo<br>Naege mworeul wonhanayo<br>Da ttokgatjyo neocheoreom<br>Neo gateun geoneun ije jeonhyeo moreugessneyo<br>Uh-uh-oh na byeonhaessnayo<br>Da ttokgatjyo neocheoreom<br><br>Bepulgeona naejugeona cheonsa gateun Hello<br>Dalkomhage satang ballin maldo<br>Yeui eopseo chakhan cheok malgo kkeojyeo<br>Ije wa gasik ttawi tteolji mara<br><br>Maemdolgeona mal geolgeona<br>Bakjwi gateun Follower<br>Nae seonggongeul jeomchyeossdaneun Liar<br>Eoieopseo chinhan cheok malgo kkeojyeo<br>Neol wihan gasik ttawin gidae mara<br><br>Uh-oh mideul su eopsge<br>Uh-oh sondael su eopsge<br>Uh-oh jalmosdoen geot gateun yaegi<br><br>Yo you got it<br>Don't mess with me<br>Umm I'm not finished<br>Ok let's go<br><br>Amudo mollassji<br>I Masterpiece i Masterpiece<br>Ipgae banbokdoeneun Melody oh melody<br>Neomuna wanbyeokhan nae A to Z oh A to Z<br>Paendeureun saranghae<br>Yeah L-O-V-E yeah L-O-V-E<br><br>Uh-oh</font></p>"
+    }
+  ]
+}
