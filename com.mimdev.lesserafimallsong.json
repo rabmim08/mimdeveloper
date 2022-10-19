@@ -1,0 +1,128 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "LE SSERAFIM",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LE SSERAFIM",
+      "title": "ANTIFRAGILE",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/ANTIFRAGILE.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Anti ti ti ti fragile fragile<br>Anti ti ti ti fragile<br>Anti ti ti ti fragile fragile<br>Antifragile antifragile<br><br>Gashibatgil wiro Riding<br>You made me boost up<br>Geojiseuro gadeuk chan Party<br>Garyeopjido ana<br>Nae dwie maldeuri mana<br>Nado cheom deunneun nae Rival<br>Modu gidohae nae Falling<br>Geu son wiro I'mma jump in<br>Yes gimme that<br><br>Georeobwa wieom Like a lion<br>Nunppichen geodaehan Desire<br>Deo bueo Gasoline on fire<br>Bulgil soge dashi nara Rising<br><br>Itji ma naega dugo on Toe shoes<br>Museun mari deo piryohae<br>Mushi ma naega georeoon keorieo<br>I go to ride till I die die<br><br>Deo nopi gajulge<br>Naega baratteon segye jel wie<br>Tteoreojeodo dwae I'm<br>Antifragile antifragile<br>Nan jigeum On my way<br>Gattabeoryeo jweo neoye Fairy tale<br>Now you know my name, I'm<br>Antifragile antifragile<br><br>Anti ti ti ti fragile fragile<br>Anti ti ti ti fragile<br>Anti ti ti ti fragile fragile<br>Antifragile antifragile<br><br>&quot;Lovey lovey lovey dovey dovey dovey&quot;<br>Meottaero jeonghane naran aee daehae<br>I don't know what to say I can't feel it<br><br>Tteugeoun gwanshimeun hwanyeong<br>Gwiyeoun jiltuneun Go ahead<br>Jul dallin inhyeongeun No thanks<br>Nae mirael sseul naye norae<br>Yes gimme that<br><br>Georeobwa wieom Like a lion<br>Nunppichen geodaehan Desire<br>Deo bueo Gasoline on fire<br>Bulgil soge dashi nara Rising<br><br>Itji ma naega dugo on Toe shoes<br>Museun mari deo piryohae<br>Mushi ma naega georeoon keorieo<br>I go to ride till I die die<br><br>Deo nopi gajulge<br>Naega baratteon segye jel wie<br>Tteoreojeodo dwae I'm<br>Antifragile antifragile<br>Nan jigeum On my way<br>Gattabeoryeo jweo neoye Fairy tale<br>Now you know my name, I'm<br>Antifragile antifragile<br><br>Anti ti ti ti fragile fragile<br>Anti ti ti ti fragile<br>Anti ti ti ti fragile fragile<br>Antifragile antifragile<br><br>We can break it baby<br>Rock it twist it lock it baby<br>All I know is you can't chain me<br>'Cause I'm gonna break out<br>Gonna gonna break out out<br>We can break it baby<br>Rock it twist it lock it baby<br>All I know is you can't chain me<br>'Cause I'm gonna break out<br>Gonna gonna break out out<br><br>Deo nopi gajulge<br>Naega baratteon segye jel wie<br>Tteoreojeodo dwae I'm<br>Antifragile antifragile<br>Nan jigeum On my way<br>Gattabeoryeo jweo neoye Fairy tale<br>Now you know my name, I'm<br>Antifragile antifragile<br><br>Anti ti ti ti fragile fragile<br>Anti ti ti ti fragile<br>Anti ti ti ti fragile fragile<br>Antifragile antifragile</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "LE SSERAFIM",
+      "title": "Blue Flame",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/Blue-Flame.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I'll like it I'll like it like that<br><br>I'm feeling something nan hollin deushi<br>Adeukhi eojireoun nunbushim<br>Angaessogeuro nal ikkeuneun him<br>Even bulkkochboda tteugeoun blue<br><br>Jemeottaero chumeul chuda sarajigo<br>I'll like it I'll like it like that<br>Eojireopdeon pureunbicheun hwaryeohaejyeo<br><br>Son deilmankeum tteugeopdorok taolla deo<br>Gyeonggyereul neomeo pyeolchyeojineun unknown<br>Jeo kkeutkkaji<br>Muryohaetteon nari jebeop areumdaweo<br>Taoreun isang meomchul suneun eopseo my desire<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction<br><br>Unknown duryeoume gamchweo itteon beili<br>I eodumi shiyareul beoseona glow<br>Jeogi neomeoe mweoga itteunji<br>Pureun hogishimil ppuningeol<br><br>Jemeottaero chumeul chuda sarajigo<br>I'll like it I'll like it like that<br>Eojireopdeon pureunbicheun hwaryeohaejyeo<br><br>Son deilmankeum tteugeopdorok taolla deo<br>Gyeonggyereul neomeo pyeolchyeojineun unknown<br>Jeo kkeutkkaji<br>Muryohaetteon nari jebeop areumdaweo<br>Taoreun isang meomchul suneun eopseo my desire<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction<br><br>Muneojineun limit gibuneun so thrilling<br>Gipi nareul pagodeureo<br>Cheoeum bon sunganbuteo ikkeullin<br>Omyohan saege bit sok<br>Gidarin deut now I'm burning<br>Nunbushige shine<br><br>Son deilmankeum tteugeopdorok taolla deo<br>Gyeonggyereul neomeo pyeolchyeojineun unknown<br>Jeo kkeutkkaji<br>Muryohaetteon nari jebeop areumdaweo<br>Taoreun isang meomchul suneun eopseo my desire<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction<br><br>Will-O' The-Wisp babe<br>Oh baby It's blue flame<br>Will-O' The-Wisp babe<br>That that that is faction</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "LE SSERAFIM",
+      "title": "FEARLESS",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/FEARLESS.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Bam ba ba ba ba bam ba ba ba ba bam<br>Ba ba ba ba bam<br>Bam ba ba ba ba bam ba ba ba ba bam<br>Ba ba ba ba bam<br><br>Jeil nopeun gose nan dahkil weonhae<br>Neukkyeosseo nae answer<br>Nae hyeolgwan soge nalttwineun new wave<br>Nae geodaehan passion<br>Gwanshim eopseo gwageoe moduga algo inneun<br>Geu teureobeule huh<br>I'm fearless a new bitch new crazy<br>Ollaga next one<br><br>Balpajweo highway highway<br>Meotjin gyeolmale dake<br>Nae hyungjimdo naye ilburamyeon<br>Geobi nan eopji eopji<br><br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>Mmmm I'm fearless huh<br><br>You should get away<br>Get a get a get away<br>Dachiji anke dachi dachiji anke<br>You should get away<br>Get a get a get away<br>Mmmm I'm fearless huh<br><br>Bam ba ba ba ba bam ba ba ba ba bam<br>Ba ba ba ba bam<br>Bam ba ba ba ba bam ba ba ba ba bam<br>Ba ba ba ba bam<br><br>Yokshimeul sumgiraneun ne maldeureun isanghae<br>Gyeomsonhan yeongi gateun geon deo isang an hae<br>Gajyeowa forever win naege ay<br>Gaseumpage sutja il naege ay<br>Nae miteuro joarin segye ay<br>Take the world break it down break you<br>Down down<br><br>Balpajweo highway highway<br>Meotjin gyeolmale dake<br>Nae hyungjimdo naye ilburamyeon<br>Geobi nan eopji eopji<br><br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>Mmmm I'm fearless huh<br><br>You should get away<br>Get a get a get away<br>Dachiji anke dachi dachiji anke<br>You should get away<br>Get a get a get away<br>Mmmm I'm fearless huh<br><br>Bam ba ba ba ba bam ba ba ba ba bam<br>Ba ba ba ba bam<br>Bam ba ba ba ba bam ba ba ba ba<br>Mmmm I'm fearless huh<br><br>Deoneun eopseo paebae<br>Junbidwen nae payback<br>Bring it dangjang naege<br>Mmmm I'm fearless huh<br><br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>What you lookin' at<br>What you what you lookin' at<br>Mmmm I'm fearless huh<br><br>You should get away<br>Get a get a get away<br>Dachiji anke dachi dachiji anke<br>You should get away<br>Get a get a get away<br>Mmmm I'm fearless huh</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "LE SSERAFIM",
+      "title": "Good Parts",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/Good-Parts.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I just wanna love myself nan<br>Joeul ttaedo nappeul ttaedo<br>Love my weakness<br>Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br>Find the good parts the good parts<br><br>Yalgujeun phone hwamyeon wiro<br>Aekkujeun nae songarangman<br>Tik tik oh my gibuneun falling down<br>Pic of mine zoom in out pretend I'm fine<br><br>I just wanna love myself nan<br>Joeul ttaedo nappeul ttaedo<br>Love my weakness<br>Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br>Find the good parts the good parts<br><br>Ooh good good ooh good good<br>Ooh silsuhaedo joa find the good parts<br>Ooh good good ooh good good<br>Ooh idaerodo joa find the good parts<br><br>Modeun ge so blurry heona baraen polaroid<br>Geuge ttaeroneun better than the 4K cam<br>Heurithan nae mameul areumdapge hae<br><br>I just wanna love myself nan<br>Joeul ttaedo nappeul ttaedo<br>Love my weakness<br>Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br>Find the good parts the good parts<br><br>Like a film aryeonhi nameul<br>Oneureul wanna share<br>Jom heurithan na<br>Changpihan reels maju bol courage<br>Geugeomyeon chungbunhae<br><br>'Cause I don't wanna blame my weakness<br>Inneun geudaeroui nareul saranghallae<br>Hwaryeohaetdeon gidaewaneun dalli waenji bolpumeopda haedo<br>Love my bad parts my bad parts<br><br>Ooh good good ooh good good<br>Ooh silsuhaedo joa find the good parts<br>Ooh good good ooh good good<br>Ooh idaerodo joa find the good parts<br><br>Good good ooh good good<br>Ooh silsuhaedo joa find the good parts</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "LE SSERAFIM",
+      "title": "Impurities",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/Impurities.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Can you see huh?<br><br>Tteoreojin han bangul drip<br>Tumyeonghan nae ane seokkyeo deulji<br>Amureochi aneun deut keep on moving<br>Impurities show you my impurities<br><br>Yoksimnae deo like a witch<br>Show you real me geombulgeojineun bit<br>Gangnyeolhage banjjangnyeo glittery things<br>Impurities show you my impurities<br><br>Cheoncheonhi balbaga gyeonggyeseoneul neomeoga<br>Geomge hwipssain yongmangdeurui deep sign<br>Gasibatgil wiro sangcheotuseongiro ga<br>So natural invincible<br><br>Ooh yeah don't wanna hide<br>Ooh yeah gwagamhi fight<br>Sangcheoro gadeukan dandanhan bultumyeongham<br>So natural areumdawo<br><br>I can see seonmyeonghaejineun desire<br>So here's my key<br>Gwaenchana no matter what you say<br>Can you see huh?<br><br>Tteoreojin han bangul drip<br>Tumyeonghan nae ane seokkyeo deulji<br>Amureochi aneun deut keep on moving<br>Impurities show you my impurities<br><br>Yoksimnae deo like a witch<br>Show you real me geombulgeojineun bit<br>Gangnyeolhage banjjangnyeo glittery things<br>Impurities show you my impurities<br><br>Goodness hogeun badness<br>Igeon magic anim tragic<br>Dachindaedo dasi try it oh<br><br>Simjangui bitkkareun machi crimson<br>Taoreul deuthan nae anui passion<br>Moheomui jeunggeoneun machi necklace<br>Nareul deo binnage hae<br><br>I can see pyeolchyeojin destinations<br>So here's my key<br>Gwaenchana no matter what you say<br>Can you see huh?<br><br>Tteoreojin han bangul drip<br>Tumyeonghan nae ane seokkyeo deulji<br>Amureochi aneun deut keep on moving<br>Impurities show you my impurities<br><br>Yoksimnae deo like a witch<br>Show you real me geombulgeojineun bit<br>Gangnyeolhage banjjangnyeo glittery things<br>Impurities show you my impurities<br><br>Jiteojineun yongmangeun pitbit<br>Kkeuteul al su eomneun nae wishes<br>Areumdawo nan with my scratches<br>Just because it's what I am<br><br>Siryeon sogeseo keojin power<br>Geomnaeji ana deopchin shadow<br>Da irwo nae desire<br>Just because it's what I am<br>Can you see huh?<br><br>Tteoreojin han bangul drip<br>Tumyeonghan nae ane seokkyeo deulji<br>Amureochi aneun deut keep on moving<br>Impurities show you my impurities<br><br>Yoksimnae deo like a witch<br>Show you real me geombulgeojineun bit<br>Gangnyeolhage banjjangnyeo glittery things<br>Impurities show you my impurities</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "LE SSERAFIM",
+      "title": "No Celestial",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/No-Celestial.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Cheonsa gateun wanbyeokameun bye<br>Teure bakin fantasy<br>Balchikage sijakae nae fight<br>Ruleeun pillyo eopjanni owww!<br><br>Fake wings<br>Nae soneuro tear off<br>Time's up<br>Du bari danneun sungan<br><br>Just wanna live a real life<br>Soljikan nae moksorireul deureojwo<br>Ain't no fear nan i sungan now<br>Tteoreojyeo down to earth<br><br>Woo I'm no freakin' angel<br>I'm no freakin' goddess<br>Nan nail ppuniya<br>Hold me tight<br>Eojireoun sesang kkwak jabajwo hangsang<br>Because you're by my side<br><br>Meotdaero deonjyeodaeneun sikkeureoun yaegideul<br>Geonjil ge eomne han gwiro heullyeo<br>Soranhan sesang soge nae moksorin volume up<br>I'm sick and tired I'm so so done<br>I'm sick and tired but not alone<br><br>Fake wings<br>Nae soneuro tear off<br>Time's up<br>Du bari danneun sungan<br><br>Just wanna live a real life<br>Soljikan nae moksorireul deureojwo<br>Ain't no fear nan i sungan now<br>Tteoreojyeo down to earth<br><br>Woo I'm no freakin' angel<br>I'm no freakin' goddess<br>Nan nail ppuniya<br>Hold me tight<br>Eojireoun sesang kkwak jabajwo hangsang<br>Because you're by my side<br><br>I I I I I I'm not afraid<br>Ah ah ah yeah (down to earth)<br>I I I I I I'm not afraid<br>Ah ah ah yeah (down to earth)<br><br>Just wanna show you everything<br>Eonjena inneun geudaero mideojwo<br>Ain't no fear nan i sungan now<br>Tteoreojyeo down to earth<br><br>Woo I'm no freakin' angel<br>I'm no freakin' goddess<br>Nan nail ppuniya<br>Hold me tight<br>Eojireoun sesang kkwak jabajwo hangsang<br>Because you're by my side</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "LE SSERAFIM",
+      "title": "Sour Grapes",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/Sour-Grapes.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ttu-rru-rru-rru-rru-ttu-ttu<br>Yeah<br><br>Oh nado moreuge<br>Dalkomhae nan chimi goyeo igeon sarang maja<br>Neol hancham noryeobwa<br>Nae sone ttuk tteoreojigil gidarigo isseo<br>Gatgo sipeo sonswipge<br>Nangmanjeogin fairy tale<br>Sadarireul oreul ttae<br>Du bararae nan ajjilhae<br><br>Heona jom deo gilge pareul ppeodeodo<br>Dachi ana dwikkumchireul deureodo<br>Domujiga sone jwil su eomneun love<br>Oh, ireodaga naman dachigesseo<br>Yeah, you'll hurt me<br><br>Pureut ssapssareumhae I don't wanna taste<br>Mwo geuri dalkomhajin aneul geot gatae<br>Seorigeun gamjeongdeuri I just feel afraid<br>I'll never bite, I'll never bite the pain<br>Sour nunmul nage sikeumhan mat<br>Sour geureon ge manyak sarangimyeon<br>Matbogo sipji ana I just feel afraid<br>Love is sour, love is sour grapes<br><br>Nuni seuchimyeon<br>Gakkeumssigeun mam kkeuchi jom tteolligido haesseo<br>Cheoeum neukkyeoboneun heart<br>Han ip jeongdo kkaemundamyeon eotteolkkado haesseo<br>Bulgeojineun yeolmaee<br>Siseoneul da ppaetgin chae<br>Gaji kkeute dallin grapes<br>Daldalhalkka sangsanghae<br><br>Heona han georeumssik georil jopyeodo<br>Neoui soneul jabeul suneun eomneungeol<br>Sadari jeo neomeo wie noin love<br>Oh, naman gwaenhi sangcheobatgin sileo<br>Yeah, you'll hurt me<br><br>Pureut ssapssareumhae I don't wanna taste<br>Mwo geuri dalkomhajin aneul geot gatae<br>Seorigeun gamjeongdeuri I just feel afraid<br>I'll never bite, I'll never bite the pain<br>Sour nunmul nage sikeumhan mat<br>Sour geureon ge manyak sarangimyeon<br>Matbogo sipji ana I just feel afraid<br>Love is sour, love is sour grapes<br><br>Chakgageun ma<br>Ttaki neol joahan jeok eopseunikka<br>Jogeumdo aswipjiga antanikka<br>Naega nal songnyeo all day, all night, yeah<br><br>Ajik eoseolpeuge ikji aneun grapes<br>Amado naegen ttaega anin geot gatae<br>Pureuthage ajik seorigeun ne scent<br>I'm feeling scared, I'm feeling scared, yeah<br>Sour nunmul nage sikeumhan mat<br>Sour geureon ge manyak sarangimyeon<br>Matbogo sipji ana I just feel afraid<br>Love is sour, love is sour grapes</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "LE SSERAFIM",
+      "title": "The Great Mermaid",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/The-Great-Mermaid.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wish never cost geuge mweorago haedo<br>Hanal wihaeseon hanal pogiharago<br>Areumdaun moksori ilgop bit kkorikkaji jeonbu<br>Jeonbu naraseo I don't wanna sacrifice<br><br>I'm living my life weonhaneun geon da gajil geoya<br>Geuraedo nal mulgeopumeuro mandeuljin mothae<br>Won't give up won't give up<br>Pogihaneun geon nothing<br>Don't mess with me shwipda shipeonni?<br>I don't give you what you need yeah<br><br>I don't give a shit! No love no golden prince<br>Geureon dwiteullin sarang naneun piryo eopseo<br>Love story yo<br>Taeweobeoryeo lock lock and load<br>I just want it all! dan naye stylero<br>Naege matchweojin sarang hisaeng hana eopshi<br>Love story yo<br>Never give up! Lock lock and load<br><br>Nanana na nanana nanana na nanana<br>Nanana na nanana<br>Dive into the ocean<br>Nanana na nanana nanana na nanana<br>Nanana na nanana<br>Dive into the ocean<br><br>Moksoril beorirani crazy<br>Sarajil su ittani wae irae<br>Mari mal gajjiga ana liar<br>Manyeoga manyeo hamyeon deudjima<br><br>Charari naege naenwa ocean<br>Sesangeul nae badaro deopchyeo<br>Jedong eopshi keojyeoganeun kkum<br>Pogiman an hamyeon gyeolgugen truth<br><br>I'm living my life weonhaneun geon da gajil geoya<br>Geuraedo nal mulgeopumeuro mandeuljin mothae<br>Won't give up won't give up<br>Pogihaneun geon nothing<br>Don't mess with me shwipda shipeonni?<br>I don't give you what you need yeah<br><br>I don't give a shit! No love no golden prince<br>Geureon dwiteullin sarang naneun piryo eopseo<br>Love story yo<br>Taeweobeoryeo lock lock and load<br>I just want it all! dan naye stylero<br>Naege matchweojin sarang hisaeng hana eopshi<br>Love story yo<br>Never give up! Lock lock and load<br><br>Nanana na nanana nanana na nanana<br>Nanana na nanana<br>Dive into the ocean<br>Nanana na nanana nanana na nanana<br>Nanana na nanana<br>Dive into the ocean</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "LE SSERAFIM",
+      "title": "The Hydra",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/The-Hydra.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Do you think I'm fragile?<br>&#31169;&#12398;&#39318;&#12434;&#20999;&#12387;&#12390;&#12415;&#12390;<br><br>Eodi hanbeon nal buswobwa<br>Do you think I'm bad?<br><br>Geureomyeon nal churaksikyeobwa<br><br>&#31169;&#12434;&#29123;&#12420;&#12375;&#12390;&#12415;&#12390;<br>&#31169;&#12434;&#40658;&#12356;&#28023;&#12395;&#25237;&#12370;&#12390;&#12415;&#12390;<br><br>Myeot beonigo dasi<br>Again and again<br>&#12418;&#12358;&#19968;&#24230;&#12418;&#12358;&#19968;&#24230;<br><br>I'm antifragile<br>I<br>&#31169;&#12399;<br>Naneun<br>I'm antifragile<br>Dasi sarana<br><br>Churakamyeo chuneun chum<br>&#12511;&#12473;&#12420;&#22833;&#25943;&#12434;&#38560;&#12373;&#12394;&#12356;<br><br>I am not afraid of storms, for I am learning how to sail my ship<br><br>Naneun jeomjeom deo deo deo ganghaejyeo<br><br>I'm antifragile<br>I'm antifragile<br><br>I'm antifragile<br>I'm antifragile</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "LE SSERAFIM",
+      "title": "The World Is My Oyster",
+      "image": "file:///android_asset/image/LESSERAFIM.jpg",
+      "link_mp3": "mp3/The-World-Is-My-Oyster.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>The world is imperfect<br>Kono sekai ni manzoku dekinai<br>Sesangeun nareul pyeonggahae<br><br>The world brings out my flaws<br>Sesangeun nareul bakkuryeo haji<br><br>Geureotamyeon<br><br>Watashi wa tsuyokunaritai<br>I want to take up the challenge<br>Naneun kkeokkiji ana<br><br>I am fearless<br><br>Naneun<br>I<br>Watashi wa<br><br>Sekai o teniireta i<br>The world is my oyster<br><br>[Korean/Japanese:]<br><br>The world is imperfect<br>&#12371;&#12398;&#19990;&#30028;&#12395;&#28288;&#36275;&#12391;&#12365;&#12394;&#12356;<br>&#49464;&#49345;&#51008; &#45208;&#47484; &#54217;&#44032;&#54644;<br><br>The world brings out my flaws<br>&#49464;&#49345;&#51008; &#45208;&#47484; &#48148;&#44984;&#47140; &#54616;&#51648;<br><br>&#44536;&#47111;&#45796;&#47732;<br><br>&#31169;&#12399;&#24375;&#12367;&#12394;&#12426;&#12383;&#12356;<br>I want to take up the challenge<br>&#45208;&#45716; &#44734;&#51060;&#51648; &#50506;&#50500;<br><br>I am fearless<br><br>&#45208;&#45716;<br>I<br>&#31169;&#12399;<br><br>&#19990;&#30028;&#12434;&#25163;&#12395;&#20837;&#12428;&#12383;&#12356;<br>The world is my oyster</font></p>"
+    }
+  ]
+}
