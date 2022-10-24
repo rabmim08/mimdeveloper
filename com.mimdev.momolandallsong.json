@@ -1,0 +1,128 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "MOMOLAND",
+      "image": "file:///android_asset/image/MOMOLAND.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "MOMOLAND",
+      "title": "BAAM",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/BAAM.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Bae Bae Bae BAAM BAAM<br>Bae Bae Bae BAAM BAAM<br><br>Jakku eojireowo saenggakjido mothan<br>Nega huk huk huk deureowa BAAM BAAM<br>Nareul heundeureo musimhage deonjin mare<br>Pick Pick Pick sseureojyeo BAAM BAAM<br><br>Yeonghon eomneun deut deureotda<br>Chagaun maltu nwatda<br>Nega boneun No Doubt siseone No Doubt<br>Naneun eopgo<br>Guji wae guji wae guji wae guji wae<br>Seoneul geunneun deut iraetda<br>Byeogeul chideon jeoraetda<br>Geureon nega eotteoke<br>Oh nega eotteoke why<br><br>Ne nuneul bonda nuneul bonda<br>Nuneul bonda uuu<br>Ppajyeodeunda ppajyeodeunda nan u uuu<br>Nuneul gamado<br>Jakkuman boyeo eotteoke hae Baby Tell Me Why~<br><br>Neol bomyeon ttwineun<br>Maeum maeum maeum<br>Saenggangna maeil bam bam bam<br>Jakku oh naega wae irae bebe<br>Galsurok deo sumgil su eomneun<br>Maeum maeum maeum<br>Neol bomyeon jakku ireoke tto<br>Oh naega wae irae bebe bebe bebe<br><br>Bae Bae Bae BAAM BAAM<br>Bae Bae Bae BAAM BAAM<br><br>Nega nal bonikka nado neol<br>Bojana ttururuttu ppibibik<br>Sinhoreul bonaejana<br>Eh-eh donggongi heundeullyeo<br>Hmm-hmm simbagi ppallajyeo<br>Ya-ah nega nal bonikka BAAM<br><br>Gwansim eomneun deut joyeotda<br>Jjalbeun ne maltu pureotda<br>Gapjagibun No Doubt wigineun No Doubt<br>Ssaneulhage<br>Guji wae guji wae guji wae guji wae<br>Byeogeul chineun deut mireotda<br>Seoneul geutdeon danggyeo<br>Geureon neoreul eotteokae<br>Oh neoreul eotteokae Why<br><br>Nae nuneul bonda nuneul bonda<br>Nuneul bonda uuu<br>Ppajyeodeunda ppajyeodeunda neon u uuu<br>Kkumsogeseodo<br>Jakkuman boyeo eotteoke hae Baby Tell Me Why~<br><br>Neol bomyeon ttwineun<br>Maeum maeum maeum<br>Saenggangna maeil bam bam bam<br>Jakku oh naega wae irae bebe<br>Galsurok deo sumgil su eomneun<br>Maeum maeum maeum<br>Neol bomyeon jakku ireoke tto<br>Oh naega wae irae bebe bebe bebe<br><br>Hansungane BAAM<br>Nal naeryeonoke haneun Baby You u u u u u<br>Gapjagi BAAM<br>Jeongsineopge heundeureodaeneun You u u u u u<br><br>Neol bomyeon ttwineun<br>Maeum maeum maeum<br>Saenggangna maeil bam bam bam<br>Jakku oh naega wae irae bebe<br>Galsurok deo sumgil su eomneun<br>Maeum maeum maeum<br>Neol bomyeon jakku ireoke tto<br>Oh naega wae irae bebe bebe bebe<br><br>Bae Bae Bae BAAM BAAM<br>Bae Bae Bae BAAM BAAM</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "MOMOLAND",
+      "title": "BANANA CHACHA",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/BANANA-CHACHA.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla chacha<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla hu<br><br>Eommaeomma<br>Bananana<br>Yeah jinjja masna<br>Eommado chacha<br><br>Appaappa<br>Bananana<br>Yeah sajuseyo<br>Appado chacha<br><br>Oh gireumyeon gigi charachachacha hey<br>Meogeumyeon himi eurachachacha hey<br><br>Halmeonido yeah<br>Harabeojido yeah<br>Modumodu moyeora<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla chacha<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla hu<br><br>Norangnorang<br>Bananana<br>Yeah neomu yeppeo<br>Edido chacha<br><br>Oppaoppa<br>Bananana<br>Yeah nanwojwoyo<br>Thank you<br>Chacha<br><br>Oh gireumyeon gigi charachachacha hey<br>Meogeumyeon himi eurachachacha hey<br><br>Halmeonido yeah harabeojido yeah<br>Modumodu moyeora<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla chacha<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla hu<br><br>Saranghaeyo saranghaeyo<br>Eommaappappa saranghaeyo<br><br>Banana chacha<br>Banana chacha<br>Dagati lallallal lalla hu<br>OK</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "MOMOLAND",
+      "title": "BBoom BBoom",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/BBoom-BBoom.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Seolleeo neowa naye rangdebyu<br>(Rangdebyu)<br>Nae maeumeul deureotta nwatta hae mamdaeru<br>(Mamdaeru)<br><br>Jigeum nae nunen nunen nunen<br>Ne eokkae mureup bal (Oh)<br>Sumi tak makhil geot gata nan neoman bomyeon<br><br>Wow wow<br>Jeongshineul tto nwa nwa ne maeryeoge<br>Nan nan nollage dwae tto<br>(Hit it Hit it Hit it HO)<br><br>Uuu museun mari piryohae neon<br>Sumi kwak makhil geot gata neon<br><br>Jakkuman bwa jakku wa<br>Ije naman boge doel geoya<br>Neoreul deureotta noeul geoya<br>Neon jeomjeom deo Fall in love<br><br>Give it to you<br>My nunnunnunnunnunnun nunbit<br>Ssodajineun My teoteoteoteoteoteo teochi<br>Hanappunin My reobreobreobreobreob My Luver<br>Nae meoributeo ppumppum<br>Nae balkkeutkkaji ppumppum ppumppum eo<br><br>Just feel it ppumppum<br>Ne apeseo nan ppumppum<br>Nege julge ppumppum ppumppum eo<br><br>Jigeum bogo inneun ge kkumeun anil geol<br>Wake Up Wake Up<br>Ttaengttaengichigo nal mannage doel geol<br>Take off Take off<br>Maeryeogeul ya ppumeoppumeoppumeoppumeo<br>Boyeojulge Pick up the phone<br>Now or Never Pick up Pick up<br><br>Wow wow jeongshineopshi<br>Kung kung nae maeumeul ppum ppum<br>Sajeongeopshi tto<br>(Hit it Hit it Hit it HO)<br>Uuu yeogiseo mweol eotteoke deo<br>Najina bamina bichina michyeonnabwa<br><br>Tteolliji mak tteollyeowa<br>Ije naman saenggak nal geoya<br>Bame jamdo jal mot jal geoya<br>Jeomjeom deo Fall in love<br><br>Give it to you<br>My nunnunnunnunnunnun nunbit<br>Ssodajineun My teoteoteoteoteoteo teochi<br>Hanappunin My reobreobreobreobreob My Luver<br>Nae meoributeo ppumppum<br>Nae balkkeutkkaji ppumppum ppumppum eo<br><br>U neoman bomyeon neoman bomyeon<br>Nae gaseumi ppumppumppumppum<br>U jakku bwado jakku bwado<br>Nae gaseumi kungkungkungkung<br><br>Give it to you My nunnunnunnunnunnun nunbit<br>Ssodajineun My teoteoteoteoteoteo teochi<br>Hanappunin My reobreobreobreobreob My Luver<br>Nae meoributeo ppumppum<br>Nae balkkeutkkaji ppumppum ppumppum eo<br><br>Just feel it ppumppum<br>Ne apeseo nan ppumppum<br>Nege julge ppumppum ppumppum eo</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "MOMOLAND",
+      "title": "I'm So Hot",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Im-So-Hot.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wae yeppeudan mareun wae gwiyeopdan mareun<br>Wae deureodo deureodo jilliji ana Yah<br>Yeppeuda mareul hae gwiyeopda mareul hae<br>Pureodo pureodo kkeunnaji ana Yah<br><br>Nal channeun munja bamnatto eopjana<br>Shwil teumi eomneun You<br>Nan tteugeoun taeyang galsurok bulta<br>Ttokbaro mot boneun You<br><br>Mak naege deonjineun tteugeoun nunppit<br>Nae yeogi yeogi yeogi yeogil chodaboneun Feel<br>Neoreul nogineun tteugeoun neukkim<br>Ah woo ah woo ah<br><br>I'm so hot<br>Na na na naega<br>I'm so hot<br>Na na na naega<br>I'm so hot<br>Na na na naega<br><br>Bichina bichina nallina nallina<br>I'm so hot I'm so hot hot hot<br>Bichina bichina nallina nallina<br>I'm so hot I'm so hot hot hot<br><br>Geunyang naega munje yaya<br>Dabeul guharyeogo hae yaya<br>Igeon shiheomi anya yaya<br>Jigeumeun bekkyeonaedo dwae yayayaya<br>Baram bulmyeon gamdang andwae naye hyanggi<br>Useum kkochi pieo naneun naye yeolgi<br><br>Nal jjonneun gwanshim jamdeul ttaekkaji<br>Shwil teumi eomneun You<br>Dalppit araeseo nan muri olla<br>Nae maeryeoge jamgineun You<br><br>Mak neoye tteollineun tteugeoun sonkkil<br>Nae yeogi yeogi yeogi yeogi dagaoneun Feel<br>Neoreul nogineun tteugeoun neukkim<br>Ah woo ah woo ah I'm so hot<br><br>I'm so hot<br>Na na na naega<br>I'm so hot<br>Na na na naega<br>I'm so hot<br>Na na na naega<br><br>A little bit (A little bit) nan ama bit (nan ama bit)<br>Najedo sumkkil su eopseo pieonan bit<br>A little bit (A little bit) nan I'mma be (nan I'mma be)<br>Najedo kkeojiji anneun tteugeoun bit<br><br>I'm so hot<br>Na na na naega<br>I'm so hot<br>Na na na naega<br><br>Bichina bichina nallina nallina<br>I'm so hot I'm so hot hot hot<br>Bichina bichina nallina nallina<br>I'm so hot I'm so hot hot hot</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "MOMOLAND",
+      "title": "Ready Or Not",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Ready-Or-Not.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Mirror mirror on the wall<br>M O M O mudaero<br>WE? Yes, A list<br>Iriro waseo Get down with this<br><br>Say Hell no Limit no<br>Dul junge hana mo animyeon do<br>You spin, I'm in<br>Ijebuteo Let the party begin<br><br>Tick Tock sigan eopseo umjingnyeo Yo(ur) body<br>DJ drop it like it's hot<br>Dwichyeojiji ana beolsseo jichimyeon an dwae<br>Don't stop, do it from the top<br><br>Gonna get you get you<br>With that POW POW POW<br>Nan wae jakkujakku sini naaaaaa<br>Oneuri nariya Final Round<br>Oneureun han beonppun Ready or not ready or not<br><br>Show me boyeojwo ne gachi<br>Chumeul chwo da gachi<br><br>Ready or not here we go<br><br>Nunbit bonaemyeon ne momjit<br>Boyeojwo ne sonjit<br><br>Ready or not here we go<br><br>Ready or not ready or not<br>With that pow pow pow<br>Ready or not ready or not<br>With that pow pow pow<br><br>Huhoe huhoehaji ma ma<br>Don't wait (geu)geon bujireopseo Nah Nah<br>Nunchi boji anko Make me feel good<br>Jeogeodo jigeumeun I make the rules<br><br>Gonna get you get you<br>With that POW POW POW<br>Nan wae jakkujakku sini naaaaaa<br>Oneuri nariya Final Round<br>Oneureun han beonppun Ready or not ready or not<br><br>Show me boyeojwo ne gachi<br>Chumeul chwo da gachi<br><br>Ready or not here we go<br>Nunbit bonaemyeon ne momjit<br>Boyeojwo ne sonjit<br><br>Ready or not here we go<br><br>Ready or not ready or not<br>With that pow pow pow<br>Ready or not ready or not<br>With that pow pow pow<br><br>Kkeunnal ttaekkaji kkeunnaji ana (All right)<br>Dasi sijakae kkeunnaji ana (kkeunnaji ana)<br><br>Show me boyeojwo ne gachi<br>Chumeul chwo da gachi<br>Ready or not here we go<br>Nunbit bonaemyeon ne momjit<br>Boyeojwo ne sonjit<br>Ready or not here we go<br><br>Ready or not ready or not<br>With that pow pow pow<br>Ready or not ready or not<br>With that pow pow pow</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "MOMOLAND",
+      "title": "Thumbs Up",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Thumbs-Up.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Wae nunman tteumyeon neureonani<br>Jeo ppalgansaegui LOVE<br>Nae haendeuponeun meomchuji ana<br>Harujongireul Beep beep beep beep<br><br>Eomeomeomeo tteugeowo hot<br>Hot issue issue<br>Geumanmanman jjigeo nal kok<br>Jjigeo dadeul naege<br>Joeun malman jjak jjak<br>Neureonoko jjak jjak jjak<br>Neom baebulleo baebulleo<br>Chingchaneun dwaesseoyo<br><br>Nal gunggeumhaehaneun maneun nunbitgwa<br>Millyeooneun sumaneun mal soge<br>Jinsimeul chaja hemaego isseo<br>Oneuldo maeil ssodajineun eomji<br><br>Thumbs up<br>Thumbs up<br>Thumbs up<br><br>Nan meoributeo balkkeutkkaji siseoneul kkeulji<br><br>Thumbs up<br>Rarararararara-<br>Th-Th-Th-Thumbs up<br>Rarararararara-<br>Meoributeo balkkeutkkaji th-th-th-thumbs up<br><br>Ireumman daedo sorichyeo (Aye!)<br>I have too many followers (followers)<br>'Jeongmal Pretty pretty girl<br>Neoege ppajyeosseo' jigyeowo (Wow)<br>Nollaun geol gajyeowa<br><br>Oh na na na gwansimeun Hot hot sikjirana<br>Wae nal nal nal wonhae nal da wonhandago haji<br>Ppeonhan malman jjak jjak<br>Neureonoko jjak jjak jjak<br>Neom baebulleo baebulleo<br>Mani deureosseoyo<br><br>Nal gunggeumhaehaneun maneun nunbitgwa<br>Millyeooneun sumaneun mal soge<br>Jinsimeul chaja hemaego isseo<br>Oneuldo maeil ssodajineun eomji<br><br>Thumbs up<br>Thumbs up<br>Thumbs up<br><br>Nan meoributeo balkkeutkkaji siseoneul kkeulji<br><br>Thumbs up<br>Rarararararara-<br>Th-Th-Th-Thumbs up<br>Rarararararara-<br>Meoributeo balkkeutkkaji th-th-th-thumbs up<br><br>Ooh la la la la la la spotlight<br>Nal hyanghae bichwo nunbusin bit (Shine)<br>Ooh la la la la la like me more<br>Gyesok nal tto barabwa<br><br>Thumbs up<br>Mwolhaedo joayo joayo<br>Thumbs up<br>Nado jal arayo arayo<br>Thumbs up<br>Jeongmallo pigonhae pigonhae<br>Nan meoributeo balkkeutkkaji siseoneul kkeulji<br><br>Thumbs up<br>Rarararararara-<br>Th-Th-Th-Thumbs up<br>Rarararararara-<br>Meoributeo balkkeutkkaji th-th-th-thumbs up</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "MOMOLAND",
+      "title": "Tiki Taka",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Tiki-Taka.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Tititi yeie<br>Tatata holla<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Tititi yeie<br>Tatata a~it<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Hello annyeonghaseyo<br>Soneul nopi heundeureoyo<br><br>Ullallalla sondeureo<br>Ullallalla heundeureo<br>Mamapapa heundeureo<br>Tikitiki taka toktokta!<br><br>Bananana deo juseyo<br>Hanimman imman deo juseyo<br><br>Ullallalla masisseo<br>Ullallalla baebulleo<br>Mamapapa baebulleo<br>Tikitiki taka toktokta!<br><br>Tititi yeie<br>Tatata holla<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Tititi yeie<br>Tatata a~it<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Eomma appa anajwoyo<br>Uri ppyameul matdaebwayo<br><br>Oenjjogeuro bubigo<br>Oreunjjogeuro bubigo<br>Mamapapa bubigo<br>Tikitiki taka toktokta!<br><br>Oneul haru jalhaesseoyo<br>Sseudamsseudam haejuseyo<br><br>Ullallalla sinnago<br>Ullallalla chumchugo<br>Mamapapa chumchugo<br>Tikitiki taka toktokta!<br><br>Tititi yeie<br>Tatata holla<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Tititi yeie<br>Tatata a~it<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>Uri gachi norayo tikitiki taka<br>Uri gachi norayo tikitiki taka<br><br>Tititi yeie<br>Tatata a~it!<br>Tititi yeie<br>Tikitiki taka toktokta!<br><br>OK</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "MOMOLAND",
+      "title": "Wonderful love",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Wonderful-love.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Naesarang neomu eomaeoma hae<br>Hime gyeoweo myeot beon neomeojyeodo<br>Sarangeul jugo<br>Geudaega isseoseo marya<br>Georeulsu isseo<br><br>Kkamjjak nolla keojyeobeorin nun<br>Neoneun eoma eoma hae<br>Maeilmaeiri gamdonge gamdong<br>Neoreul eotteoke pyohyeonaeyahae<br><br>Ttan saenggageun naji anha<br>Bamsae jamdo ojil anha<br>I think about you<br>Neoran seonmul naege jun<br>Sujubge gidohan nae maeumi<br>Neoege dakil<br><br>Nae sarang neomu eomaeoma hae<br>Jeo byeoreul naman algo gajin deut<br>Jaranghalmankeum gamsahae<br>Neo hanamyeon wanbyeokhae<br>I will be always<br>On your side<br>Hime gyeoweo myeot beon neomeojyeodo<br>Sarangeul jugo<br>Geudaega isseoseo marya<br>Georeulsu isseo<br><br>Luck is in my pocket<br>Let's shoot it like a rocket<br>O bungbung tteuneun neukkim<br>Nan eonjena geudaeman<br>Nae mameul dahaeseo soweoneul deureojweo<br>Luck is in my pocket<br>Let's shoot it like a rocket<br><br>Ttan saenggageun naji anha<br>Bamsae jamdo ojil anha<br>I think about you<br>Neoran seonmul naege jun<br>Sujubge gidohan naemaeumi<br>Neoege dakil<br><br>Naesarang neomu eomaeoma hae<br>Jeo byeoreul naman algo gajin deut<br>Jaranghalmankeum gamsahae<br>Neo hanamyeon wanbyeokhae<br>I will be always<br>On your side<br>Hime gyeoweo myeot beon neomeojyeodo<br>Sarangeul jugo<br>Geudaega isseoseo marya<br>Georeulsu isseo<br><br>Sae parako hayan oneul<br>Haneurarae yaksokhalge<br>Aju pareutpareuthage<br>Sarang gadeukgadeuk dama<br>Neomaneul barabolge<br><br>(Luck is in my pocket)<br>(Let's shoot it like a rocket)<br>(Oh whoah)<br><br>Naesarang neomu eomaeoma hae<br>Jeo byeoreul naman algo gajin deut<br>Jaranghalmankeum gamsahae<br>Neo hanamyeon wanbyeokhae<br>I will be always<br>On your side<br>Hime gyeoweo myeot beon neomeojyeodo<br>Sarangeul jugo<br>Geudaega isseoseo marya<br>Georeulsu isseo</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "MOMOLAND",
+      "title": "Wrap Me In Plastic",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Wrap-Me-In-Plastic.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>It's my first night out with you (kkochi dwae julge)<br>Treat me right and buy me shoes (neoman bol su itge)<br>Let me be your fantasy, play with me (eottae)<br>I wanna be your girl<br>(Wanna be your girl, wanna be your)<br>Just give some time, I'll be ready<br>Do my make-up, bathe in my perfume<br>Quick shower, won't take too long<br>I'll be done, just sing this song<br>So, wrap me in plastic and make me shine<br>We can make a dollhouse, follow your design<br>Let's build a dog out of sticks and twine<br>I can call you master, you can call me mine<br><br>Wrap me in plastic and make me shine<br>We can make a dollhouse, follow your design<br>Let's build a dog out of sticks and twine<br>I can call you master, you can call me mine<br>(Wrap me in plastic, wrap me in plastic)<br>(Wrap me in plastic, wrap me in plastic)<br>(You can call me mine)<br><br>Neoman jotamyeon useojwo (imi ppajyeotjana)<br>Matchulge da neohante (ne mam soge deulge)<br>Wonhaneungeon mwodeunji malmanhae (malhae)<br>I wanna be your girl<br><br>Just give me some time, I'll be ready<br>Do my make-up, bathe in my perfume<br>Quick shower, won't take too long<br>I'll be done, just sing this song<br><br>So, wrap me in plastic and make me shine<br>We can make a dollhouse, follow your design<br>Let's build a dog out of sticks and twine<br>I can call you master, you can call me mine<br>Wrap me in plastic and make me shine<br>We can make a dollhouse, follow your design<br>Let's build a dog out of sticks and twine<br>I can call you master, you can call me mine<br>(Wrap me in plastic, wrap me in plastic)<br>(Wrap me in plastic, wrap me in plastic)<br>(You can call me mine)<br>(Wrap, wrap, wrap, wrap, wrap, wrap, wrap me in)<br>(Wrap, wrap, wrap, wrap, wrap, wrap, wrap me in)<br>(You can call me mine)<br><br>Just give me some time, I'll be ready (kkochi dwae julge)<br>Quick shower, won't take too long (neoman bol su itge)<br>Just give me some time, I'll be ready (ne mam soge deulge)<br>Quick shower, won't take too long (eottae)<br>Just sing this song<br><br>Wrap me in plastic and make me shine<br>We can make a dollhouse, follow your design<br>Let's build a dog out of sticks and twine<br>I can call you master, you can call me mine<br>(Wrap, wrap, wrap, wrap, wrap me in plastic)<br>We can make a dollhouse, follow your design<br>(Wrap, wrap, wrap, wrap, wrap, wrap, wrap me in)<br>I can call you master, you can call me mine</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "MOMOLAND",
+      "title": "Yummy Yummy Love",
+      "image": "file:///android_asset/image/MOMOLAND.jpg",
+      "link_mp3": "mp3/Yummy-Yummy.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Yummy Yummy Love<br>Ah-ah<br><br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br><br>Watch out, I'ma coming to get you, it feels so right (Yeah)<br>Look at what you started, you got me, you make me try<br>I tell ya<br><br>I caught you looking at me<br>You got me working like this, like this, like this<br>Try getting out of my grip<br>When you got me working like this, like this, ah-ah-ah-ah<br><br>Ski-pi-dickbap, bitchpap, bitchpap, boo<br>You got into my heart, this girl is on fire<br>Ski-pi-dickbap, bitchpap, bitchpap, boo<br>Your time's up, save it for later<br><br>Ski-pi-dickbap, bitchpap, bitchpap, boo<br>You got into this heart, it's down to the wire<br>Ski-pi-dickbap, bitchpap, bitchpap, boo<br>Are you ready for<br><br>Are you ready for love like this?<br>Are you ready for love like this?<br><br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Are you ready for love like this?<br>Are you ready for your first kiss?<br><br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br><br>Thinking that you're into the feeling, so why deny? Yeah<br>I can see right through you, I'm on your mind<br>I'll tell ya<br><br>Take a little chill pill now and relax, huh<br>Livin' for the motto, hakuna matata<br>I wonder, what you're looking after<br>I wanta, tap that<br><br>Are you ready for love like this?<br>Are you ready for love like this?<br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Are you ready for love like this?<br>Are you ready for your first kiss?<br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br><br>Come, come, come on out to play<br>Sun is shining bright today<br><br>Yummy Yummy Love, Love<br><br>Are you gonna go my way?<br>Oh, or are you gonna stay?<br>(Yummy Yummy Love, Love)<br><br>Are you ready for love like this?<br>Are you ready for love like this?<br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Are you ready for love like this?<br>Are you ready for your first kiss?<br><br>Are you ready for Yummy Yummy Love?<br>Are you ready for Yummy Yummy Love?<br><br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love<br>Ba-pa-la-la, ba-pa-la-la, ba-pa-la-la<br>Yummy Yummy Love</font></p>"
+    }
+  ]
+}
