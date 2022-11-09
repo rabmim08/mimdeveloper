@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "KIZZ DANIEL",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "KIZZ DANIEL",
+      "title": "Buga",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Buga.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey!<br>Don't Sleep<br>Don't Sleep<br>Wake up<br>Collect your money<br>Collect your money<br>Wake up, eh!<br>Collect your money<br>Collect your money<br>Wake up<br>Giddem<br><br>Gbe'ra, gbe'ra<br>Gbe'ra go get that mullah (wake up)<br>Mo ni ko kala<br>Kala gb'owo y&#7865;n o<br>Kala gb'owo y&#7865;n l'&#7885;w&#7885; dealer<br>You don work, you don try (try)<br>You suppose to dey j'aiye (j'aiye)<br>Kilo kan mi kan pesin matter o<br>Pesin wey don mad, oi<br>When I land, I land softly on a sofa floor<br>So far, so good, ko ni baje<br><br>Let me see you (go low lo lo)<br>Let me see you (go low low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga o (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga o (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga<br><br>Gbe'ra, Oh Ai<br>Gb'era o<br>Gbera<br>Go get the dollar (wake Up)<br>Go baller, kala gb'owo y&#7865;n o<br>Kala gb'owo y&#7865;n l'&#7885;w&#7885; dealer<br>You don work, you don try<br>You suppose to dey high<br>Ki lo kan w&#7885;n, o &#7779;&#7865; fun w&#7885;n<br>Pesin wey don mad<br>When I land, I land softly on a sofa floor<br>So far, so good, koni baje<br><br>Let me see you (go low low low)<br>Let me see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga o (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme buga w&#7885;n<br>Lemme see you dey buga o (go low low low)<br>Lemme see you (go low low low)<br>Buga w&#7885;n, lemme see me you buga w&#7885;n<br>Lemme see you ooo<br><br>(Go low low low) (let me see you)<br>(Go low low low)<br>(Go low low low)<br>You don work, you don try<br>You suppose to dey fly</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "KIZZ DANIEL",
+      "title": "Cough (Odo)",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Cough.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(Eh eh)<br>Eh eh (Uber)<br>Eh eh (Vado)<br>Eh eh (Odo, Odoyewu eh) (eh eh)<br>Eh eh (to a place she loves) Eh eh<br><br>I want to flex my love (eh eh)<br>I wan impress (eh eh)<br>And I want to carry my love away (eh eh)<br>To a place she loves (eh eh)<br>Ah my woman woman (eh eh)<br>I wan impress (eh eh)<br>And I want to carry my love away (eh eh)<br>To a place she loves (eh eh)<br><br>Eh, Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br><br>Odo Odo (eh eh)<br>Odo Odoyewu eh (eh eh)<br>You know that my body calling (eh eh)<br>And your body picking (oh no) (eh eh)<br>Loving you dey make me forget say I get problem<br>By the end of the night<br>Enter bathroom, fresh up (eh eh)<br><br>I want to flex my love (eh eh)<br>I wan impress (eh eh)<br>And I want to carry my love away (eh eh)<br>To a place she loves (eh eh)<br>Ah my woman woman (eh eh)<br>I wan impress (eh eh)<br>And I want to carry my love away (eh eh)<br>To a place she loves (eh eh)<br><br>Eh, Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu (odo)<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br><br>Who the Fu-is your bestie?<br>Tani bro, tani bro, tani bro eh?<br>You don't want to find my trouble<br>Enter bathroom, fresh up<br>Shey na me you come through when your heartbreak (eh eh)?<br>Heartbreak ko sese heartbreak (eh eh)<br>Na me dey buy Guinness for your man dem (eh eh)<br>Enter bathroom, fresh up<br><br>I want to flex my love (I want to, I want to)<br>And I want to carry my love away (I want to)<br>To a place she loves<br>Ah my woman woman (I want to, I want to)<br>[*coughs*] (pele)<br>And I want to carry my love away (comot)<br>To a place she loves (I want to)<br><br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br>Odoyewu Odoyewu<br>Odoyewu eh, Odoyewu<br><br>I wan impress<br>And by the end of the night<br>Enter bathroom, fresh up</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "KIZZ DANIEL",
+      "title": "Eh God (Barnabas)",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Eh-God.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Shey bo wun lomo Barnabas<br>Eni to mo way shey bo wun lomo<br><br>Dear father in heaven<br>'Bout time to take over<br>E don tey wey I trouble you<br>Back down o Lucifer<br>I no dey follow pastor dey beef imam<br>Father Na father<br>Say me I don busy my call<br>I won focus on you, on GOD<br><br>Aye e ole fe ni to mo way<br>Eni to mo way shey bo wun lomo Barnabas<br>Aye e ole fe ni to mo way<br>Eni to mo way shey bo wun lomo Barnabas<br><br>Me I get sense<br>I get God<br>I come first<br>I don boss<br>Plenty talk<br>Plenty noise<br>Plenty people<br>Don con report<br><br>Me I get sense<br>I get God<br>I come first<br>I don boss<br>Plenty talk<br>Plenty noise<br>Plenty people<br>Don con report<br><br>Ah! Eh God o<br>No make I fall o<br>This one wey things dey cost<br>I still want to ball<br>I still want to tanotano<br><br>Eh God o<br>No make I fall o<br>This one wey things dey cost<br>I still want to ball<br>I still want to tanotano<br><br>Dear father in Heaven<br>Sometimes I catch your blessings<br>E dey tey to show for face<br>E be like HIV<br>Church for club<br>Gucci for cloth<br>Land for 'Port<br>Make dem no mind me yanga<br><br>Aye e ole fe ni to mo way<br>Eni to mo way shey bo wun lomo Barnabas<br>Aye e ole fe ni to mo way<br>Eni to mo way shey bo wun lomo Barnabas<br><br>Me I get sense<br>I hold God<br>I come first<br>I don boss<br>Plenty talk<br>Plenty noise<br>Plenty people<br>Don con report<br><br>Me I get sense<br>I hold God<br>I come first<br>I don boss<br>Plenty talk<br>Plenty noise<br>Plenty people<br>Don con report<br><br>Ah! Eh God o<br>No make I fall o<br>This one wey things dey cost<br>I still want to ball<br>I still want to tanotano<br><br>Eh God o<br>No make I fall o<br>This one wey things dey cost<br>I still want to ball<br>I still want to tanotano<br><br>Aye e ole fe ni to mo way<br>Shey bo wun lomo Barnabas<br>Aye e ole fe ni to mo way<br>Shey bo wun lomo Barnabas</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "KIZZ DANIEL",
+      "title": "Eko",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Eko.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>If you no fit wise for anywhere<br>You no fit wise for anywhere, you understand, Philkeyz, VADO<br>Eko n'ile, eko akete, naija ni'le wa, alaye lo wa'se shey<br><br>Tori eko leleyi, eko lawa o, eko leleyi, I say eko lawa o<br>Eko leleyi, wan ni eko lawa o (carry information)<br>Eko leleyi, (oh no, brother) eko lawa o<br><br>Awon omo boys, form formation, they enter the club<br>Na to give them and Vanessa<br>Owo ni koko, hustle lo hustle ni o<br>Sholo wicked oh, wicked oh, eko loti ma k'ogbon, ye e ye<br><br>Eko leleyi, eko lawa o, eko leleyi, I say eko lawa o<br>Eko leleyi, wan ni eko lawa o (carry information)<br>Eko leleyi, (oh no, brother) eko lawa o<br><br>Sekimakukaripata, can I, can I, can I, can I go on<br>Can I, can I, can I, can I go on, can I, can I, can I, can I go on<br>Eko aromisa legbelegbe o, eko o ni baje o, no!<br><br>S'obi omo shitta, l'ojuelegba, shebi oloshi, awon tubula a fa wahala<br>To ba ni fagbo, ma lo m'oti, oh oh<br>To ba lowo, ma lo ma pe padi e lo'le ori ma mu e ni o, ye ro joko<br><br>Eko leleyi, eko lawa o, eko leleyi, I say eko lawa o<br>Eko leleyi, wan ni eko lawa o (carry information)<br>Eko leleyi, (oh no, brother) eko lawa o<br><br>Sekimakukaripata, can I, can I, can I, can I go on<br>Can I, can I, can I, can I go on, can I, can I, can I, can I go on<br><br>Fly boy music, vado</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "KIZZ DANIEL",
+      "title": "Flex",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Flex.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Verse 1]<br>Yo<br>Won ni gan-gan-gan-gan<br>(DJ Coublon)<br>Won ni gan-gan-gan-gan, nah-nah<br>Shey make I come your place? (yes)<br>Shey Hennessy go dey? (yes)<br>What about the babes? (yes)<br>Babes from UK?<br>Sh'oma le mi lole? (no)<br>Tinba fa gobe (no)<br>Can I touch your Ekele?<br>Ekele toni Ikebe<br>Island boys (yes)<br>Wey dey carry boys (yes)<br>Shey dem get money?<br>My kind money<br>Oluwa loni ganja<br>Iwin loni igbo nla<br>Vado loni vibe<br>Fela loni Shriners<br><br><br>[Chorus]<br>I just wan flex<br>Make nobody halla for my head<br>And if I push your button<br>You go push my button<br>I go rock your body, oh-ohh<br>See, I just wan flex<br>Make nobody halla for my head<br>And if I push your button<br>You go push my button<br>I go rock your body, oh-ohh<br>I don't know<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh?<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh?<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh ah?<br>(Owo lowa loke)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh? (ahh)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh? (ahh)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh ah? (ahh)<br>(Owo lowa loke)<br><br>You might also like<br>One Ticket<br>Kizz Daniel<br>Maroon<br>Taylor Swift<br>Anti-Hero<br>Taylor Swift<br><br>[Verse 2]<br>Vado oosha, Vado<br>Vado ma pami nah<br>Vado ma pami nah<br>Listen now<br>I say my life just dey sweet (yes)<br>E be like I put sugar (yes)<br>No carry that bad energy come my side<br>My hommies say I razz<br>My hommies say I bad (yes)<br>Hommie gonna drink anything you put for the glass<br>Gidi girl (yes)<br>Where you dey?<br>Girl, I'm in the mood<br>Make I show my face<br>I don't know how to party (I don't know)<br>But I learnt from parties who never to be caught unfresh<br><br>[Chorus]<br>I just wan flex<br>Make nobody halla for my head<br>And if I push your button<br>You go push my button<br>I go rock your body, oh-ohh<br>See, I just wan flex<br>Make nobody halla for my head<br>And if I push your button<br>You go push my button<br>I go rock your body, oh-ohh<br>I don't know<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh?<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh?<br>K'aya fun won (k'aya fun won)<br>Shey k'aya fun won oh ah?<br>(Owo lowa loke)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh? (ahh)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh? (ahh)<br>K'aya fun won (ayy)<br>Shey k'aya fun won oh ah? (ahh, ayy)<br>K'aya owo fun won<br><br><br>[Outro]<br>Vado<br>Number one<br>Hey</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "KIZZ DANIEL",
+      "title": "Jaho",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Jaho.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Vado, vado<br>(DJ Coublon)<br>Alleluia o o<br>Krrii<br>(Jaho jaho)<br><br>You dey do as them dey do<br>Oga do wetin you know<br>You better know who you are<br>You better know who you are<br>As you come this life alone<br>Na so you go leave this life alone o<br>You better know who you are<br>You better know who you are<br><br>Oro e lowo<br>Oro e lowo olowo lo wa<br>Oro mi lowo<br>Oro mi lowo olowo lo wa<br>He can give and takeaway<br>But everyday na for giveaway<br>Baba say make I dey happy<br>Make I dey happy<br>Ayaya<br><br>Eh<br>Jaho jaho<br>Jaho jaho o o<br>Gbe mi di de o<br>Gbe mi di de de de<br>Jaho jaho<br>Jaho jaho o o<br>Gbe mi di de o<br>Gbe mi di de de de<br>Gbe mi di de o<br>Gbe mi di de de de<br><br>If you talk, you must to do<br>And when you lie, you know the truth<br>You better know who you are<br>You better know who you are<br>When them say you don dey hold o<br>Brother keep am on a low<br>No let anybody know<br>Na money go give you fake sweetheart<br><br>Oro e lowo<br>Oro e lowo olowo lo wa<br>Oro mi lowo<br>Oro mi lowo olowo lo wa<br>He can give and takeaway<br>But everyday na for giveaway<br>Baba say make I dey happy<br>Make I dey happy<br>Ayaya<br><br>Eh<br>Jaho jaho<br>Jaho jaho o o<br>Gbe mi di de o<br>Gbe mi di de de de<br>Jaho jaho<br>Jaho jaho o o<br>Gbe mi di de o<br>Gbe mi di de de de<br>Gbe mi di de o<br>Gbe mi di de de de<br>...</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "KIZZ DANIEL",
+      "title": "Lie",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Lie.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Everybody know say omo me I no dey lie<br>Everybody know ah ah<br>Know say omo me I no dey lie (ah ah)<br>Korporate o<br><br>Girl I don't really care about your body type (eh)<br>What really matter na your vibe<br>I be the one for you, one for you<br>Korporate o, korporate o<br>Don't really have to be the one to go<br>Ain't nobody fine like you<br>Girl I be the one for you, one for you (Korporate o)<br><br>And I feel like I've known you my whole life<br>Feel like I need you in my life<br>Nobody fit tell me otherwise<br>Please baby would you be mine<br>I feel like I've known you my whole life<br>Feel like I need you in my life<br>Nobody fit tell me otherwise<br>Every, every, everybody know say<br>Omo me I no dey lie<br><br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Everybody know say, omo me I no dey lie<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Every, every, everybody know say omo me I no dey lie<br><br>Pick up, pick up, pick up my call<br>Bami soro, bami soro<br>Girl I be the one for you, one for you (korporate o)<br>My body on you, your body on me<br>Sweet pass shitor<br>Baby na your hands I dey, simple because<br><br>And I feel like I've known you my whole life<br>Feel like I need you in my life<br>Nobody fit tell me otherwise<br>Please baby would you be mine<br>I feel like I've known you my whole life<br>Feel like I need you in my life<br>Nobody fit tell me otherwise<br>Every, every, everybody know say<br>Omo me I no dey lie<br><br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Everybody know say, omo me I no dey lie<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Mama mia &eacute;, ma mama mia<br>Every, every, everybody know say omo me I no dey lie<br><br>Everybody know say, omo me I no dey lie<br>Everybody know say, omo me I no dey lie</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "KIZZ DANIEL",
+      "title": "MADU",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/MADU.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Look at me baby, call me Zaddy<br>Are you okay, are you okay?<br>Come to my bedroom, cassava dey for you<br>Are you okay, are you okay?<br><br>I want to use my money to scatter your brain for you<br>Permit me<br>I love you long time babe<br>I wan to use my, to shift your womb<br>Oh permit me<br>(Girl make you be be my money oh)<br><br>She say, aye oh (aye mokpe)<br>No lele, oh kowale<br>Aye oh, aww<br>Madu madu madu<br>Lele o lele<br>Aye o, ayemi o<br>No lele, no lele o<br>Aye o, oyemi o<br>Madu madu madu<br><br>Ey, ah...<br>Bad oh<br>Charlie you be bad oh<br>You're like a sugar mummy<br>Charlie you be bad oh<br>Oh ma honey bunny<br>Charlie you be bad oh<br><br>E be you winchi winchi<br>We winchi winchi, winchi<br>Gucci<br>Honey honey, honey, honey<br>Baby lucy<br>You carry load oh<br>You carry<br>Enter motor<br>Baby nobody know oh<br>Nobody<br>Nobody know go know, go know oh<br><br>I want to use my money to scatter your brain for you<br>Permit me<br>I love you long time babe<br>I wan to use my, to shift your womb<br>Oh permit me<br>(Girl make you be be my money oh)<br><br>She say, aye oh (aye mokpe)<br>No lele, oh kowale<br>Aye oh, aww<br>Madu madu madu<br>Lele o lele<br>Aye o, ayemi o<br>No lele, no lele o<br>Aye o, oyemi o<br>Madu madu madu<br><br>Ey, ah...<br>Bad oh<br>Charlie you be bad oh<br>You're like a sugar mummy<br>Charlie you be bad oh<br>Oh ma honey bunny<br>Charlie you be bad oh<br><br>Suffery banter<br>No be serious matter<br>But, are you okay<br>Ooh yeah, chika</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "KIZZ DANIEL",
+      "title": "Nesesari",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Nesesari.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Oh oh oh oh oh oh<br>Timi Lade<br>Wetin you carry na gboko pa ri<br>Oyi mi lo ri<br>Wetin you gather<br>Na wo ko sheri mejia<br>Baby money mo ko ve to bobo oh<br>And maybe I want to get to know your mama<br><br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>See fine lady<br>Your body is a necessary<br>Am ready<br>Anything that you want<br>I get you<br>Oya linkup<br>Fire girl<br>You suppose to give me money non stop<br>Wo mo ton jo<br>E wo ma ton jo<br>Spray the money non stop<br><br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine baby rora ro oh<br>Take it slow<br>You got to take it easy on the boy<br>Mama o mi<br>Go go<br>Tini ka you savage<br>African beauty<br>Your body is a nnecessary<br><br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br>Fine lady<br>Your body is a necessary<br>Is a necessary<br>Is a necessary<br><br>From Dj Dante<br></font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "KIZZ DANIEL",
+      "title": "No Wahala (Remix)",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/No-Wahala-(Remix).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>(1da Banton)<br>Soliye, Soli ye ye ye<br>Problem e no dey finish, make you try dey enjoy oh<br>Wahala e no dey finish oh oh, make you try dey enjoy oh<br>Say Katakata, wuruwuru no dey finish, make you try dey enjoy<br><br>Problem e no dey finish, make you try dey enjoy, uhn-uhn<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br><br>(Kizz Daniel)<br>Problem e no dey kill person&#8230;hmmm<br>Na person kill person<br>Wahala na see finish, Eh<br>Na person tell person<br><br>Problem e no dey last forever,<br>Make you try dey enjoy<br>No waka from telemunje to opolometa<br>Just to find a mentor<br><br>Ye eh eh eh<br>Na who chop dey hear word o<br>Word o, Ye eh eh eh<br>Na who wise dey fear God<br>God o, Ye eh eh eh<br><br>(Tiwa Savage)<br>Pana, Pana<br>Jeje o jeje<br>Aunty Lara o lara&#8230;chi<br>Na so dem dey call me for phone<br>Say my person..person don give<br>A person&#8230;person belle o oh<br><br>How it dey concern me o?<br>How it dey concern me?<br>I don&rsquo;t know!<br>Problem it no dey finish<br>E choke o<br>Sapa na hin be the best friend o<br>Shey you no know?<br><br>(1da Banton)<br>Problem e no dey finish, make you try dey enjoy oh<br>Wahala e no dey finish oh oh, make you try dey enjoy oh<br>Say Katakata, wuruwuru e no dey finish, make you try dey enjoy<br><br>Problem e no dey finish, make you try dey enjoy, uhn-uhn<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br>Make we dance like no wahala, eyyah no wahala oh<br><br>Problem o, Problem o,<br>Problem it no dey finish o<br>Problem o, Wahala o,<br>Wahala it no dey finish o<br><br>Make we dance like, dance like no wahala<br>Make we dance like, dance like no wahala</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "KIZZ DANIEL",
+      "title": "One Ticket",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/One-Ticket.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Loving You Na Scam O<br>(Oh I Dun Try), It's Major Bangz<br><br>Everytime Wire Me Money<br>Hello Baby Have You Sent It(Na Wa)<br>You Dunno Even Know What You Do To Me<br>Ejefe Golo Shoba Mula Mi<br>Olo Omoge You Be Scammer<br>I Dey Follow You For Back O Girl<br>Baby Girl You Blow My Mind I No Go Lie<br><br>See Baby If You Want To Leave, Biko Leave<br>No Do Shakara, No Dey Carry Your Shoulder Up<br>As You See Me So Baby, Na Because Of You I Dun Kolo<br>See I Dun Dey Go, One Ticket Obodo Oyibo<br><br>Badoo<br>You Left Me Fine Boy Die<br>Do You One Ticket<br><br>Hello O (Con Confam)<br>Me I No Dey Fear You Again<br>E Be Like Your your network Dun Dey Fade<br>Meanwhile Go See Daddy Elo<br>If You Break My Heart Today<br>Me I Go Sharparlee Replace<br>Carry Another Baby Give Her What She Wanting<br>Small Thing You Dun Dey Vex<br>You Dun Dey Order Uber<br>Veronica Cool Down (Cool Down)<br><br>See Baby If You Want To Leave Biko Leave<br>No Do Shakara No Dey Carry Your Shoulder Up<br>As You See Me So Baby Na Because Of You I Dun Kolo<br>See I Dun Dey Go, One Ticket To Obodo Oyibo<br><br>See Baby If You Want To Leave Biko Leave<br>No Do Shakara No Dey Carry Your Shoulder Up<br>As You See Me So Baby Na Because Of You I Dun Kolo<br>See I Dun Dey Go, One Ticket To Obodo Oyibo<br><br>OBO Baddest<br>It&rsquo;s Called One Ticket<br><br>See Baby If You Want To Leave Biko Leave<br>No Do Shakara No Dey Carry Your Shoulder Up<br>As You See Me So Baby Na Because Of You I Dun Kolo<br>See I Dun Dey Go, One Ticket To Obodo Oyibo<br><br>See Baby If You Want To Leave Biko Leave<br>No Do Shakara No Dey Carry Your Shoulder Up<br>As You See Me So Baby Na Because Of You I Dun Kolo<br>See I Dun Dey Go, One Ticket To Obodo Oyibo<br><br>Swaps Swaps<br>Boy Kizz<br>Already Know<br>One Ticket<br><br>One Ticket One Ticket<br>Is A Star Ticket<br>You Can Go You Can Go</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "KIZZ DANIEL",
+      "title": "Oshe",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Oshe.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Surely you the person for me o<br>I know nobody matter mo<br>Nobody matter, nobod-nobody matter<br>E be like I don win a lotto<br>I no fit cooly down mo<br>Ole le le, cooly cooly<br>Ole le le<br><br>Baby girl let me whisk you away<br>Oshey<br>Whisk you away on holiday<br>Oshey<br>Holiday to Mozambique<br>Oshey<br>Follow me go to Mozambique o<br>Oshey<br>Baby girl are you on your way<br>Oshey<br>Shey make I bring helicopter<br>Oshey<br>Omo tena na<br>Oshey<br>Make Eno be like I Dey over do<br>Oshey<br><br>But we go trouble their timeline<br>Give them a reason to love<br>Chop all their megabyte<br>Megabyte<br>Won Tun lora Mii<br>Trouble their timeline<br>Give them a reason to love<br>Chop all their megabyte<br>Megabyte<br><br>Baby girl, oya look at me<br>Oshey<br>Nwawa so look at you<br>Oshey<br>E be tighty na whine whine<br>Oshey<br>We be tighty now whine whine<br>Oshey<br><br>Baby girl, oya look at me<br>Oshey<br>Nwawa so look at you<br>Oshey<br>E be tighty na whine whine<br>Oshey<br>We be tighty now whine whine<br>Oshey<br><br>Flyboy<br><br>Oya point and take<br>Put it all on me<br>My okpeke<br>Put am for rotate o<br>Shole Faku<br>Gbajo lowo mi<br>My okpeke<br>Put am for rotate o<br><br>Baby girl let me whisk you away<br>Oshey<br>Whisk you away on holiday<br>Oshey<br>Holiday to Mozambique<br>Oshey<br>Follow me go to Mozambique<br>Oshey<br>Baby girl are you on your way<br>Oshey<br>Shey make I bring helicopter<br>Oshey<br>Omo tena na<br>Oshey<br>Make Eno be like I Dey over do<br>Oshey<br><br>But we go trouble their timeline<br>Give them a reason to love<br>Chop all their megabyte<br>Megabyte<br>Won Tun lora Mii<br>Trouble their timeline<br>Give them a reason to love<br>Chop all their megabyte<br>Megabyte<br><br>Baby girl, oya look at me<br>Oshey<br>Nwawa so look at you<br>Oshey<br>E be tighty na whine whine<br>Oshey<br>We be tighty now whine whine<br>Oshey<br><br>Baby girl, oya look at me<br>Oshey<br>Nwawa so look at you<br>Oshey<br>E be tighty na whine whine<br>Oshey<br>We be tighty now whine whine<br>Oshey<br><br>Krikpa<br>Flyboy</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "KIZZ DANIEL",
+      "title": "Poko",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Poko.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Oh my God, look at that girl<br>The way she move her body oh, I done lost<br>Whine poko, go down poko oh no no<br>Whine poko, go down poko eheh-eheh<br>Whine poko, go down poko oh no no<br>Say whine poko, go down poko eheh-eheh<br><br>Chale it be you, it be you, it be you, it be you Johanna<br>I say make I shoot my shot o, aye o Ghana<br>Did you like it?<br><br>Up, down, ose, shei<br>Loving you, oh, baby oh Maria the light<br>Ji masun<br>Girl you are one of a kind<br>Ye type is the type I like (caro, caro) oh<br><br>Oh my God, look at that girl<br>The way she move her body oh, I done lost<br>Whine poko, go down poko oh no no<br>Whine poko, go down poko eheh-eheh<br>Whine poko, go down poko oh no no<br>Say whine poko, go down poko eheh-eheh<br><br>Pretty hello you o (hello you o)<br>I really like how we communicating<br>I know you come from UK, me I come from Naija<br>I know you like Ghana vibe, so I come through with another one, heye<br>Ji masun<br>Girl you are one of a kind<br>Ya type is the type that I like (caro, caro) oh<br><br>Oh my God, look at that girl<br>The way she move her body oh, I done lost<br>Whine poko, go down poko oh no no<br>Whine poko, go down poko eheh-eheh<br>Whine poko, go down poko oh no no<br>Say whine poko, go down poko eheh-eheh<br><br>Pretty hello you (hello you)<br>Flyboy<br>Mixings Zino Foster<br><br>Fado!</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "KIZZ DANIEL",
+      "title": "Pour Me Water",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Pour-Me-Water.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I don't high like this<br>I don't dey drink anything I see<br>I never prayed for this<br>I never knew it could end like this<br>Girl if you are done with me<br>Oh baby Biko just set me free<br>'Cause I don't dey craze like this<br>For your love I dey lose my senses<br><br>Fine boy like me<br>Fine boy like me<br>Don't call me cheap<br>Girl I worked for this<br>Girl I worked for this<br>And I promise you<br>I will find someone<br>Someone new<br>Make you no pour me water o<br>Make you no pour me pour me<br><br>(Kole, kole, kole) Put hand for breast and swear<br>If I do you bad (Kole, kole)<br>If I do you bad (Kole)<br>No pour me water<br><br>(Kole, kole, kole) Put hand for breast and swear<br>If I do you bad (Kole, kole)<br>If I do you bad (Kole)<br>No pour me water<br><br>When I call you no pick<br>When I text you go read and delete<br>I no be kotono<br>I no fit sabi everything you dey think<br>You dey call me your boyfriend<br>Why I still dey pay for the sex every night<br>You don't need to say too much<br>I already know<br>You don't love me much<br><br>Fine boy like me<br>Fine boy like me<br>Don't call me cheap<br>Girl I worked for this<br>Girl I worked for this<br>And I promise you<br>I will find someone<br>Someone new<br>Make you no pour me water o<br>Make you no pour me, pour me<br><br>(Kole, kole, kole) Put hand for breast and swear<br>If I do you bad (Kole, kole)<br>If I do you bad (Kole)<br>No pour me water<br><br>(Kole, kole, kole) Put hand for breast and swear<br>If I do you bad (Kole, kole)<br>If I do you bad (Kole)<br>No pour me water<br><br>(Kole, kole)<br>(Kole, kole)<br>(Kole, kole)<br></font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "KIZZ DANIEL",
+      "title": "Tere",
+      "image": "file:///android_asset/image/KIZZDANIEL.jpg",
+      "link_mp3": "mp3/Tere.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Diko diko oh<br>Ah ah<br>Eh eh<br>The best of magic<br>Pe pe<br>Pe pe<br><br>Anywhere you put me<br>I go dey<br>Anything you reason me<br>Baby I go pay<br>I no wan chioma<br>I no wan Sarafina oh<br>Ah love you oh<br>Anywhere you put me<br>I go dey<br>Anything you reason me<br>Baby I go pay<br>I no wan chioma<br>Me no wan Sarafina oh<br>Ah love you oh<br><br>Tere Tere Tere<br>Get me pava<br>Tere Tere Tere<br>Oya give me sugar<br>Tere Tere Tere<br>I no wan chioma<br>Tere Tere<br>I no wan Sarafina<br><br>Shift abeg<br>Make I see my pride<br>Oya come to me<br>Make I hold you tight<br>Bi bi bi bite<br>Things I buy for you<br>They must be beautiful<br>Like you (like you)<br>Oleku che che che<br><br>I promise my mama say<br>I go marry oyinbo (super)<br>Now I dey with you<br>Oloju choco milo<br>Your idea is good to me<br>I will marry you<br><br>Anywhere you put me<br>I go dey<br>Anything you reason me<br>Baby I go pay<br>I no wan chioma<br>I no wan Sarafina oh<br>Ah love you oh<br>Anywhere you put me<br>I go dey<br>Anything you reason me<br>Baby I go pay<br>I no wan chioma<br>Me I no wan Sarafina oh<br>Ah love you oh<br><br>Give me pava<br>Tere Tere Tere<br>Oya give me sugar<br>Tere Tere Tere<br>I no wan chioma<br>Tere Tere<br>I no wan Sarafina<br><br>Baby you so fine<br>You so sweet oh oh oh<br>I call you jelly of rice diko diko ooh<br>Isogeze kwa nyuma kwe kwe eeh<br>Nikucheze ngwasuma kwe kwe eeh<br>Za kasi kama duma (kweeeh)<br>Mtoto kaba choli lote lote eeh<br>(Lote lote)<br>Tena hunipaga vyote vyote aah<br>(Vyote vyote)<br>Nikiwa naye tata ngote ngote aah<br>(Ngote ngote)<br>Ati baby naona raha ooh<br>Mpaka napata kite tete eeh<br>Jamani kite kitete eeh<br>Yaani kama mpumbavu<br>(Kite kitete eeh)<br>Ooh kite kitete eeh<br>Nami namkuna mbele na nyuma<br>(Kite kitete eeh)<br>Usiku kucha rahaa<br>(Kite kitete eeh)<br>Ooh asa tere baby<br><br><br>Give me pava<br>Tere Tere Tere<br>Oya give me sugar<br>Tere Tere Tere<br>I no wan chioma<br>Tere Tere<br>I no wan Sarafina<br><br>Take this money<br>Buy yourself a house<br>I say take this money<br>Buy yourself a car<br>Oya take this money<br>Give to your mama<br>Oya take this money<br>Give to you papa</font></p>"
+    }
+  ]
+}
