@@ -1,0 +1,173 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111xx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712xx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Categories": [
+    {
+      "id": 1,
+      "name_category": "OH MY GIRL",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "OH MY GIRL",
+      "title": "BUNGEE (Fall in Love)",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/BUNGEE-(Fall-in-Love).mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey girls yeah<br>You ready woo<br><br>Ttaega wasseul ttae geureol ttae nan yonggamhae<br>Gominamyeonseo mangseorijin aneul geoya<br>Jeonghaesseo nan jigeum neol mannareo gallae<br>He's gonna love me right<br><br>Jal bwa jeokdanghan baram<br>Nal neoege huljjeok deryeoda jul geoya<br>Jal bwa ije ne mami<br>Padocheoreom illeongige doel tenikka<br><br>Ne maeum wiro beonji nan wanbyeokhage chakji<br>Songarageul pyeogo vreul geurin daeum<br>Ttodashi han beon beonji jeonghwakhi hangaunde<br>Neoneun ije na ppunya yeah<br>1 2 me &amp; you hola hola<br>3 4 fall in love hola hola<br>Dashi hanbeon beonji jeonghwakhi hangaunde<br>Naneun ije neo ppunya yeah<br><br>Yeah Yeah I'm so glad met today huh<br>Don't worry about me boy yeh<br>Neoege ganeun gil jjeumiya<br>Paak da kkeunnan ji jeogi meon orae ya<br>Oraedorok i sunganeul gidaryeotteon geoya<br>Eoseolpeun boho piryo eopseo run<br>Anjeonjangchi eopshi geunyang mak ttwineun geoya<br><br>Jal bwa binnaneun haessal<br>Nae moseubeul nunbushige bichul geoya<br>Jal bwa jigeum nae mami neol hyanghaeseo ttwigo isseo<br>Ireoke woo hoo<br><br>Ne maeum wiro beonji nan wanbyeokhage chakji<br>Songarageul pyeogo vreul geurin daeum<br>Ttodashi han beon beonji jeonghwakhi hangaunde<br>Neoneun ije na ppunya yeah<br>1 2 me and you hola hola<br>3 4 fall in love hola hola<br>Dashi hanbeon beonji jeonghwakhi hangaunde<br>Naneun ije neo ppunya yeah<br><br>Come on girls<br>We're about to jump into love right now<br>Put your hands together now come on<br>Songarageul jjwak pyeogoseo right neoege naragal geoya<br>Junbidwhaetdamyeon turn up jump<br><br>Ne maeum wiro beonji nan wanbyeokhage chakji<br>Songarageul pyeogo vreul geurin daeum<br>Ttodashi han beon beonji haneureun badaga dwae<br>Neoneun ije na ppunya yeah<br>1 2 me and you hola hola<br>3 4 fall in love hola hola<br>Dashi han beon beonji badaneun haneuri dwae<br>Naneun ije neo ppunya yeah</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "OH MY GIRL",
+      "title": "CLOSER",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/CLOSER.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Han georeum closer nae mam<br>Han ppyeom closer to you<br>Ireoke geuriun naren<br><br>Cham meolli inna bwa<br>Maeil dagagado adeukhagiman hae<br>Byeolttongbyeora annyeong<br>Nae sowon deureojuryeom<br><br>Han georeum closer nae mam<br>Han ppyeom closer to you<br>Haneureul seuchineun byeore<br>Nae mameul dama bonaelge<br><br>So come on come on come on<br>Come on come on come on<br>Come on come on come on<br>Come on little closer<br><br>Kkok irwojul geoya<br>Oraen gidarimeun eonjenga<br>Nal bichuneun dallim (deureobwa)<br>Ganjikhaetdeon naui bimil<br><br>Han georeum closer nae mam<br>Han ppyeom closer to you<br>Haneureul seuchineun byeore<br>Nae mameul dama bonaelge<br><br>So come on come on come on<br>Come on come on come on<br>Come on come on come on<br>Come on little closer<br><br>Closer, I'm closer, I'm closer, I'm closer (oh yeah~)<br>Anaseo deryeoga jwo to you<br>Closer, I'm closer, I'm closer, I'm closer<br>Can you hear my cry<br>Eoneu neujeun bam gin kkumeul kkuneun na oh<br>Closer, I'm closer, I'm closer, I'm closer<br><br>I promise I won't walk away<br><br>Han georeum closer nae mam (closer nae mam~)<br>Han ppyeom closer to you (to you, to you~)<br>Taeyangi jiugi jeone (jiugi, jiugi jeone)<br>Neoege dakil gidohae (dakil gidohae~)<br><br>So come on come on come on (oh~)<br>Come on come on come on (oh~)<br>Come on come on come on (come closer)<br>Come on little closer<br><br>Eonjena hamkkeyeotdeon gongganeseo<br>Sseulsseulhage binnago inneun neon<br>Manheun byeoljari jung neol talmeun jarireul<br>Jeo haneul wie goi dama bichwojugireul barae<br>Neol geurigi wihan kkumeul geurida<br>Geurigo geurimyeon mannal su isseulkka<br>Neon hangsang neul gateun jari muse on<br>Yeomureoganeun neon milky way is on<br><br>Closer, I'm closer, I'm closer, I'm closer (oh yeah~)<br>Anaseo deryeoga jwo to you</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "OH MY GIRL",
+      "title": "Dolphin",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/Dolphin.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Oh my god taimingi cham yalmiwo<br>Oneul gateun nal majuchyeo ige mwoya<br>Meorineun eongmangin deda<br>Sangtaega mari aniya<br>Moreun cheok jinaga jwo<br><br>Nae mami bangsimhal ttaemada bulssuk natanan dwi<br>Heeomchideut meoreojineun neo<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br><br>Eojjeonji oneul allami an ullyeo<br>Amugeona mak ibeotgo jigagiya<br>Araero momeul natchugo sumeul kkuk chamabwatjiman<br>Aiku deulkyeonna bwa<br><br>Nae mami bangsimhal ttaemada bulssuk natanan dwi<br>Heeomchideut meoreojineun neo<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br><br>I pado wi nan onjongil seopingeul haneun neukkim<br>Ajjilhan feeling nan soljiki puk ppajyeotji<br>Hajiman igeon secret tto mulborareul ireukyeo<br><br>Gapjagi useumyeo eolgureul bulssuk dagaon dwi<br>Woneul galla hateureul geuryeo<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br><br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo<br>Da da da da da da da da da da<br>Da da da da<br>Tto mulborareul ireukyeo</font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "OH MY GIRL",
+      "title": "Dun Dun Dance",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/Dun-Dun-Dance.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br>Just dance, just dance<br>Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br>Just dance, just dance<br><br>Yuseongi bicheoreom ssodajineun haneul<br>Geu arae neowa hamkke chumchugo sipeo<br>Saeksaegui otdeulgwa yeppeun aekseseori Oh baby<br>Heureuneun jeo eumagi nae mameul seollege haji<br><br>I feel the disco rhythm in my body<br>Dareun amugeotdo saenggakajin ma<br>Yeah baljagugeuro gadeukan mudae wie olla<br>Jayuroun momjit geu sarangseureon neukkim<br>Jeo ttabunhaetdeon haruwa ilsangeseo beoseona Oh, tonight<br><br>Just you and I jigureul deungjigo tteoolla<br>Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br>Malliji ma jigeum nae gibuneun Feel so high<br>Meolli meolli meolli da nunbusyeo<br><br>I just wanna Dun Dun Dance<br>Dun Dun Dance, Dun Dun Dance<br>Oh baby, give me baby, give me baby, give me more<br>Nal meomchuji ma Love this song<br><br>Just wanna Dun Dun Dance<br>Dun Dun Dance, Dun Dun Dance<br>Just dance, just dance<br><br>Shining like a disco ball<br>Ppalgan High heels on the road<br>Got my eyes on you, and you got yours<br>Jeo taeyangi dasi nuntteul ttaekkaji<br><br>Neon pyeongbeomhande mwonga dalla waenji myohan guseogi inne<br>Nan garyeojyeo inneun ge boyeo<br>Urin modu isanghae jogeumssigeun Yeah<br>Sarameul gajanghan natseon jonjaedeulcheoreom Oh baby<br><br>Yeah nollaji ana gwaenchana jom deo gakkai wa<br>Dareun siseon ttawi da ijeobeoryeo uri<br>Neul bokjapan jeosesanggwa gidaeeseo beoseona Oh tonight<br><br>Just you and I jigureul deungjigo tteoolla<br>Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br>Malliji ma jigeum nae gibuneun Feel so high<br>Meolli meolli meolli da nunbusyeo<br><br>I just wanna Dun Dun Dance<br>Dun Dun Dance, Dun Dun Dance<br>Oh baby, give me baby, give me baby, give me more<br>Nal meomchuji ma Love this song<br>Just wanna Dun Dun Dance, Dun Dun Dance, Dun Dun Dance<br>Just dance, just dance<br><br>Eochapi jageun jeomil ppunya boseok gateun aiya<br>Myeot baljjak meolli tteoreojyeoseo barabomyeon dwae<br>Urin Dancing on &#64257;re<br><br>Just you and I jigureul deungjigo tteoolla<br>Mamkkeot Crazy, crazy, crazy gin chumeul chwo<br>Malliji ma jigeum nae gibuneun Feel so high<br>Meolli meolli meolli da nunbusyeo<br><br>I just wanna Dun Dun Dance<br>Dun Dun Dance, Dun Dun Dance<br>Oh baby, give me baby, give me baby, give me more<br>Nal meomchuji ma Love this song<br><br>Just wanna Dun Dun Dance<br>Dun Dun Dance, Dun Dun Dance<br>Just dance, just dance</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "OH MY GIRL",
+      "title": "Nonstop",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/Nonstop.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Going nonstop<br>Maldo an doejana geuchi yayayaya<br>Urin seoroga moreuneun ge eomneun sain geol<br>Itorok ppanhi nanananana like nanananana<br>Uri sai bimil ttawi isseul ri eomneun geol<br>Da bwatji urin<br><br>Hi hi weak body<br>Like them burning and burn but swit<br>Yojeum oneul tto naeil maeil dareun aneun ot<br>Ireoke dalla boindago hoo<br>Heungnyeoksakkaji jeonbu algo inneun neol<br>Yeah jeoldae geureol rineun eopseo nan never ever geuraeyaman hae<br><br>Muindoe eoneu nal tteoreojin geoya<br>Dulman namge dwaetdamyeon neon eotteol geot gata<br>Saenggangman haedo museopda eolgureul jjipuryeotjiman<br>Neoegen yaegi mot hae jeoldaero<br><br>Saljjak seollesseo nan oh nanananana<br>Saljjak seollesseo nan oh nanananana<br>Geureol il eopjiman saljjak seollesseo nan<br>Nonstop nonstop nonstop nonstop nonstop<br>Geureol il eopjiman saljjak seollesseo nan<br><br>Yojeum na neomu oerowo jom isanghaejin geot gata<br>Neoreul bomyeonseo simjangi ttwin geon<br>Back it up pack it up bikyeo seo isseo<br>Dugeungeoryeotdeon ge munjeya<br>Anya geuge daeche wae joeya<br>Seoneul neomeun geoya fz reideo<br>Oreurangnaerirak yeogin friend zone<br><br>Muindoe eoneu nal tteoreojin geoya<br>Dulman namge dwaetdamyeon neon eotteol geot gata<br>Saenggangman haedo museopda eolgureul jjipuryeotjiman<br>Neoegen yaegi mot hae jeoldaero<br><br>Saljjak seollesseo nan oh nanananana<br>Saljjak seollesseo nan oh nanananana<br>Geureol il eopjiman saljjak seollesseo nan<br><br>I have to go to the bed by night<br>Joreumi oneun geolkka time pillyohaji anchi ama<br>Meoritsogeun imi jireumgirijana<br>Nega wonhandamyeon naega dwiro du kan<br>Did you wanna twin spot nop han kan<br>Yugamin cheok haji ma seolleneun geo matjana<br><br>Kkwaena hollanseureowo ireoneun nado<br>Nuguboda deo ireol ttaen neoreul chajagatjiman<br>I gominmankeumeun nege malhal su eopseo<br>Eonjebuteonga neol bomyeon<br>Saljjak seollesseo nan<br><br>Saljjak seollesseo nan oh nanananana<br>Saljjak seollesseo nan oh nanananana<br>Geureol il eopjiman saljjak seollesseo nan<br>Nonstop nonstop nonstop nonstop nonstop<br>Geureol il eopjiman saljjak seollesseo nan<br>Nonstop nonstop nonstop nonstop nonstop<br>Neon al ri eopjiman saljjak seollesseo nan</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "OH MY GIRL",
+      "title": "Real Love",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/Real-Love.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Urin i eumageul billyeo<br>I bunwigireul billyeo<br>Jigeum i gonggi igeon machi<br>7sigan bihaeng dwi mannan geot gateun seom<br>Pinkbit haneureul billyeo<br>Talkin' 'bout the real love<br><br>Natseon gwail hyanggiga peojyeo<br>I gibuneun mwolkka<br>Aju saljjak gamgin naui nuni binnago itjana<br>Sarangeul malhagi iboda wanbyeokan bameun eopseo<br>Jigeumiya<br><br>Urin i eumageul billyeo<br>I bunwigireul billyeo<br>Jigeum i gonggi igeon machi<br>7sigan bihaeng dwi mannan geot gateun seom<br>Pinkbit haneureul billyeo<br>Talkin' 'bout the real love<br><br>Ungseonggeorin sorineun modu<br>Dareun oegugeo gata<br>Neoege 1, 2, 3 choemyeoncheoreom mak ppajyeodeuneun i sungan<br>Sarangeul malhagi iboda wanbyeokan bameun eopseo<br>Jigeumiya<br><br>Urin i eumageul billyeo<br>I bunwigireul billyeo<br>Jigeum i gonggi igeon machi<br>7sigan bihaeng dwi mannan geot gateun seom<br>Pinkbit haneureul billyeo<br>Talkin' 'bout the real love<br><br>Real, real love<br>It's a Real, real love<br>Real, real love<br>It's a Real, real love<br>Igeon exotic experience<br>Uyeoniragien yeonghwa sok han jangmyeon gata soljiki i modeun ge<br>Jakkuman neuryeojyeo cheoncheonhi ganeun i neukkim<br>Gamgageun so unreal, real love<br><br>Urin i eumageul billyeo<br>I bunwigireul billyeo<br>Jigeum i gonggi igeon machi<br>7sigan bihaeng dwi mannan geot gateun seomui<br>Pinkbit haneureul billyeo<br>Talkin' 'bout the real love</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "OH MY GIRL",
+      "title": "Remember Me",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/Remember-Me.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Remember me<br>Do you remember me<br><br>Nal barabodeon neoye nune bichin<br>Nae moseubi cham mame deureonneunde<br>Nado mollatteon nal alge haejun<br>Neol mannatteon geon cham haengunin geol Yeah<br><br>Dashi ireon uyeoneun eopseulgeora neon neul saegideut malhaetji<br>Geoseulleo teullyeo bwabwa doragado gyeolguk geu jarijana<br>(Oh) dorawado ppeonhande (Oh) wae meorissoge<br>(Oh) niga nuni bushige peojeo Disappear<br><br>Sarangseureon geuttaeye<br>Neo uriye gieogi areungeorigo<br>Jogeum ireun sarangyaegin<br>Jeo byeoldeulcheoreom nareul bichugo<br><br>Nuneul gameumyeon (Remember me)<br>Shijakdweneun Magic (Remember me)<br>Cheoeumiraseo (Remember me)<br>Manyang joatteon<br>Do you remember geuttae bulkkonnori<br><br>Moraeal gateun gieokdeul sogeseodo<br>Nan dansume neol chajanael su isseo<br>Neoyegen naega eotteoke namanneunji gunggeumhaejeosseo<br>Nan eottaesseulkka Yeah<br><br>Sashil geuttae naye sesangeun neowa na bakke eopseoseo<br>Annyeong handongan gamgiboda deo apatji<br>(Oh) neoreul geuryeoboanne (Oh) kkaman haneure<br>(Oh) dashi nunbushidorok peongpeong Disappear<br><br>Sarangseureon geuttaeye<br>Neo uriye gieogi areungeorigo<br>Jogeum ireun sarangyaegin<br>Jeo byeoldeulcheoreom nareul bichugo<br><br>Nuneul gameumyeon (Remember me)<br>Shijakdweneun Magic (Remember me)<br>Cheoeumiraseo (Remember me)<br>Manyang joatteon<br>Do you remember geuttae bulkkonnori<br><br>Remember me geuttae uri<br>Bulkkonnori gatdeon dulmane haneulppit<br>Itji mara jweo Ah ah no no<br>Aju deo orae jinado gakkeum nal geuryeo jweo<br><br>Taeyeonaseo bon geot junge<br>Jeil keodaran kkot ojik dulmane chukje<br>Gyejeori dwedorawado<br>Gajang areumdaweotteon<br><br>Shigan neomeoro (Remember me)<br>Ttiweoboneun pyeonji (Remember me)<br>Niga isseoseo (Remember me)<br>Manyang seolletteon<br>Do you remember geuttae bulkkonnori<br><br>Nuneul gameumyeon (Remember me)<br>Shijakdweneun Magic (Remember me)<br>Cheoeumiraseo (Remember me)<br>Manyang joatteon<br>Do you remember geuttae bulkkonnori<br><br>Remember me<br>Remember me</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "OH MY GIRL",
+      "title": "SECRET GARDEN",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/SECRET-GARDEN.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Naye bimiljeongweon<br><br>Nan ajikdo gin kkumeul kkugo isseo<br>Geu eotteon iegedo malhaji mothhaetteon<br>Achim haessari nal dudeurimyeo Hello<br>Maeil meomulleotta ganeunde moreuji<br><br>Cheoeumeuro neoegeman boyeojulge<br>Nareul ttara Come with me bae<br>Soneul jaba You and me<br><br>Nae ane sojunghan honjamane jangsoga isseo<br>Ajigeun byeolgeo anin punggyeongijiman<br>Jogeumman gidarimyeon got mannage doel geol<br>I ane meotjigo nollaun geol shimeodweonneunde<br>Ajigeun amugeotto an boijiman<br>Jogeumman gidarimyeon alge doel geoya<br>Naye bimiljeongweon<br><br>Neomu dansunae geu saramdeureun marya<br>Nuneuro boneun geonman mideuryeo haneun geol<br>Bitbangureun nal dadogimyeo jamshi<br>Naege tto himeul jugon hae dajeonghi<br><br>Oneul haru han saramman chodaehalge<br>Nareul ttara Come with me bae<br>Sangsanghaebwa You and me<br><br>Nae ane sojunghan honjamane jangsoga isseo<br>Ajigeun byeolgeo anin punggyeongijiman<br>Jogeumman gidarimyeon got mannage doel geol<br>I ane meotjigo nollaun geol shimeodweonneunde<br>Ajigeun amugeotto an boijiman<br>Jogeumman gidarimyeon alge doel geoya<br>Naye bimiljeongweon<br><br>Ama eonjenga marya<br>I kkumdeuri hyeonshiri doemyeon<br>Hamkke nanun sungandeureul i ganeungseongdeureul<br>Kkok dashi gieokhaejweo<br><br>Ne ane yeollyeotteon munteumeuro bon jeogi isseo<br>Ajigeun byeolgeo anin punggyeongijiman<br>Jogeumman gidarimyeon got mannage doel geol<br>Geu ane meotjigo nollaun geol shimeodweonneunde<br>Ajigeun amugeotto an boijiman<br>Jogeumman gidarimyeon alge doel geoya<br>Neoye bimiljeongweon<br><br>Mureokmureok eoseoeoseo jarana jweo Beautiful</font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "OH MY GIRL",
+      "title": "SSFWL",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/SSFWL.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Neoin deushae<br>Nae mame saehayan kkoccipeul<br>Magu heutnallineun geon<br>Neoin deushae<br>Balkkeute sobokhage<br>Ssahyeoga tto ssahyeoga<br>Geurigo neon jageun ssageul tuiwo<br>Geumse jaranan areumdeuri<br>Jiteun chorogui saekkkallo<br>Neon nae haneureul chaeugo<br>Geurigo neon jageun naui mamui<br>Jigakbyeondongeun neorobuteo<br>Nan dallajin geosman gatae<br><br>Jeogi meolli namu dwiro<br>Daseot beonjjae gyejeori boyeo nan<br>Cheoeum neukkin seollemiya<br>Ne ireumi nal gaseum ttwige mandeureo<br><br>Issjanha sarangimyeon danbeone baro<br>Al suga issdae<br>Hesgalliji anhgo bandeusi<br>Arabol suga issdae<br>Ije nan geu sarami nugunji hwaksinhaesseo<br><br>Lalalalalalala<br>Nega naege pieona<br>Ajirangicheoreom eojireopge<br>Lalalalalalala<br>Nega naege millyeowa<br>Du nuneul keodarahge tteugo kkuneun kkum<br><br>Neoin deushae<br>Najeun hwiparam sori<br>Eodiseonga nareul bureuneun sori<br>Bareul naedideul ttaemada<br>Yeogin tto dareun eodinga<br>Neoin deushae<br>Sappun jeomureoganeun<br>Noeulmajeodo meosjin geurim<br>Da dallajin geosman gatae<br><br>Jeogi neoui eokkaeneomeo<br>Daseot beonjjae gyejeori boyeo nan<br>Cheoeum neukkin seollemiya<br>Ne useumi nal gaseum ttwige mandeureo<br><br>Kkok bunmyeonghan geon sarangimyeon danbeone baro<br>Al suga issdae<br>Hesgalliji anhgo bandeusi<br>Arabol suga issdae<br>Ije nan geu sarami nugunji hwaksinhaesseo<br><br>Lalalalalalala<br>Nega naege pieona<br>Ajirangicheoreom eojireopge<br>Lalalalalalala<br>Nega naege millyeowa<br>Jipyeongseon jeopyeoneseo cheoncheonhi<br>Nal hyanghae dagawa<br>Neoneun ije nae maeume meomulgessji<br>Yeotaekkeot sangsangman haesseossneunde<br><br>Sarangiran neukkimi mwonji gunggeumhaessneunde<br>Hesgallijin anheulkka hoksi<br>Geureon geuttae nugunga naege<br>Dajeonghage malhaessji<br><br>Issjanha sarangimyeon danbeone baro<br>Al suga issdae<br>Hesgalliji anhgo bandeusi<br>Arabol suga issdae<br>Ije nan geu sarami nugunji hwaksinhaesseo<br><br>Lalalalalalala<br>Nega naege pieona<br>Ajirangicheoreom eojireopge<br>Lalalalalalala<br>Nega naege millyeowa<br>Du nuneul keodarahge tteugo kkuneun kkum<br>Sarangiran kkum<br>Love for real</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "OH MY GIRL",
+      "title": "STEP BY STEP",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/STEP-BY-STEP.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Geudaen eodijjeum geotgo innayo<br>Say you love me, say you love me<br><br>Nalssiga neomu joha sangsanghajyo<br>Geudaewa soneul japgo nuneul majuhago<br>Ttuba ttuba ttuba ttuba I do<br>Ttuba ttuba ttuba ttuba I do<br><br>Hansumdo mot jatjyo na byeonginga bwayo<br>Majayo naega naega neoreul neoreul johahae<br><br>Nega han baljjak du baljjak meoreojimyeon<br>Nan se baljjak dagagalge<br>Uriui georiga deo isang meoreojiji anhge<br>Nega han baljjak du baljjak dagaomyeon<br>Nan geudaero seo isseulge<br>Uriui sarangi ppareuge neukkyeojiji anhge<br><br>Say you love me, say you ttururuttuttu<br>Say you love me, say you love me<br><br>Siwonhan baram buneun eondeok wie<br>Dotjari kkalgo nuwo geudaewa itdamyeon<br>Ttuba ttuba ttuba ttuba I do<br>Ttuba ttuba ttuba ttuba I do<br><br>Hansumdo mot jatjyo na byeonginga bwayo<br>Majayo naega naega neoreul neoreul johahae<br><br>Nega han baljjak du baljjak meoreojimyeon<br>Nan se baljjak dagagalge<br>Uriui georiga deo isang meoreojiji anhge<br>Nega han baljjak du baljjak dagaomyeon<br>Nan geudaero seo isseulge<br>Uriui sarangi ppareuge neukkyeojiji anhge<br><br>Say you love me, say you ttururuttuttu<br>Say you love me, say you love me<br><br>On &amp; on, On &amp; on mangseoriji ma<br>Uh uh uh naege uh uh uh<br>Jogeumman deo oh jogeumman deo<br>Jogeum deo dagawayo<br>Deo isangeun meoreojiji mayo<br>Jogeum deo dagawa<br><br>Nega han baljjak du baljjak meoreojimyeon<br>Nan se baljjak dagagalge<br>Uriui georiga deo isang meoreojiji anhge<br>Nega han baljjak du baljjak dagaomyeon<br>Nan geudaero seo isseulge<br>Uriui sarangi ppareuge neukkyeojiji anhge<br><br>Say you love me, say you ttururuttuttu<br>Say you love me, say you love me<br><br>Nega han baljjak du baljjak dagaomyeon<br>Nan geudaero seo isseulge<br>Uriui sarangi ppareuge neukkyeojiji anhge anhge</font></p>"
+    },
+	
+	{
+      "id": 11,
+      "name_category": "OH MY GIRL",
+      "title": "WINDY DAY",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/WINDY-DAY.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Meolliseo neol talmeun barami ireo<br>Bureowa naege hello hello hello<br>Jinjjaro jinjjaro sojunghan geoseun<br>Boiji anneundae<br><br>Ttaseuhan ondo budeureoun chokgam<br>Sarangin geolkka naege on geolkka<br><br>Nae mami haru jongil handongan singsungsaengsung hadeoni<br>Ireoryeogo geuraetdeon geol<br>Naui maeum hanjjoge ungkeuryeotdeon gamjeongi<br>Gipeun jameseo kkaeeonasseo<br><br>Neoreul saenggakhamyeon heundeullineun namudeulgwa<br>Neoreul bol ttaemada doraganeun baramgaebi<br>Igeon naega neoreul manhi johahandan jeunggeo<br><br>Eojjeol suga eopseo nan tiga na eolgure (oh you)<br>Nado mollae bori tto meonjeo balgeure (yeah, you)<br>Nareul hyanghae bureooneun neoui ipgime<br>(Nareul hyanghae bureooneun)<br>Heundeullyeo heundeullyeo<br><br>Windy day windy day (woo, oh yeah)<br>Windy day windy day<br><br>Meoriga eongmangi doeeodo joha<br>Gibuneun joheunikka<br>Bakkaten gureumi bireul ppuryeodo<br>Nae mameun aniya<br><br>Ttaseuhan haessal budeureoun baram<br>Bomi on geolkka naege on geolkka<br><br>Nae mami haru jongil handongan singsungsaengsung hadeoni<br>Ireoryeogo geuraetdeon geol<br>Naui maeum hanjjoge ungkeuryeotdeon gamjeongi<br>Gipeun jameseo kkaeeonasseo<br><br>Neoreul saenggakhamyeon heundeullineun namudeulgwa<br>Neoreul bol ttaemada doraganeun baramgaebi<br>Igeon naega neoreul manhi johahandan jeunggeo<br><br>Eojjeol suga eopseo nan tiga na eolgure (oh you)<br>Nado mollae bori tto meonjeo balgeure (yeah, you)<br>Nareul hyanghae bureooneun neoui ipgime<br>(Nareul hyanghae bureooneun)<br>Heundeullyeo heundeullyeo<br><br>Windy day windy day (woo, oh yeah)<br>Windy day windy day<br><br>Baramgyeore deullyeooneun neoui gobaege<br>Seoltangcheoreom nokneun jung naneun eoneusae<br>Gitteolcheoreom haneul wireul naradanine<br>Could you tell could you tell<br><br>Nae mami haru jongil handongan singsungsaengsung hadeoni<br>Ireoryeogo geuraetdeon geol<br>Naui maeum hanjjoge ungkeuryeotdeon gamjeongi<br>Gipeun jameseo kkaeeonasseo<br><br>Neoreul saenggakhamyeon heundeullineun namudeulgwa<br>Neoreul bol ttaemada doraganeun baramgaebi<br>Igeon naega neoreul manhi johahandan jeunggeo<br><br>Eojjeol suga eopseo nan tiga na eolgure (oh you)<br>Nado mollae bori tto meonjeo balgeure (yeah, you)<br>Nareul hyanghae bureooneun neoui ipgime<br>(Nareul hyanghae bureooneun)<br>Heundeullyeo heundeullyeo<br><br>Windy day windy day (woo, oh yeah)<br>Windy day windy day</font></p>"
+    },
+	
+	{
+      "id": 12,
+      "name_category": "OH MY GIRL",
+      "title": "YooA - Bon Voyage",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/YooA-Bon-Voyage.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Eoneu nal nan jogeum nasseon gose nuneul tteotji<br>Onmomen budeureoun teori jaranago<br>Meorien banjjagineun ppuri dodananeun<br>Geureon gotisanghan got<br><br>Deureobwa goun saedeurye jeo noraessori<br>Neukkyeo bwa maenbare danneun pure shinggeureoum<br>Jigeum nan taeeonaseo gajang jayuroun chumeul chweo<br>Nan chumeul chweo<br><br>Naneun chajagaryeo hae shinbiroun kkum<br>Seoro nuneul matchul ttae deo pureureudeon sup<br>Gajang nopeun jeolbyeoge ollaga soricheo<br>Meolli sesang jeopyeone nal gidarineun sup<br><br>Blue sky jeomjeom jiteojineun haneureul bwa<br>Boreumttal arae moyeodeuneun banditburi<br>Oraejeon seolleyeotteon eoneu Christmas-cheoreom<br>Nunbusheo cham nunbusheo<br><br>Gireul ireumyeon kiga keun namuege mureoyaji<br>Geudeureun eonjena meotjin dabeul algo isseo<br>Ije nan gajang na daun ge mueosinji<br>Algesseo jal algesseo<br><br>Naneun chajagaryeo hae shinbiroun kkum<br>Seoro nuneul matchul ttae deo pureureudeon sup<br>Gajang nopeun jeolbyeoge ollaga soricheo<br>Meolli sesang jeopyeone nal gidarineun sup<br><br>Naneun chajagaryeo hae shinbiroun kkum<br>Meolli sesang jeopyeone nal gidarineun sup<br>I wanna be with you</font></p>"
+    },
+	
+	{
+      "id": 13,
+      "name_category": "OH MY GIRL",
+      "title": "YooA - Lay Low",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/YooA-Lay-Low.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Dalkomhan buljangnan cheoreopdeon nae mam<br>Saeparan puljang nunbusin haebyeon<br>Saemsonneun jiltu neomchideon aejeong<br>Geurae nan bunmyeong sarangeul haesseo<br><br>Nae mameul nuga gajiryeogo soneul ppeodeul ttae<br>Nan daranago sipeojyeo kkok chajeul su eopge<br>Tteugeopdeon yeoreumnaldo annyeong<br>Tonight, I lay low, I lay low<br><br>Aljana nan sunsuhago balchikan geo<br>Negen neomu ajjilhago haeroun geo<br>Geu nugudo gamdanghal su eopdeon aeran geo<br>Tonight, I lay low, I lay low<br><br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br><br>Yeonghwa gateun jangmyeon wigiwa jeoljeong<br>Geu dame ije nameun geon mwolkka<br>Nunmureul ssotgo heomhan kkol bogo<br>Geureon geotkkajin wonhaji ana<br><br>I sarangiran noriga mak jinjihaejil ttae<br>Nan geumandugo sipeojyeo da sisihage dwae<br>Tteugeopdeon yeoreumnaldo annyeong<br>Tonight, I lay low, I lay low<br><br>Aljana nan sunsuhago balchikan geo<br>Negen neomu ajjilhago haeroun geo<br>Geu nugudo gamdanghal su eopdeon aeran geo<br>Tonight, I lay low, I lay low<br><br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br><br>Aljana nan tteugeopgo tto chagaun geo<br>Alsurok deo al su eomneun aeraneun geo<br>Mianhande yeogikkaji geuge jokesseo<br>Tonight, I lay low, I lay low<br><br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low<br>I lay, lay, lay, lay, lay, lay, lay<br>Lay, lay, lay, lay, lay, lay, lay, lay, lay<br>Low, low, low, low</font></p>"
+    },
+	
+	{
+      "id": 14,
+      "name_category": "OH MY GIRL",
+      "title": "YooA - Melody",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/YooA-Melody.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Barame sireoseo nallin<br>Igeon neol bureuneun norae<br>Han beondo daeun jeok eomneun<br>Geugose deryeodajulge<br>Eoseo bajjak baenmeorireul dollyeo<br>Aseulhage sokdoreul deo ollyeo<br>Sunhangeun kkeunnasseo, baby<br><br>Taeyange saljjak geueullin pibuwa<br>Areumdapge heunnallineun meorikal<br>Geu jasingam<br>Jiteun angae wi<br>Igeon neoreul yuhokaneun moksori<br>It's so bittersweet<br><br>Ne mameul humchil naui melody<br>Humchyeo kkokkkok sumgyeodwoyaji (Oh-oh)<br>Jijunghae meonbada gipi<br>Jeoldae chatji mothage<br>Neol hyanghae kkochil naui melody<br>Imi heumppeok ppajyeobeoryeotji (Oh-oh)<br>Doraganeun beobeul allyeojulkka?<br>It's too late for that<br><br>I'm so addictive, you'll never quit it<br>Somuneun iki deureobwatgetji<br>Like baby, baby, baby, nal saranghagetji?<br>Dareun modeun baetsarami geuraetdeusi<br>Ah, yeah, jeo badaran ge geureochana<br>Samkil deusi geochildaga<br>Da geojinmalgachi goyohaejijanni?<br><br>Jebeop tantanhan geu eokkaewa<br>Yamangeuro illeongineun nundongja<br>Geu yongmaengham<br>Nopeun pado wi<br>Igeon neoreul yuhokaneun moksori<br>It's so bittersweet<br><br>Ne mameul humchil naui melody<br>Humchyeo kkokkkok sumgyeodwoyaji (Oh-oh)<br>Jijunghae meonbada gipi<br>Jeoldae chatji mothage<br>Neol hyanghae kkochil naui melody<br>Imi heumppeok ppajyeobeoryeotji (Oh-oh)<br>Doraganeun beobeul allyeojulkka?<br>It's too late for that<br><br>Tteonalkka?<br>Seom jeonchee kkothyanggiga gadeukan<br>Geu paradise<br>Kkaman bawi mit<br>Igeon neoreul yuhokaneun moksori<br>It's so bittersweet<br><br>Ne mameul humchil naui melody<br>Humchyeo kkokkkok sumgyeodwoyaji (Oh-oh)<br>Jijunghae meonbada gipi<br>Jeoldae chatji mothage<br>Neol hyanghae kkochil naui melody<br>Imi heumppeok ppajyeobeoryeotji (Oh-oh)<br>Doraganeun beobeul allyeojulkka?<br>It's too late for that</font></p>"
+    },
+	
+	{
+      "id": 15,
+      "name_category": "OH MY GIRL",
+      "title": "YooA - Selfish",
+      "image": "file:///android_asset/image/OHMYGIRL.jpg",
+      "link_mp3": "mp3/YooA-Selfish.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br><br>Samage on deusi sumi teokago makyeo<br>Malmuni jakku makyeo neoui geu taedoe naneun<br>Neurige gamdeusi uyubudanhan seonggyeok<br>Ihaereul hal suga eopseo<br>Wae geureoneunji moreugesseo naneun<br><br>Yokjo soge damgin naui mami<br>Innaesimi badangnago itjanni<br>Yuyuhi tto heeomchyeo neon selfish<br>Gamhi nal gatgo heundeureo<br><br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br><br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae<br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae<br><br>Ne mameul neo anim daeche nuga ani<br>Dodaeche eonjekkaji siganeul kkeureoya hani<br>Animyeon neo hoksi nugureul goeropimyeo<br>Jeulgeowohaneun geureon nappeun chwimiga inna<br><br>Yokjo soge damgin naui mami<br>Innaesimi badangnago itjanni<br>Yuyuhi tto heeomchyeo neon selfish<br>Gamhi nal gatgo heundeureo<br><br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br><br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae<br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae<br><br>Jom jom jom jom jom jo-jom jom<br>Jom jom jom jom jom jo-jom jom<br>Jom jom jom jom jom jo-jom jom<br>Jom jom jom jom jom jo-jom jom<br>Jom jom jom jom jom jo-jom jom<br>Jom jom jom jom jom jo-jom jom<br><br>Neoreul ppanhi boneun naui nunbit<br>Yeonghonkkaji daranago itjanni<br>Hoksi neodo sarangimyeon ppalli<br>Naui ipsureul dadajwo<br><br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br>I want U, babe, I want U<br>I want U, babe, I want U<br>I want U, babe, I want U<br>Go, want U, go, go<br><br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae<br>Jota silta anim jeongmal moreugesseum moreundago hae<br>Hwaksilhi hae</font></p>"
+    }
+  ]
+}
