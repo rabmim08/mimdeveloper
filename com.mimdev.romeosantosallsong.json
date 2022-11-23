@@ -1,0 +1,122 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ROMEO SANTOS",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ROMEO SANTOS",
+      "title": "Bebo",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Bebo.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000><br><br><br> <br> <br>Letra de &quot;Bebo&quot;<br>Romeo Santos Lyrics<br>Follow Romeo Santos<br>on Bandsintown<br>&quot;Bebo&quot;<br><br>Otra copa 'e Brugal<br>Hasta acabar la mercanc&iacute;a y mi alma emborrachar<br>Que me vean llorar<br>Alguien llame la ambulancia, que en esta cantina me vo' a desangrar<br><br>Y bebo<br>Porque te amo y te odio<br>Creo en Dios, pero te quiero en el infierno<br>Si me enga&ntilde;as una vez, la culpa es tuya, la segunda soy pendejo<br>Me traicionaste, no pensaste en nuestros ni&ntilde;os<br>Por tu culpa, ahora quiero<br>Dejar mi vida en un bar<br><br>Maldito sentimiento<br><br>Cantinero, eche m&aacute;s<br>La cuenta hoy la pagas t&uacute;, y tambi&eacute;n mi funeral<br>Un aviso final<br>Alguien llame la ambulancia, que en esta cantina me vo' a desangrar<br><br>Y bebo<br>Porque te amo y te odio<br>Creo en Dios, pero te quiero en el infierno<br>Si me enga&ntilde;as una vez, la culpa es tuya, la segunda soy pendejo<br>Me traicionaste, no pensaste en nuestros ni&ntilde;os<br>Por tu culpa, ahora quiero<br>Dejar mi vida en un bar<br><br>Llena<br>Ay, ChiChi<br>Se le fue la mano, &iquest;eh?<br>Mmm, mira<br>Yo s&eacute; que estoy un poco ebrio<br>Pero el borracho siempre habla la verdad<br><br>T&uacute; me has traicionado, voy a tomarme cincuenta litros<br>Y Romeo junior va a terminar siendo huerfanito<br>Y dile a la ni&ntilde;a que su mam&aacute; fue una desgracia'<br>Falta de respeto, pegaste cuernos a su pap&aacute;<br><br>Y bebo, y bebo hasta morir<br>Y bebo, y bebo hasta morir<br>Y bebo, y bebo hasta morir<br>Y bebo, y bebo hasta morir<br>Ey, ey, agarren a ese hombre<br>No me toque', no me toque'</font></p>"
+    },
+
+    {
+      "id": 2,
+      "name_category": "ROMEO SANTOS",
+      "title": "El Farsante Remix",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/El-Farsante-Remix.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Ozuna:]<br>This is a Golden Remix<br>King<br><br>[Romeo Santos:]<br>Calculan que relaciones que fracasan mayormente es por desenga&ntilde;o<br>Falsedad que contamina y hace da&ntilde;o<br>T&uacute; fuiste perfecto clavel que con mis manos marchit&eacute;<br>Mi obra se llama &quot;Romeo sin Julieta otra vez&quot;<br>Puedes pensar &quot;Soy el rey de las mentiras, volver&iacute;a a fallar&quot;<br>Aunque lo jure por mi vida<br>Mis palabras no importan ni valen ni de rodilla na' 'e na'<br>Dice que has visto muchas novelas, el actor debe llorar<br><br>No, &iquest;ahora qu&eacute; hago?<br>Ozuna y yo somos farsantes, nos ahogamo' en el fracaso<br>No, no juro en vano<br>Jam&aacute;s yo vuelvo a ser infiel con chapeadoras, yo te amo<br>No, esc&uacute;chame esa pena que siento<br>Voy a hacer otro disco con Aventura y te lo dedico enterito<br><br>[Ozuna:]<br>Beb&eacute;, si todav&iacute;a me amas como antes<br>Ya nada me parece interesante<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>[Romeo Santos:]<br>Si todav&iacute;a me amas como antes<br>Ya nada me parece interesante<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>[Ozuna:]<br>Yo sin ti yo no me vuelvo a enamorar<br>No s&eacute; ni que pensar<br>Ya s&eacute; por qu&eacute; todo me sale mal<br>Ment&iacute; dici&eacute;ndote que era leal<br>Siendo un amor real, le pido a Dios me pueda perdonar<br>No quiero que te vayas, vamo' a intentarlo<br>&iquest;Por qu&eacute; no salvamos nuestra relaci&oacute;n?<br>T&uacute; sabe', beb&eacute;, perdona, beb&eacute;<br><br>[Romeo Santos:]<br>Ey beb&eacute;<br>Si todav&iacute;a me amas como antes<br>Ya nada me parece interesante<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>[Ozuna:]<br>Si todav&iacute;a me amas como antes<br>Ya nada me parece interesante (-sante)<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>Extra&ntilde;o tu aroma en la cama (ehh)<br>De ese que dejas cuando entras y sales<br>Donde quedaron los besos y todos los planes (oh-oh-oh)<br>No s&eacute; si vivir o morir<br>Me encuentro en un limbo desde que te fuiste de aqu&iacute; (oh-oh-oh)<br>Eres la &uacute;nica persona que yo quiero que se venga encima de m&iacute;<br>Mi libertad no la quiero, tampoco la vida 'e soltero<br>Yo lo que quiero es que quieras lo mismo que todos queremos<br>Tener una cuenta de banco con d&iacute;gito' y muchos cero' (ehhh)<br>Hacer el amor a diario y de paso gastar el dinero<br><br>[Romeo Santos:]<br>Dime beb&eacute;, si todav&iacute;a me amas como antes<br>Ya nada me parece interesante<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>[Ozuna:]<br>Si todav&iacute;a me amas como antes<br>Ya nada me parece interesante<br>Yo s&eacute; que en el amor soy un farsante<br>Yo sin ti no vuelvo a enamorarme, beb&eacute;<br><br>[Romeo Santos:]<br>How to do it<br>Golden Remix<br>The King</font></p>"
+    },
+	
+	{
+      "id": 3,
+      "name_category": "ROMEO SANTOS",
+      "title": "El Panuelo",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/El-Panuelo.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Mi cantar<br>Mi canto es un lamento<br>Ay, porque estoy enamora'<br>Y no soy correspondida<br>Destroza' estoy por dentro<br><br>Un cigarrillo me acompa&ntilde;a al abismo<br>Igual que t&uacute;, no tengo suerte en el amor<br>Amar a ciegas te quita poder<br>Pone en riesgo al coraz&oacute;n, da&ntilde;ando sentimientos<br><br>Un lunes se march&oacute;<br>A las 6:24, yo dormida, de m&iacute; no se despidi&oacute;<br>Y hoy derramo cada l&aacute;grima en tu pecho<br>No eres &eacute;l, pero quiero un beso<br><br>Te incito<br>A aliviarnos las penas y curarnos en la cama<br>Te admito<br>Baby, si haces que lo olvide<br>Puede que vuelva ma&ntilde;ana<br>Te aseguro, mami, ser&eacute; el pa&ntilde;uelo<br>Mata la angustia aqu&iacute; en mi cuerpo<br>Papi, dame un consuelo<br>Si eres la cura, quiero tu cuerpo<br><br>(Escucha las palabras)<br>(De Romeo)<br><br>No hubo un mensaje ni hubo una nota en la mesa<br>Ese cabr&oacute;n solo dej&oacute; su poloch&eacute;<br>Amar a ciegas te quita poder<br>Pero esta noche nos elevamos pa'l cielo<br><br>Te incito<br>A aliviarnos las penas y curarnos en la cama<br>Te admito<br>Baby, si haces que lo olvide<br>Puede que vuelva ma&ntilde;ana<br>Te aseguro, mami, ser&eacute; el pa&ntilde;uelo<br>Mata la angustia aqu&iacute; en mi cuerpo<br>Papi, dame un consuelo<br>Si eres la cura, quiero tu cuerpo<br><br>Ja<br>&iquest;A ti te gusta mi bachata, nena?<br>Aj&aacute;<br>La ROSAL&Iacute;A<br>Jejeje<br><br>Es evidente que pasamos por lo mismo<br>Pero nadie ha mor&iacute;o por amor<br>Esta noche ven, ref&uacute;giate en mis brazos<br>Desqu&iacute;tate con rabia pasional<br>No es casual que nos hayamos encontrao'<br><br>Te incito<br>A aliviarnos las penas y curarnos en la cama<br>Te admito<br>Baby, si haces que lo olvide<br>Puede que vuelva ma&ntilde;ana<br>Te aseguro, mami, ser&eacute; el pa&ntilde;uelo<br>Mata la angustia aqu&iacute; en mi cuerpo<br>Papi, dame un consuelo<br>Si eres la cura, quiero tu cuerpo<br><br>Vamo'<br></font></p>"
+    },
+	
+	{
+      "id": 4,
+      "name_category": "ROMEO SANTOS",
+      "title": "Eres Mia",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Eres-Mia.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Ya me han informado que tu novio es un ins&iacute;pido aburrido<br>T&uacute; que eres fogata y el tan fr&iacute;o<br>Dice tu amiguita que es celoso no quiere que sea tu amigo<br>Sospecha que soy un pirata y robare su flor<br><br>No te asombres<br>Si una noche<br>Entro a tu cuarto y nuevamente te hago m&iacute;a<br>Bien conoces<br>Mis errores<br>El ego&iacute;smo de ser due&ntilde;o de tu vida<br>Eres m&iacute;a (m&iacute;a m&iacute;a)<br>No te hagas la loca eso muy bien ya lo sabias<br><br>Si tu te casas<br>El d&iacute;a de tu boda<br>Le digo a tu esposo con risas<br>Que solo es prestada<br>La mujer que ama<br>Porque sigues siendo m&iacute;a (m&iacute;a)<br><br>You won't forget Romeo<br>Ah ah<br>Gostoso<br><br>Dicen que un clavo saca un clavo pero eso es solo rima<br>No existe una herramienta que saque mi amor<br><br>No te asombres<br>Si una noche<br>Entro a tu cuarto y nuevamente te hago m&iacute;a<br>Bien conoces<br>Mis errores<br>El ego&iacute;smo de ser due&ntilde;o de tu vida<br>Eres m&iacute;a (m&iacute;a m&iacute;a)<br>No te hagas la loca eso muy bien ya lo sabias<br><br>Si tu te casas<br>El d&iacute;a de tu boda<br>Le digo a tu esposo con risas<br>Que solo es prestada<br>La mujer el que ama<br>Porque sigues siendo m&iacute;a (m&iacute;a m&iacute;a m&iacute;a)<br><br>Te deseo lo mejor<br>Y el mejor soy yo<br>The King<br><br>You know your heart is mine<br>And you'll love me forever<br>You know your heart is mine<br>And you'll love me forever<br><br>Baby your heart is mine<br>And you'll love me forever<br>Baby your heart is mine<br>And you'll love me forever<br><br>No te asombres<br>Si una noche<br>Entro a tu cuarto y nuevamente te hago m&iacute;a<br>Bien conoces<br>Mis errores<br>El ego&iacute;smo de ser due&ntilde;o de tu vida<br>Eres m&iacute;a (m&iacute;a m&iacute;a m&iacute;a)<br>No te hagas la loca eso muy bien ya lo sabias<br><br>Si tu te casas<br>El d&iacute;a de tu boda<br>Le digo a tu esposo con risas<br>Que solo es prestada<br>La mujer el que ama<br>Porque sigues siendo m&iacute;a</font></p>"
+    },
+	
+	{
+      "id": 5,
+      "name_category": "ROMEO SANTOS",
+      "title": "Imitadora",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Imitadora.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hey<br>Who are you?<br><br>Mi memoria ha conservado lo que se ha llevado el viento<br>Y yo estoy estancado en esos tiempos<br>Cuando t&uacute; me amabas y con gran fulgor sent&iacute;a tus besos<br>Dime, qu&iacute;tame esta duda<br><br>&iquest;Qui&eacute;n es esta extra&ntilde;a que se ha apoderado de tu ser?<br>&iquest;D&oacute;nde est&aacute; la amante loca que me erizaba la piel?<br>Porque ya t&uacute; no me tocas como lo hac&iacute;a esa mujer<br>Algo no anda bien<br><br>Escucha las palabras de Romeo<br><br>Esta noche me hago el interrogante<br>Y le pongo fin a la impostora, usurpadora<br>Exijo contigo una entrevista<br>Sospecho plagio a mi se&ntilde;ora, mala imitadora<br><br>Dime, tengo unas preguntas<br>&iquest;D&oacute;nde fue bajo la lluvia que te di ese primer beso?<br>Dime tambi&eacute;n, rel&aacute;tame el momento<br>N&uacute;mero de alojamiento donde yo te hice mujer<br><br>Conf&iacute;rmame<br>&iquest;Qu&eacute; me enciende en el sexo?<br>&iquest;Qu&eacute; me encanta de tu cuerpo?<br>Nuestra primera aventura<br><br>Quiero detalles<br>&iquest;Ser&aacute; tu cuello o el ombliguito,<br>Tu punto favorito?<br>Porque yo s&iacute; s&eacute; cual es<br><br>Si en verdad eres la original, demuestr&aacute;melo ahora<br><br>Esta noche me hago el interrogante<br>Y le pongo fin a la impostora, usurpadora<br>Exijo contigo una entrevista<br>Sospecho plagio a mi se&ntilde;ora, mala imitadora<br><br>Dime, tengo unas preguntas<br>&iquest;D&oacute;nde fue bajo la lluvia que te di ese primer beso?<br>Dime tambi&eacute;n, rel&aacute;tame el momento<br>N&uacute;mero de alojamiento donde yo te hice mujer<br><br>Conf&iacute;rmame<br>&iquest;Qu&eacute; me enciende en el sexo?<br>&iquest;Qu&eacute; me encanta de tu cuerpo?<br>Nuestra primera aventura<br><br>Quiero detalles<br>&iquest;Ser&aacute; tu cuello o el ombliguito,<br>Tu punto favorito?<br>Porque yo s&iacute; s&eacute; cual es<br><br>Si en verdad eres la original, demu&eacute;stramelo ahora<br><br>T&uacute; no eras as&iacute; cuando te conoc&iacute;<br>The King<br>Tell me where she's at?<br><br>&iquest;Qui&eacute;n es esta imitadora hoy en su lugar?<br>Tell me where she's at?<br>Yo la extra&ntilde;o &iquest;a d&oacute;nde se me perdi&oacute;?<br>Tell me where she's at?<br>Que regrese mi amada porque t&uacute;<br>No eres t&uacute;</font></p>"
+    },
+	
+	{
+      "id": 6,
+      "name_category": "ROMEO SANTOS",
+      "title": "La Diabla/Mi Santa",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/La-Diabla-Mi-Santa.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Are you ready to play<br><br>Oh yeah<br><br>Aposte los sentimientos y jugu&eacute; a fuego lento con amor<br>Me enfrente a la competencia olvidando su indolencia<br>Hay fue mi error, por complejo de quijote fui llevando este<br>Derroche de mal a peor ni el de la ruleta rusa m&iacute; rival que es tan astuta<br>As&iacute; se aprovecho y como ven no soy un &aacute;ngel con buena intuici&oacute;n<br>Me lance a quema ropa y ella me venci&oacute;<br><br>Perd&iacute; jugu&eacute; con una diabla que es experta en esos juegos del amor y perd&iacute;<br>Sus fichas y barajas no les fallan mas no tiene compasi&oacute;n, perd&iacute; no fui el primero<br>Ni ultimo que pierde, y si ella retornara y se conmueve la reto a otro duelo y<br>En la revancha vuelvo y pierdo el coraz&oacute;n.<br><br>Escucha las palabras De Romeo<br><br>The King stay Kings yes sir.<br><br>Llora<br><br>Y como ven no soy un &aacute;ngel con buena intuici&oacute;n<br>Me lance a quema ropa y ella me venci&oacute;<br><br>Perd&iacute; jugu&eacute; con una diabla que es experta en esos juegos del amor y perd&iacute;<br>Sus fichas y barajas no les fallan mas no tiene compasi&oacute;n, perd&iacute; no fui el primero<br>Ni ultimo que pierde, y si ella retornara y se conmueve la reto a otro duelo y<br>En la revancha vuelvo y pierdo el coraz&oacute;n.<br><br>Perd&iacute; jugu&eacute; con una diabla que es experta en esos juegos del amor y perd&iacute;<br>Sus fichas y barajas no les fallan mas no tiene compasi&oacute;n, perd&iacute; no fui el primero<br>Ni ultimo que pierde, y si ella retornara y se conmueve la reto a otro duelo y<br>En la revancha you lose.</font></p>"
+    },
+	
+	{
+      "id": 7,
+      "name_category": "ROMEO SANTOS",
+      "title": "Propuesta Indecente",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Propuesta-Indecente.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Hola, me llaman, Romeo<br>Es un placer conocerla<br><br>Qu&eacute; bien te ves<br>Te adelanto no me importa qui&eacute;n sea &eacute;l<br>D&iacute;game usted si ha hecho algo travieso alguna vez<br>Una aventura es m&aacute;s divertida si huele a peligro<br><br>Si te invito una copa y me acerco a tu boca<br>Si te robo un besito<br>A ver, &iquest;te enojas conmigo?<br>Qu&eacute; dir&iacute;as si esta noche te seduzco en mi coche<br>Que se empa&ntilde;en los vidrios<br>Y la regla es que goces<br>Si te falto el respeto y luego culpo al alcohol<br>Si levanto tu falda me dar&iacute;as el derecho<br>A medir tu sensatez<br>Poner en juego tu cuerpo<br>Si te parece prudente esta propuesta indecente<br><br>A ver, a ver<br>Perm&iacute;teme apreciar tu desnudez<br>(Take it off...)<br>Rel&aacute;jate que este Martini calmar&aacute; tu timidez (Don't be shy...)<br>Y una aventura es m&aacute;s divertida si huele a peligro<br><br>Si te invito una copa y me acerco a tu boca<br>Si te robo un besito<br>A ver, &iquest;te enojas conmigo?<br>Que dir&iacute;as si esta noche te seduze con mi coche<br>Que se empa&ntilde;en los vidrios<br>Y la regla es que goces<br>Si te falto el respeto y luego culpo al alcohol<br>Si levanto tu falda me dar&iacute;as el derecho<br>A medir tu sensatez<br>Poner en juego tu cuerpo<br>Si te parece prudente esta propuesta indecente<br><br>I'm back, it feels good to be king<br>(Hey, listen, I know what you like...)<br>How about if you and I<br>Me and you<br>Bailamos bachata<br>Y luego<br>You and I<br>Me and you<br>Terminamo en la cama (Qu&eacute; rico...)<br><br>How about if you and I<br>Me and you<br>Bailamos bachata<br>(Ayy bailamos bachata...)<br>Y luego<br>You and I<br>Me and you<br>Terminamo en la cama (Terminamo en la cama)<br>How about if you and I (You and I...)<br>Me and you (Me and you...)<br>You and I (You and I...)<br>Me and you (You...)<br>You and I (You and I...)<br>Me and you<br>(I'm a bad boy)<br>Me and you (You...)<br>(Ayyy chi chi...)<br>(Llora guitarra...)<br>(Llora...)</font></p>"
+    },
+	
+	{
+      "id": 8,
+      "name_category": "ROMEO SANTOS",
+      "title": "Sin Fin",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Sin-Fin.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>You already know this love is all yours, baby<br>So, take it<br>We've been here before<br>It's strong enough to save us<br>Oh, baby<br><br>Lo que tenga que hacer por nosotros, har&eacute; lo que pidas<br>Dispuesto a humillarme por ti<br>Toco fondo en mi vida<br><br>Escucha<br><br>Can't avoid it<br>Can't escape my love 'cause it's yours<br>Even if you walk out the door<br>It'll chase you, lover<br>(A donde vayas)<br>Ni me queda sudor<br>Agotado, agitado sin voz<br>Es la muestra que yo por tu amor<br>He luchado con vigor<br><br>You already know this love is all yours, baby<br>So, take it<br>We've been here before<br>It's strong enough to save us<br>Oh, baby<br><br>Dios me dio este coraz&oacute;n y su prioridad es latir por ti<br><br>If it takes my life it's fine<br>I'll gladly go to war<br><br>Te voy a seguir amando sin fin<br><br>Oh, dance<br>(&iexcl;Wuh!)<br>Oh, dance<br>Turn the lights off<br><br>&iquest;Qu&eacute; m&aacute;s hago?<br>Es mi posici&oacute;n<br>I am yours<br>Si me dejas por un error<br>That would drive me crazy<br><br>Yo te amo, siempre t&uacute;<br>Eres mi reina, mi luz<br>Mami, te canto mi canci&oacute;n<br>Si t&uacute; me dejas muero de dolor<br><br>You already know this love is all yours baby<br>So, take it<br>We've been here before<br>It's strong enough to save us<br>Oh, baby<br><br>Dios me dio este coraz&oacute;n y su prioridad es latir por ti<br><br>If it takes my life it's fine<br>I'll gladly go to war<br><br>Te voy a seguir amando sin fin<br><br>Dice la gente, jam&aacute;s te arrepentir&aacute;s de ser valiente<br>Te protejo sin temor eternamente<br>Lo vuelvo a decir<br>&iquest;Qu&eacute; no har&iacute;a por ti?<br><br>You already know this love is all yours, baby<br>So, take it<br>We've been here before<br>It's strong enough to save us<br>Oh, baby<br><br>Dios me dio estecoraz&oacute;n y su prioridad es latir por ti<br><br>If it takes my life it's fine<br>I'll gladly go to war<br><br>Te voy a seguir amando sin fin<br><br>Oh, dance<br>(&iexcl;Wuh!)<br>Oh, dance<br>Y'all can't do it like we do it<br>Two kings<br></font></p>"
+    },
+	
+	{
+      "id": 9,
+      "name_category": "ROMEO SANTOS",
+      "title": "Sobredosis",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Sobredosis.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>[Romeo Santos:]<br>Cu&aacute;l es el misterio entre medio de tus piernas<br>Que enloquece mi cordura, uh<br>Eres un volc&aacute;n de sensaciones<br>Cada c&eacute;lula en tu ser compone ricura<br><br>Y puedo morir encima de tu cuerpo<br>Amarrado a tu cama, sobredosis de sexo<br><br>T&uacute; eres el pecado m&aacute;s divino<br>Una v&iacute;bora sexual en calentura<br>Me embeleses con tus t&eacute;cnicas perversas<br>Si te vieran, censuraran tu cintura<br>Tiemblo al sentir tu narc&oacute;tico efecto<br>Que se me exploten los sesos, del placer tan intenso<br><br>[Ozuna, Romeo Santos:]<br>Am&aacute;rrame a tu espalda, yo me presto<br>En tu escuelita dame clases de placer<br>Beb&eacute;, yo quiero ser un alumno en tu pecho<br>Voy a volver a mi ni&ntilde;ez<br>Quiero morir en tu interior, juro que me perdone Dios<br>Si estar contigo es un delito, hago mil a&ntilde;os en presi&oacute;n<br>Ya adivinaste el crucigrama, mi ninf&oacute;mana en llamas<br>Sabes bien soy bellaquito y t&uacute; eres provocaci&oacute;n<br><br>(Who's back?)<br><br>[Romeo Santos:]<br>Y puedo morir encima de tu cuerpo<br>Amarrado a tu cama, sobredosis de sexo<br><br>[Ozuna, Romeo Santos:]<br>Am&aacute;rrame a tu espalda, yo me presto<br>En tu escuelita dame clases de placer<br>Beb&eacute;, yo quiero ser un alumno en tu pecho<br>Voy a volver a mi ni&ntilde;ez<br>Quiero morir en tu interior, juro que me perdone Dios<br>Si estar contigo es un delito, hago mil a&ntilde;os en presi&oacute;n<br>Ya adivinaste el crucigrama, mi ninf&oacute;mana en llamas<br>Sabes bien soy bellaquito y t&uacute; eres provocaci&oacute;n<br><br>Salvaje (T&uacute; eres)<br>Er&oacute;tica, una aberraci&oacute;n<br>Y yo ser&eacute; tu esclavo<br>Y si es a tu lado (Muero feliz)<br><br>[Romeo Santos:]<br>Y puedo morir encima de tu cuerpo<br>Amarrado a tu cama, sobredosis de sexo</font></p>"
+    },
+	
+	{
+      "id": 10,
+      "name_category": "ROMEO SANTOS",
+      "title": "Sus Huellas",
+      "image": "file:///android_asset/image/ROMEOSANTOS.jpg",
+      "link_mp3": "mp3/Sus-Huellas.mp3",
+      "lyrics": "<p style=\"text-align: center;\"><font color=#000000>Antes que desnude el coraz&oacute;n<br>Te advierto que lo tengo con heridas<br>Que mi pasado oscuro fue una mujer<br>Y necesito ahora borrarla de mi vida<br><br>Antes que termine esta canci&oacute;n<br>Espero que tomes la iniciativa<br>A deshacerme estragos de dolor<br>A sacarme sus secuelas de mi cuerpo<br>Tantas noches que fui suyo, a&uacute;n la siento<br><br>Ven arr&aacute;ncame sus huellas<br>Aunque quede en carne viva con la piel hecha pedazos<br>Ven arr&aacute;ncame las venas<br>Porque el plasma en mi interior tiene veneno de su amor<br>Y toma este encendedor<br>Quiero que quemes mis labios<br>Elim&iacute;name el sabor<br>Que su lengua me hizo da&ntilde;o<br><br>Ven arr&aacute;ncame sus huellas<br>Cada rastro en mi pellejo con un cuchillo<br>Ven arr&aacute;ncame estas penas<br>As&iacute; no queda nada de ella cuando est&eacute; contigo<br><br>Despu&eacute;s, cuando no me quede una lesi&oacute;n<br>Renazco un hombre nuevo y ser&eacute; tuyo<br>Mientras tanto dame tu aportaci&oacute;n<br>A sacarme sus secuelas de mi cuerpo<br>Tantas noches que fui suyo, a&uacute;n la siento<br><br>Ven arr&aacute;ncame sus huellas<br>Aunque quede en carne viva con mi piel hecha pedazos<br>Ven arr&aacute;ncame las venas<br>Porque el plasma en mi interior tiene veneno de su amor<br>Y toma este encendedor<br>Quiero que quemes mis labios<br>Elim&iacute;name el sabor<br>Que su lengua me hizo da&ntilde;o<br><br>Ven arr&aacute;ncame sus huellas<br>Cada rastro en mi pellejo con un cuchillo<br>Ven arr&aacute;ncame estas penas<br>As&iacute; no queda nada de ella cuando est&eacute;s conmigo<br><br>Arr&aacute;ncame todo<br>Quiero ser de ti<br>No quiero sus huellas<br>Prefiero morir<br><br>Arr&aacute;ncame todo<br>Quiero ser de ti<br>No quiero sus huellas<br></font></p>"
+    }
+  ]
+}
